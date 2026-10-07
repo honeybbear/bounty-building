@@ -111,6 +111,62 @@
    "title": "Commerce Bank checking bonus up to $1,000",
    "value_desc": "Up to $1,000 bonus",
    "verified": "2026-10-07"
+  },
+  {
+   "beat": "settlements",
+   "id": "telmate-2026",
+   "title": "Telmate $4.23M data breach settlement",
+   "category": "Class action",
+   "value_desc": "Pro rata cash payment + up to $5,000 documented losses",
+   "effort": "10 min",
+   "deadline": "2026-12-21",
+   "eligibility": "US residents whose info was impacted by the Telmate (Viapath) data breach on Aug 13, 2020 (~431,031 notified)",
+   "claim_url": "https://www.telmatedatabreachsettlement.com",
+   "proof_required": "notice-id",
+   "verified": "2026-10-07",
+   "source_note": "Verified 2026-10-07 via claimdepot.com + classaction.org (Kroll Settlement Administration LLC)"
+  },
+  {
+   "beat": "settlements",
+   "id": "cbiz-2026",
+   "title": "CBiz $485K data breach settlement",
+   "category": "Class action",
+   "value_desc": "Pro rata cash payment (est. $100) + up to $5,000 documented losses",
+   "effort": "10 min",
+   "deadline": "2026-12-24",
+   "eligibility": "Individuals who received a notice from CBiz Benefits & Insurance Services re the 2024 data breach (~19,990)",
+   "claim_url": "https://cbizdatabreachsettlement.com",
+   "proof_required": "notice-id",
+   "verified": "2026-10-07",
+   "source_note": "Verified 2026-10-07 via claimdepot.com (Simpluris Inc. administrator)"
+  },
+  {
+   "beat": "settlements",
+   "id": "trc-staffing-2026",
+   "title": "TRC Staffing $1.7M data breach settlement",
+   "category": "Class action",
+   "value_desc": "Up to $200 pro rata cash (no proof) OR up to $5,000 documented losses + $20/hr lost time (max 4 hrs)",
+   "effort": "10 min",
+   "deadline": "2026-12-22",
+   "eligibility": "US residents sent a notice by TRC that their info may have been compromised in the Mar 25-Apr 12, 2024 breach (~158,593)",
+   "claim_url": "https://trcdatasettlement.com",
+   "proof_required": "notice-id",
+   "verified": "2026-10-07",
+   "source_note": "Verified 2026-10-07 via classaction.org (court-approved settlement website)"
+  },
+  {
+   "beat": "settlements",
+   "id": "roseland-2026",
+   "title": "Roseland Community Hospital $650K data breach settlement",
+   "category": "Class action",
+   "value_desc": "Est. $50 cash (no proof) OR up to $5,000 documented losses + 1 yr medical records monitoring",
+   "effort": "10 min",
+   "deadline": "2026-12-31",
+   "eligibility": "Individuals notified by Roseland that their info may have been affected by the June 2, 2024 breach (~101,354)",
+   "claim_url": "https://roselandsettlement.com",
+   "proof_required": "notice-id",
+   "verified": "2026-10-07",
+   "source_note": "Verified 2026-10-07 via classaction.org (court-authorized settlement website)"
   }
  ]
 }

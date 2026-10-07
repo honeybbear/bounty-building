@@ -11,6 +11,8 @@ if not os.path.exists(P):
     print("no opportunities.json yet"); sys.exit(0)
 
 ops = json.load(open(P))
+if isinstance(ops, dict) and isinstance(ops.get("opportunities"), list):
+    ops = ops["opportunities"]
 today = datetime.date.today()
 changed, urgent, expired = False, [], []
 
