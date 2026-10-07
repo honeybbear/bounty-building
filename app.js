@@ -11,10 +11,10 @@ let TOUR = null, OPPS = [];
 let beatFilter = null, proofFilter = null;
 
 const BEAT_COLORS = {
-  "settlements": "#4cc9f0", "unclaimed-property": "#3ddc97", "bank-bonuses": "#ffd166",
-  "card-bonuses": "#f4a261", "utility-rebates": "#c77dff", "tax-credits": "#90be6d",
-  "grocery-cashback": "#f9844a", "employer-benefits": "#577590", "telecom-refunds": "#4d96a9",
-  "warranty-claims": "#9c6644"
+  "settlements-no-proof": "#4cc9f0", "settlements-breach": "#3a86ff", "settlements-new": "#8338ec",
+  "unclaimed-property": "#3ddc97", "bank-bonuses": "#ffd166", "utility-rebates": "#c77dff",
+  "tax-credits": "#90be6d", "grocery-cashback-apps": "#f9844a", "telecom-refunds": "#4d96a9",
+  "warranty-claims": "#9c6644", "employer-benefits": "#577590", "state-programs": "#ef476f"
 };
 const PROOF_LABEL = { "none": "No proof", "email-code": "Email code", "records": "Records needed", "notice-id": "Notice ID needed" };
 

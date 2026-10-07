@@ -1,7 +1,7 @@
 # Beat Playbook — Dusty Ferret's Breach Brigade
 
 ## Beat
-data-breach settlements
+settlements-breach (data-breach settlements)
 
 ## Primary sources (check every run)
 1. TopClassActions — data breach settlements — https://www.topclassactions.com — breach settlement listings with claim requirements

@@ -1,7 +1,7 @@
 {
  "opportunities": [
   {
-   "beat": "settlements",
+   "beat": "settlements-no-proof",
    "category": "Class action",
    "claim_url": "https://www.periodtrackerdataprivacylitigation.com",
    "deadline": "2026-10-15",
@@ -12,10 +12,11 @@
    "source_note": "Verified 2026-10-06 via openclassactions.com October 2026 roundup + USA Today 2026-10-05",
    "title": "Flo period tracker $59.5M settlement",
    "value_desc": "Pro rata share of $59.5M fund",
-   "verified": "2026-10-06"
+   "verified": "2026-10-06",
+   "verification": "secondary"
   },
   {
-   "beat": "settlements",
+   "beat": "settlements-no-proof",
    "category": "Class action",
    "claim_url": "https://vsl3lawsuit.com/",
    "deadline": "2026-10-20",
@@ -26,10 +27,11 @@
    "source_note": "Verified 2026-10-07 via classaction.org + Morningstar PR (Angeion Group administrator notice)",
    "title": "VSL#3 probiotic $20M settlement",
    "value_desc": "$20/unit, up to $800",
-   "verified": "2026-10-07"
+   "verified": "2026-10-07",
+   "verification": "primary"
   },
   {
-   "beat": "settlements",
+   "beat": "settlements-no-proof",
    "category": "Class action",
    "claim_url": "https://www.OverchargedForPork.com",
    "deadline": "2026-10-29",
@@ -40,10 +42,11 @@
    "source_note": "Verified 2026-10-07 via classaction.org + Morningstar PR (Epiq administrator)",
    "title": "Pork price-fixing $117M settlement",
    "value_desc": "Pro rata share of $117M fund",
-   "verified": "2026-10-07"
+   "verified": "2026-10-07",
+   "verification": "primary"
   },
   {
-   "beat": "settlements",
+   "beat": "settlements-no-proof",
    "category": "Class action",
    "claim_url": "https://www.PoolSettlementBW.com",
    "deadline": "2026-10-30",
@@ -54,10 +57,11 @@
    "source_note": "Verified 2026-10-07 via Morningstar PR notice + classaction.org (court-approved site PoolSettlementBW.com)",
    "title": "Bestway above-ground pools $15M settlement",
    "value_desc": "$40 without receipt, or 10% of price",
-   "verified": "2026-10-07"
+   "verified": "2026-10-07",
+   "verification": "primary"
   },
   {
-   "beat": "settlements",
+   "beat": "settlements-no-proof",
    "category": "Class action",
    "claim_url": "https://www.PersonalCareProductsSettlement.com",
    "deadline": "2026-11-27",
@@ -68,7 +72,8 @@
    "source_note": "Verified 2026-10-07 via fox5ny + PR Newswire court-authorized notice (Guzman v. Dr. Squatch)",
    "title": "Dr. Squatch $9M settlement",
    "value_desc": "$0.50/product, up to $12.50",
-   "verified": "2026-10-07"
+   "verified": "2026-10-07",
+   "verification": "primary"
   },
   {
    "beat": "unclaimed-property",
@@ -82,10 +87,11 @@
    "source_note": "Verified 2026-10-06 \u2014 official multi-state unclaimed property search (NAUPA-endorsed)",
    "title": "Unclaimed property (all 50 states)",
    "value_desc": "Varies \u2014 unclaimed amounts; some exceed $1,000",
-   "verified": "2026-10-06"
+   "verified": "2026-10-06",
+   "verification": "primary"
   },
   {
-   "beat": "settlements",
+   "beat": "settlements-new",
    "category": "Class action",
    "claim_url": "https://homebuyersettlement.com/en",
    "deadline": "2026-10-27",
@@ -96,7 +102,8 @@
    "source_note": "Verified 2026-10-07 via PR Newswire settlement notice + topclassactions.com (Tuccori v. NAR, $120.3M fund)",
    "title": "NAR homebuyer $120.3M settlement",
    "value_desc": "Pro rata share of $120.3M fund (est. $40\u2013$100 per claimant)",
-   "verified": "2026-10-07"
+   "verified": "2026-10-07",
+   "verification": "primary"
   },
   {
    "beat": "bank-bonuses",
@@ -110,10 +117,11 @@
    "source_note": "Verified 2026-10-07 via thecollegeinvestor.com Oct 2026 roundup + commercebank.com official disclosures",
    "title": "Commerce Bank checking bonus up to $1,000",
    "value_desc": "Up to $1,000 bonus",
-   "verified": "2026-10-07"
+   "verified": "2026-10-07",
+   "verification": "primary"
   },
   {
-   "beat": "settlements",
+   "beat": "settlements-breach",
    "id": "telmate-2026",
    "title": "Telmate $4.23M data breach settlement",
    "category": "Class action",
@@ -124,10 +132,11 @@
    "claim_url": "https://www.telmatedatabreachsettlement.com",
    "proof_required": "notice-id",
    "verified": "2026-10-07",
-   "source_note": "Verified 2026-10-07 via claimdepot.com + classaction.org (Kroll Settlement Administration LLC)"
+   "source_note": "Verified 2026-10-07 via claimdepot.com + classaction.org (Kroll Settlement Administration LLC)",
+   "verification": "secondary"
   },
   {
-   "beat": "settlements",
+   "beat": "settlements-breach",
    "id": "cbiz-2026",
    "title": "CBiz $485K data breach settlement",
    "category": "Class action",
@@ -138,10 +147,11 @@
    "claim_url": "https://cbizdatabreachsettlement.com",
    "proof_required": "notice-id",
    "verified": "2026-10-07",
-   "source_note": "Verified 2026-10-07 via claimdepot.com (Simpluris Inc. administrator)"
+   "source_note": "Verified 2026-10-07 via claimdepot.com (Simpluris Inc. administrator)",
+   "verification": "secondary"
   },
   {
-   "beat": "settlements",
+   "beat": "settlements-breach",
    "id": "trc-staffing-2026",
    "title": "TRC Staffing $1.7M data breach settlement",
    "category": "Class action",
@@ -152,10 +162,11 @@
    "claim_url": "https://trcdatasettlement.com",
    "proof_required": "notice-id",
    "verified": "2026-10-07",
-   "source_note": "Verified 2026-10-07 via classaction.org (court-approved settlement website)"
+   "source_note": "Verified 2026-10-07 via classaction.org (court-approved settlement website)",
+   "verification": "secondary"
   },
   {
-   "beat": "settlements",
+   "beat": "settlements-breach",
    "id": "roseland-2026",
    "title": "Roseland Community Hospital $650K data breach settlement",
    "category": "Class action",
@@ -166,7 +177,218 @@
    "claim_url": "https://roselandsettlement.com",
    "proof_required": "notice-id",
    "verified": "2026-10-07",
-   "source_note": "Verified 2026-10-07 via classaction.org (court-authorized settlement website)"
+   "source_note": "Verified 2026-10-07 via classaction.org (court-authorized settlement website)",
+   "verification": "secondary"
+  },
+  {
+   "beat": "settlements-new",
+   "id": "john-deere-2026",
+   "title": "John Deere $99M right-to-repair settlement",
+   "category": "Class action",
+   "value_desc": "Pro rata share of $99M fund",
+   "effort": "15 min",
+   "deadline": "2026-12-31",
+   "eligibility": "Purchased repair services from Deere or authorized dealers for John Deere large ag equipment (tractors, combines, etc.) Jan 10, 2018\u2013May 18, 2026",
+   "claim_url": "https://www.deererepairsettlement.com",
+   "proof_required": "notice-id",
+   "verified": "2026-10-07",
+   "verification": "secondary",
+   "source_note": "Verified 2026-10-07 via openclassactions.com + RFD-TV (official site DeereRepairSettlement.com, Angeion Group administrator)"
+  },
+  {
+   "beat": "settlements-new",
+   "id": "equifax-2026",
+   "title": "Equifax $100M credit-score error settlement",
+   "category": "Class action",
+   "value_desc": "Est. $95\u2013$280 pro rata cash payment",
+   "effort": "10 min",
+   "deadline": "2026-12-28",
+   "eligibility": "US consumers Equifax flagged as affected by its Mar 17\u2013Apr 8, 2022 credit-score coding error (~4M notified)",
+   "claim_url": "https://www.EquifaxFairCreditReportingSettlement.com",
+   "proof_required": "notice-id",
+   "verified": "2026-10-07",
+   "verification": "secondary",
+   "source_note": "Verified 2026-10-07 via openclassactions.com + USA Today + claimdepot.com (official site EquifaxFairCreditReportingSettlement.com, Verita administrator)"
+  },
+  {
+   "beat": "settlements-new",
+   "id": "apple-iphone-ai-2026",
+   "title": "Apple iPhone AI $250M settlement",
+   "category": "Class action",
+   "value_desc": "Est. $25\u2013$95 per device",
+   "effort": "10 min",
+   "deadline": "2026-12-21",
+   "eligibility": "Bought iPhone 15 Pro/Max or any iPhone 16 model in the US Jun 10, 2024\u2013Mar 29, 2025, not for resale; serial number needed",
+   "claim_url": "https://www.smartphoneaisettlement.com",
+   "proof_required": "records",
+   "verified": "2026-10-07",
+   "verification": "secondary",
+   "source_note": "Verified 2026-10-07 via foxnews.com + macrumors.com + claimdepot.com (official site smartphoneaisettlement.com)"
+  },
+  {
+   "beat": "settlements-new",
+   "id": "thinkware-2026",
+   "title": "Thinkware dashcam $850K settlement",
+   "category": "Class action",
+   "value_desc": "Pro rata share of $850K fund",
+   "effort": "10 min",
+   "deadline": "2026-12-14",
+   "eligibility": "Bought Thinkware X700, F200PRO, DC-M2-FG-IR, DC-M2-FG or F70PRO dashcam in the US Jan 25, 2019\u2013Aug 31, 2024",
+   "claim_url": "https://www.TWCameraSettlement.com",
+   "proof_required": "records",
+   "verified": "2026-10-07",
+   "verification": "primary",
+   "source_note": "Verified 2026-10-07 via PR Newswire court-authorized notice + classaction.org (official site TWCameraSettlement.com)"
+  },
+  {
+   "beat": "state-programs",
+   "id": "pa-rebate-2026",
+   "title": "PA Property Tax/Rent Rebate up to $1,000",
+   "category": "State program",
+   "value_desc": "Up to $1,000 rebate (up to $1,500 with supplement)",
+   "effort": "20 min",
+   "deadline": "2026-12-31",
+   "eligibility": "PA residents 65+, widows/widowers 50+, disabled 18+; 2025 household income under $48,110",
+   "claim_url": "https://www.mypath.pa.gov/",
+   "proof_required": "records",
+   "verified": "2026-10-07",
+   "verification": "primary",
+   "source_note": "Verified 2026-10-07 via PA Dept of Revenue (lasp.org) + PA Senate PTRR pages (official portal mypath.pa.gov)"
+  },
+  {
+   "beat": "state-programs",
+   "id": "ak-pfd-2027",
+   "title": "Alaska Permanent Fund Dividend",
+   "category": "State program",
+   "value_desc": "~$1,000/person/year (varies by year)",
+   "effort": "15 min",
+   "deadline": "2027-03-31",
+   "eligibility": "Alaska residents for the full prior calendar year who intend to remain; apply Jan 1\u2013Mar 31 each year",
+   "claim_url": "https://pfd.alaska.gov/Application/Filing-Period",
+   "proof_required": "records",
+   "verified": "2026-10-07",
+   "verification": "primary",
+   "source_note": "Verified 2026-10-07 via pfd.alaska.gov official + grantadvisorsusa.com"
+  },
+  {
+   "beat": "telecom-refunds",
+   "id": "lifeline-2026",
+   "title": "FCC Lifeline phone/internet discount",
+   "category": "Federal program",
+   "value_desc": "$9.25/mo phone/internet discount ($34.25 on tribal lands)",
+   "effort": "15 min",
+   "deadline": null,
+   "eligibility": "Income at/below 135% of federal poverty guidelines or on SNAP/Medicaid/SSI/Federal Public Housing/VA pension; one per household",
+   "claim_url": "https://www.lifelinesupport.org",
+   "proof_required": "records",
+   "verified": "2026-10-07",
+   "verification": "primary",
+   "source_note": "Verified 2026-10-07 via usac.org official + benefitguide.net"
+  },
+  {
+   "beat": "tax-credits",
+   "id": "eitc-2026",
+   "title": "Earned Income Tax Credit (EITC)",
+   "category": "Tax credit",
+   "value_desc": "Up to $8,231 refundable credit (2026)",
+   "effort": "30 min",
+   "deadline": "2027-04-15",
+   "eligibility": "Workers with 2026 earned income under IRS limits ($19,540\u2013$70,244 depending on filing status/children); must file a return",
+   "claim_url": "https://www.irs.gov/newsroom/earned-income-tax-credit-do-i-qualify",
+   "proof_required": "records",
+   "verified": "2026-10-07",
+   "verification": "primary",
+   "source_note": "Verified 2026-10-07 via irs.gov + jacksonhewitt.com (IRS Rev Proc 2025-32 figures)"
+  },
+  {
+   "beat": "employer-benefits",
+   "id": "pbgc-pensions",
+   "title": "PBGC unclaimed pension search",
+   "category": "Retirement benefits",
+   "value_desc": "Varies \u2014 PBGC holds $400M+ for 80,000+ people",
+   "effort": "15 min",
+   "deadline": null,
+   "eligibility": "Anyone who earned a pension at a company whose defined-benefit plan the PBGC took over; free name search",
+   "claim_url": "https://www.pbgc.gov/search/unclaimed-pensions",
+   "proof_required": "records",
+   "verified": "2026-10-07",
+   "verification": "primary",
+   "source_note": "Verified 2026-10-07 via dol.gov + beaconjournal.com"
+  },
+  {
+   "beat": "warranty-claims",
+   "id": "nhtsa-recalls",
+   "title": "NHTSA vehicle recall free repairs",
+   "category": "Recall remedy",
+   "value_desc": "Free recall repairs (often worth $100+)",
+   "effort": "5 min",
+   "deadline": null,
+   "eligibility": "Any US vehicle owner \u2014 enter VIN or license plate to check open recalls",
+   "claim_url": "https://www.nhtsa.gov/recalls/vehicle-safety-recalls-week",
+   "proof_required": "none",
+   "verified": "2026-10-07",
+   "verification": "primary",
+   "source_note": "Verified 2026-10-07 via nhtsa.gov official + consumeraffairs.com"
+  },
+  {
+   "beat": "grocery-cashback-apps",
+   "id": "ibotta-2026",
+   "title": "Ibotta grocery cash back",
+   "category": "Cashback app",
+   "value_desc": "Cash back per offer ($0.05\u2013$3+); cash out at $20",
+   "effort": "5 min",
+   "deadline": null,
+   "eligibility": "Anyone \u2014 free app, scan grocery receipts for participating offers",
+   "claim_url": "https://www.ibotta.com",
+   "proof_required": "records",
+   "verified": "2026-10-07",
+   "verification": "secondary",
+   "source_note": "Verified 2026-10-07 via fool.com review + Ibotta press release (ksbytv.marketminute.com)"
+  },
+  {
+   "beat": "grocery-cashback-apps",
+   "id": "fetch-2026",
+   "title": "Fetch Rewards receipt points",
+   "category": "Cashback app",
+   "value_desc": "Points per receipt, redeemable for gift cards",
+   "effort": "5 min",
+   "deadline": null,
+   "eligibility": "Anyone \u2014 free app, snap any receipt within 14 days",
+   "claim_url": "https://fetch.com/faq",
+   "proof_required": "records",
+   "verified": "2026-10-07",
+   "verification": "secondary",
+   "source_note": "Verified 2026-10-07 via Google Play listing + consumeraffairs.com"
+  },
+  {
+   "beat": "utility-rebates",
+   "id": "liheap-2026",
+   "title": "LIHEAP home energy assistance",
+   "category": "Federal program",
+   "value_desc": "Avg ~$676/household (Illinois 2025-26)",
+   "effort": "20 min",
+   "deadline": null,
+   "eligibility": "Low-income households responsible for heating/cooling costs; income limits vary by state (e.g., at/below 60% state median income)",
+   "claim_url": "https://energyhelp.us",
+   "proof_required": "records",
+   "verified": "2026-10-07",
+   "verification": "primary",
+   "source_note": "Verified 2026-10-07 via acf.gov/HHS + IL DCEO (find local application at energyhelp.us)"
+  },
+  {
+   "beat": "warranty-claims",
+   "id": "cpsc-recalls",
+   "title": "CPSC product recall refunds/repairs",
+   "category": "Recall remedy",
+   "value_desc": "Refund, free repair, or replacement per recall notice",
+   "effort": "10 min",
+   "deadline": null,
+   "eligibility": "Anyone owning a recalled consumer product \u2014 search brand/model; most recalls need no receipt",
+   "claim_url": "https://www.cpsc.gov/Recalls",
+   "proof_required": "records",
+   "verified": "2026-10-07",
+   "verification": "primary",
+   "source_note": "Verified 2026-10-07 via cpsc.gov official + getkeptapp.com"
   }
  ]
 }

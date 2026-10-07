@@ -1,7 +1,7 @@
 # Beat Playbook — Rusty Ferret's No-Proof Posse
 
 ## Beat
-no-proof consumer settlements
+settlements-no-proof (no-proof consumer settlements)
 
 ## Primary sources (check every run)
 1. OpenClassActions — no-proof settlements page — https://openclassactions.com — curated list of settlements needing no receipt or notice ID

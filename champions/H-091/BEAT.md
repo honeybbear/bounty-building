@@ -1,11 +1,13 @@
 # Beat Playbook — Calm Ferret's Early Warning Unit
 
 ## Beat
-new and emerging filings
+settlements-new (new and emerging filings)
 
 ## Primary sources (check every run)
 1. OpenClassActions news — https://openclassactions.com — new settlement announcements
 2. TopClassActions — https://www.topclassactions.com — new filing announcements
+3. PR Newswire court-authorized settlement notices — https://www.prnewswire.com — administrator-issued notices name the official claim site and deadlines (verified Thinkware $850K this way, 2026-10-07)
+4. ClaimDepot new-settlement listings — https://www.claimdepot.com — second source for cross-checking deadlines and administrators
 
 ## Search queries (rotate)
 - "new class action settlement announced file claim"
