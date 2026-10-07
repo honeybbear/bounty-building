@@ -76,6 +76,11 @@ DETERMINISM: separate seeded RNG streams per tier (42 / 4202 / 4203),
 insertion-ordered data, tie-breaks by hunter id, and `run_date` (not wall
 clock) in the output. Run twice -> byte-identical JSON.
 
+BANNED BEATS (user-directed rule, 2026-10-07): {"settlements-no-proof"}.
+Banned-beat opportunities stay in data/opportunities.json and on the site as
+verified legitimate listings, but are excluded from scoring, seeding, and
+elimination math in every tier - hunters on a banned beat score 0.
+
 OUTPUT (data/tournament.json): top-level champions/rounds/leaderboard are
 the Round-2 tournament (unchanged shape for the site), plus nested
 "tier2" and "tier3" objects with their own rounds/champions/leaderboards.
@@ -110,6 +115,14 @@ NOUNS = ["Ferret", "Badger", "Mole", "Hawk", "Fox", "Otter", "Raccoon", "Beaver"
 
 ROUND_SIZES = [100, 50, 25, 12, 6, 3]
 TIER23_SIZES = [103, 12, 3]
+
+# USER-DIRECTED RULE (2026-10-07): the settlements-no-proof beat is BANNED from
+# tournament scoring in every tier. The user wants champions that cannot come
+# from the no-proof settlements route. Those opportunities STAY in
+# data/opportunities.json and on the site as verified legitimate listings -
+# they are simply excluded from all hunter scoring, seeding, and elimination
+# math. Hunters assigned to a banned beat score 0 and are eliminated.
+BANNED_BEATS = {"settlements-no-proof"}
 
 
 def parse_value(value_desc):
@@ -317,13 +330,17 @@ def run(opportunities, today=None):
     today = today or datetime.date.today().isoformat()
     if isinstance(today, str):
         today = datetime.date.fromisoformat(today)
-    tier1 = run_tier1(opportunities, today)
-    tier2 = run_tier2(opportunities, today, tier1["champions"])
-    tier3 = run_tier3(opportunities, today, tier2["champions"])
+    # Banned beats: still listed on the site, never scored in any tier.
+    scorable = [o for o in opportunities if o.get("beat") not in BANNED_BEATS]
+    tier1 = run_tier1(scorable, today)
+    tier2 = run_tier2(scorable, today, tier1["champions"])
+    tier3 = run_tier3(scorable, today, tier2["champions"])
     return {
         "run_date": today.isoformat(),
         "seed": SEED,
+        "banned_beats": sorted(BANNED_BEATS),
         "opportunity_count": len(opportunities),
+        "scorable_opportunity_count": len(scorable),
         "active_opportunity_count": sum(1 for o in opportunities if o.get("status") != "expired"),
         # Top-level shape unchanged for the site: the Round-2 tournament.
         "rounds": tier1["rounds"],

@@ -1,26 +1,24 @@
 {
  "run_date": "2026-10-07",
  "seed": 42,
+ "banned_beats": [
+  "settlements-no-proof"
+ ],
  "opportunity_count": 26,
+ "scorable_opportunity_count": 21,
  "active_opportunity_count": 26,
  "rounds": [
   {
    "round": 1,
    "size": 100,
    "survivors": [
-    "H-097",
-    "H-049",
-    "H-061",
     "H-050",
     "H-027",
     "H-003",
     "H-087",
     "H-098",
-    "H-013",
     "H-015",
-    "H-025",
     "H-074",
-    "H-037",
     "H-086",
     "H-058",
     "H-039",
@@ -30,7 +28,6 @@
     "H-072",
     "H-082",
     "H-038",
-    "H-073",
     "H-084",
     "H-065",
     "H-017",
@@ -41,7 +38,6 @@
     "H-100",
     "H-032",
     "H-020",
-    "H-085",
     "H-044",
     "H-029",
     "H-067",
@@ -89,7 +85,6 @@
     "H-069",
     "H-099",
     "H-080",
-    "H-001",
     "H-009",
     "H-081",
     "H-088",
@@ -107,7 +102,16 @@
     "H-005",
     "H-021",
     "H-010",
-    "H-045"
+    "H-045",
+    "H-001",
+    "H-013",
+    "H-025",
+    "H-037",
+    "H-049",
+    "H-061",
+    "H-073",
+    "H-085",
+    "H-097"
    ],
    "eliminated": []
   },
@@ -115,19 +119,13 @@
    "round": 2,
    "size": 50,
    "survivors": [
-    "H-097",
-    "H-049",
-    "H-061",
     "H-050",
     "H-027",
     "H-003",
     "H-087",
     "H-098",
-    "H-013",
     "H-015",
-    "H-025",
     "H-074",
-    "H-037",
     "H-086",
     "H-058",
     "H-039",
@@ -137,7 +135,6 @@
     "H-072",
     "H-082",
     "H-038",
-    "H-073",
     "H-084",
     "H-065",
     "H-017",
@@ -148,7 +145,6 @@
     "H-100",
     "H-032",
     "H-020",
-    "H-085",
     "H-044",
     "H-029",
     "H-067",
@@ -164,9 +160,7 @@
     "H-048",
     "H-076",
     "H-077",
-    "H-047"
-   ],
-   "eliminated": [
+    "H-047",
     "H-096",
     "H-055",
     "H-022",
@@ -174,7 +168,9 @@
     "H-028",
     "H-064",
     "H-024",
-    "H-091",
+    "H-091"
+   ],
+   "eliminated": [
     "H-019",
     "H-095",
     "H-052",
@@ -198,7 +194,6 @@
     "H-069",
     "H-099",
     "H-080",
-    "H-001",
     "H-009",
     "H-081",
     "H-088",
@@ -216,26 +211,29 @@
     "H-005",
     "H-021",
     "H-010",
-    "H-045"
+    "H-045",
+    "H-001",
+    "H-013",
+    "H-025",
+    "H-037",
+    "H-049",
+    "H-061",
+    "H-073",
+    "H-085",
+    "H-097"
    ]
   },
   {
    "round": 3,
    "size": 25,
    "survivors": [
-    "H-097",
-    "H-049",
-    "H-061",
     "H-050",
     "H-027",
     "H-003",
     "H-087",
     "H-098",
-    "H-013",
     "H-015",
-    "H-025",
     "H-074",
-    "H-037",
     "H-086",
     "H-058",
     "H-039",
@@ -245,20 +243,18 @@
     "H-072",
     "H-082",
     "H-038",
-    "H-073",
     "H-084",
-    "H-065"
-   ],
-   "eliminated": [
+    "H-065",
     "H-017",
     "H-046",
     "H-011",
     "H-075",
     "H-063",
     "H-100",
-    "H-032",
+    "H-032"
+   ],
+   "eliminated": [
     "H-020",
-    "H-085",
     "H-044",
     "H-029",
     "H-067",
@@ -274,49 +270,74 @@
     "H-048",
     "H-076",
     "H-077",
-    "H-047"
+    "H-047",
+    "H-096",
+    "H-055",
+    "H-022",
+    "H-031",
+    "H-028",
+    "H-064",
+    "H-024",
+    "H-091"
    ]
   },
   {
    "round": 4,
    "size": 12,
    "survivors": [
-    "H-097",
-    "H-049",
-    "H-061",
     "H-050",
     "H-027",
     "H-003",
     "H-087",
     "H-098",
-    "H-013",
     "H-015",
-    "H-025",
-    "H-074"
-   ],
-   "eliminated": [
-    "H-037",
+    "H-074",
     "H-086",
     "H-058",
     "H-039",
     "H-062",
-    "H-051",
+    "H-051"
+   ],
+   "eliminated": [
     "H-036",
     "H-072",
     "H-082",
     "H-038",
-    "H-073",
     "H-084",
-    "H-065"
+    "H-065",
+    "H-017",
+    "H-046",
+    "H-011",
+    "H-075",
+    "H-063",
+    "H-100",
+    "H-032"
    ]
   },
   {
    "round": 5,
    "size": 6,
    "survivors": [
-    "H-097",
-    "H-049",
-    "H-061",
+    "H-050",
+    "H-027",
+    "H-003",
+    "H-087",
+    "H-098",
+    "H-015"
+   ],
+   "eliminated": [
+    "H-074",
+    "H-086",
+    "H-058",
+    "H-039",
+    "H-062",
+    "H-051"
+   ]
+  },
+  {
+   "round": 6,
+   "size": 3,
+   "survivors": [
     "H-050",
     "H-027",
     "H-003"
@@ -324,82 +345,41 @@
    "eliminated": [
     "H-087",
     "H-098",
-    "H-013",
-    "H-015",
-    "H-025",
-    "H-074"
-   ]
-  },
-  {
-   "round": 6,
-   "size": 3,
-   "survivors": [
-    "H-097",
-    "H-049",
-    "H-061"
-   ],
-   "eliminated": [
-    "H-050",
-    "H-027",
-    "H-003"
+    "H-015"
    ]
   }
  ],
  "champions": [
   {
-   "id": "H-097",
-   "name": "Calm Raccoon",
-   "beat": "settlements-no-proof",
-   "score": 2.9813,
+   "id": "H-050",
+   "name": "Peppy Marmot",
+   "beat": "settlements-breach",
+   "score": 2.1866,
    "kind": "hunter"
   },
   {
-   "id": "H-049",
-   "name": "Peppy Coyote",
-   "beat": "settlements-no-proof",
-   "score": 2.6084,
+   "id": "H-027",
+   "name": "Slick Raccoon",
+   "beat": "settlements-new",
+   "score": 1.7249,
    "kind": "hunter"
   },
   {
-   "id": "H-061",
-   "name": "Sharp Ferret",
-   "beat": "settlements-no-proof",
-   "score": 2.3714,
+   "id": "H-003",
+   "name": "Lucky Mole",
+   "beat": "settlements-new",
+   "score": 1.6539,
    "kind": "hunter"
   }
  ],
  "leaderboard": [
-  {
-   "id": "H-097",
-   "name": "Calm Raccoon",
-   "beat": "settlements-no-proof",
-   "score": 2.9813,
-   "kind": "hunter",
-   "rank": 1
-  },
-  {
-   "id": "H-049",
-   "name": "Peppy Coyote",
-   "beat": "settlements-no-proof",
-   "score": 2.6084,
-   "kind": "hunter",
-   "rank": 2
-  },
-  {
-   "id": "H-061",
-   "name": "Sharp Ferret",
-   "beat": "settlements-no-proof",
-   "score": 2.3714,
-   "kind": "hunter",
-   "rank": 3
-  },
   {
    "id": "H-050",
    "name": "Peppy Marmot",
    "beat": "settlements-breach",
    "score": 2.1866,
    "kind": "hunter",
-   "rank": 4
+   "rank": 1
   },
   {
    "id": "H-027",
@@ -407,7 +387,7 @@
    "beat": "settlements-new",
    "score": 1.7249,
    "kind": "hunter",
-   "rank": 5
+   "rank": 2
   },
   {
    "id": "H-003",
@@ -415,7 +395,7 @@
    "beat": "settlements-new",
    "score": 1.6539,
    "kind": "hunter",
-   "rank": 6
+   "rank": 3
   },
   {
    "id": "H-087",
@@ -423,7 +403,7 @@
    "beat": "settlements-new",
    "score": 1.6527,
    "kind": "hunter",
-   "rank": 7
+   "rank": 4
   },
   {
    "id": "H-098",
@@ -431,15 +411,7 @@
    "beat": "settlements-breach",
    "score": 1.6465,
    "kind": "hunter",
-   "rank": 8
-  },
-  {
-   "id": "H-013",
-   "name": "Dusty Mole",
-   "beat": "settlements-no-proof",
-   "score": 1.6317,
-   "kind": "hunter",
-   "rank": 9
+   "rank": 5
   },
   {
    "id": "H-015",
@@ -447,15 +419,7 @@
    "beat": "settlements-new",
    "score": 1.5617,
    "kind": "hunter",
-   "rank": 10
-  },
-  {
-   "id": "H-025",
-   "name": "Slick Fox",
-   "beat": "settlements-no-proof",
-   "score": 1.5002,
-   "kind": "hunter",
-   "rank": 11
+   "rank": 6
   },
   {
    "id": "H-074",
@@ -463,15 +427,7 @@
    "beat": "settlements-breach",
    "score": 1.4792,
    "kind": "hunter",
-   "rank": 12
-  },
-  {
-   "id": "H-037",
-   "name": "Rusty Raccoon",
-   "beat": "settlements-no-proof",
-   "score": 1.467,
-   "kind": "hunter",
-   "rank": 13
+   "rank": 7
   },
   {
    "id": "H-086",
@@ -479,7 +435,7 @@
    "beat": "settlements-breach",
    "score": 1.4263,
    "kind": "hunter",
-   "rank": 14
+   "rank": 8
   },
   {
    "id": "H-058",
@@ -487,7 +443,7 @@
    "beat": "warranty-claims",
    "score": 1.3042,
    "kind": "hunter",
-   "rank": 15
+   "rank": 9
   },
   {
    "id": "H-039",
@@ -495,7 +451,7 @@
    "beat": "settlements-new",
    "score": 1.2268,
    "kind": "hunter",
-   "rank": 16
+   "rank": 10
   },
   {
    "id": "H-062",
@@ -503,7 +459,7 @@
    "beat": "settlements-breach",
    "score": 1.2251,
    "kind": "hunter",
-   "rank": 17
+   "rank": 11
   },
   {
    "id": "H-051",
@@ -511,7 +467,7 @@
    "beat": "settlements-new",
    "score": 1.0902,
    "kind": "hunter",
-   "rank": 18
+   "rank": 12
   },
   {
    "id": "H-036",
@@ -519,7 +475,7 @@
    "beat": "state-programs",
    "score": 0.9484,
    "kind": "hunter",
-   "rank": 19
+   "rank": 13
   },
   {
    "id": "H-072",
@@ -527,7 +483,7 @@
    "beat": "state-programs",
    "score": 0.9113,
    "kind": "hunter",
-   "rank": 20
+   "rank": 14
   },
   {
    "id": "H-082",
@@ -535,7 +491,7 @@
    "beat": "warranty-claims",
    "score": 0.9094,
    "kind": "hunter",
-   "rank": 21
+   "rank": 15
   },
   {
    "id": "H-038",
@@ -543,15 +499,7 @@
    "beat": "settlements-breach",
    "score": 0.857,
    "kind": "hunter",
-   "rank": 22
-  },
-  {
-   "id": "H-073",
-   "name": "Wily Mole",
-   "beat": "settlements-no-proof",
-   "score": 0.7684,
-   "kind": "hunter",
-   "rank": 23
+   "rank": 16
   },
   {
    "id": "H-084",
@@ -559,7 +507,7 @@
    "beat": "state-programs",
    "score": 0.686,
    "kind": "hunter",
-   "rank": 24
+   "rank": 17
   },
   {
    "id": "H-065",
@@ -567,7 +515,7 @@
    "beat": "unclaimed-property",
    "score": 0.6808,
    "kind": "hunter",
-   "rank": 25
+   "rank": 18
   },
   {
    "id": "H-017",
@@ -575,7 +523,7 @@
    "beat": "unclaimed-property",
    "score": 0.6627,
    "kind": "hunter",
-   "rank": 26
+   "rank": 19
   },
   {
    "id": "H-046",
@@ -583,7 +531,7 @@
    "beat": "warranty-claims",
    "score": 0.5763,
    "kind": "hunter",
-   "rank": 27
+   "rank": 20
   },
   {
    "id": "H-011",
@@ -591,7 +539,7 @@
    "beat": "employer-benefits",
    "score": 0.5508,
    "kind": "hunter",
-   "rank": 28
+   "rank": 21
   },
   {
    "id": "H-075",
@@ -599,7 +547,7 @@
    "beat": "settlements-new",
    "score": 0.5479,
    "kind": "hunter",
-   "rank": 29
+   "rank": 22
   },
   {
    "id": "H-063",
@@ -607,7 +555,7 @@
    "beat": "settlements-new",
    "score": 0.4858,
    "kind": "hunter",
-   "rank": 30
+   "rank": 23
   },
   {
    "id": "H-100",
@@ -615,7 +563,7 @@
    "beat": "bank-bonuses",
    "score": 0.4345,
    "kind": "hunter",
-   "rank": 31
+   "rank": 24
   },
   {
    "id": "H-032",
@@ -623,7 +571,7 @@
    "beat": "grocery-cashback-apps",
    "score": 0.4251,
    "kind": "hunter",
-   "rank": 32
+   "rank": 25
   },
   {
    "id": "H-020",
@@ -631,15 +579,7 @@
    "beat": "grocery-cashback-apps",
    "score": 0.4214,
    "kind": "hunter",
-   "rank": 33
-  },
-  {
-   "id": "H-085",
-   "name": "Bold Fox",
-   "beat": "settlements-no-proof",
-   "score": 0.4155,
-   "kind": "hunter",
-   "rank": 34
+   "rank": 26
   },
   {
    "id": "H-044",
@@ -647,7 +587,7 @@
    "beat": "grocery-cashback-apps",
    "score": 0.3974,
    "kind": "hunter",
-   "rank": 35
+   "rank": 27
   },
   {
    "id": "H-029",
@@ -655,7 +595,7 @@
    "beat": "unclaimed-property",
    "score": 0.3901,
    "kind": "hunter",
-   "rank": 36
+   "rank": 28
   },
   {
    "id": "H-067",
@@ -663,7 +603,7 @@
    "beat": "tax-credits",
    "score": 0.3873,
    "kind": "hunter",
-   "rank": 37
+   "rank": 29
   },
   {
    "id": "H-026",
@@ -671,7 +611,7 @@
    "beat": "settlements-breach",
    "score": 0.3834,
    "kind": "hunter",
-   "rank": 38
+   "rank": 30
   },
   {
    "id": "H-002",
@@ -679,7 +619,7 @@
    "beat": "settlements-breach",
    "score": 0.3819,
    "kind": "hunter",
-   "rank": 39
+   "rank": 31
   },
   {
    "id": "H-042",
@@ -687,7 +627,7 @@
    "beat": "utility-rebates",
    "score": 0.3775,
    "kind": "hunter",
-   "rank": 40
+   "rank": 32
   },
   {
    "id": "H-059",
@@ -695,7 +635,7 @@
    "beat": "employer-benefits",
    "score": 0.3744,
    "kind": "hunter",
-   "rank": 41
+   "rank": 33
   },
   {
    "id": "H-053",
@@ -703,7 +643,7 @@
    "beat": "unclaimed-property",
    "score": 0.3676,
    "kind": "hunter",
-   "rank": 42
+   "rank": 34
   },
   {
    "id": "H-094",
@@ -711,7 +651,7 @@
    "beat": "warranty-claims",
    "score": 0.3637,
    "kind": "hunter",
-   "rank": 43
+   "rank": 35
   },
   {
    "id": "H-071",
@@ -719,7 +659,7 @@
    "beat": "employer-benefits",
    "score": 0.3612,
    "kind": "hunter",
-   "rank": 44
+   "rank": 36
   },
   {
    "id": "H-008",
@@ -727,7 +667,7 @@
    "beat": "grocery-cashback-apps",
    "score": 0.3564,
    "kind": "hunter",
-   "rank": 45
+   "rank": 37
   },
   {
    "id": "H-016",
@@ -735,7 +675,7 @@
    "beat": "bank-bonuses",
    "score": 0.3458,
    "kind": "hunter",
-   "rank": 46
+   "rank": 38
   },
   {
    "id": "H-048",
@@ -743,7 +683,7 @@
    "beat": "state-programs",
    "score": 0.3432,
    "kind": "hunter",
-   "rank": 47
+   "rank": 39
   },
   {
    "id": "H-076",
@@ -751,7 +691,7 @@
    "beat": "bank-bonuses",
    "score": 0.3372,
    "kind": "hunter",
-   "rank": 48
+   "rank": 40
   },
   {
    "id": "H-077",
@@ -759,7 +699,7 @@
    "beat": "unclaimed-property",
    "score": 0.3325,
    "kind": "hunter",
-   "rank": 49
+   "rank": 41
   },
   {
    "id": "H-047",
@@ -767,7 +707,7 @@
    "beat": "employer-benefits",
    "score": 0.3306,
    "kind": "hunter",
-   "rank": 50
+   "rank": 42
   },
   {
    "id": "H-096",
@@ -775,7 +715,7 @@
    "beat": "state-programs",
    "score": 0.3236,
    "kind": "hunter",
-   "rank": 51
+   "rank": 43
   },
   {
    "id": "H-055",
@@ -783,7 +723,7 @@
    "beat": "tax-credits",
    "score": 0.3092,
    "kind": "hunter",
-   "rank": 52
+   "rank": 44
   },
   {
    "id": "H-022",
@@ -791,7 +731,7 @@
    "beat": "warranty-claims",
    "score": 0.2902,
    "kind": "hunter",
-   "rank": 53
+   "rank": 45
   },
   {
    "id": "H-031",
@@ -799,7 +739,7 @@
    "beat": "tax-credits",
    "score": 0.2761,
    "kind": "hunter",
-   "rank": 54
+   "rank": 46
   },
   {
    "id": "H-028",
@@ -807,7 +747,7 @@
    "beat": "bank-bonuses",
    "score": 0.2652,
    "kind": "hunter",
-   "rank": 55
+   "rank": 47
   },
   {
    "id": "H-064",
@@ -815,7 +755,7 @@
    "beat": "bank-bonuses",
    "score": 0.2644,
    "kind": "hunter",
-   "rank": 56
+   "rank": 48
   },
   {
    "id": "H-024",
@@ -823,7 +763,7 @@
    "beat": "state-programs",
    "score": 0.2573,
    "kind": "hunter",
-   "rank": 57
+   "rank": 49
   },
   {
    "id": "H-091",
@@ -831,7 +771,7 @@
    "beat": "tax-credits",
    "score": 0.2552,
    "kind": "hunter",
-   "rank": 58
+   "rank": 50
   },
   {
    "id": "H-019",
@@ -839,7 +779,7 @@
    "beat": "tax-credits",
    "score": 0.2471,
    "kind": "hunter",
-   "rank": 59
+   "rank": 51
   },
   {
    "id": "H-095",
@@ -847,7 +787,7 @@
    "beat": "employer-benefits",
    "score": 0.2437,
    "kind": "hunter",
-   "rank": 60
+   "rank": 52
   },
   {
    "id": "H-052",
@@ -855,7 +795,7 @@
    "beat": "bank-bonuses",
    "score": 0.2383,
    "kind": "hunter",
-   "rank": 61
+   "rank": 53
   },
   {
    "id": "H-068",
@@ -863,7 +803,7 @@
    "beat": "grocery-cashback-apps",
    "score": 0.2192,
    "kind": "hunter",
-   "rank": 62
+   "rank": 54
   },
   {
    "id": "H-089",
@@ -871,7 +811,7 @@
    "beat": "unclaimed-property",
    "score": 0.2179,
    "kind": "hunter",
-   "rank": 63
+   "rank": 55
   },
   {
    "id": "H-018",
@@ -879,7 +819,7 @@
    "beat": "utility-rebates",
    "score": 0.2048,
    "kind": "hunter",
-   "rank": 64
+   "rank": 56
   },
   {
    "id": "H-060",
@@ -887,7 +827,7 @@
    "beat": "state-programs",
    "score": 0.1983,
    "kind": "hunter",
-   "rank": 65
+   "rank": 57
   },
   {
    "id": "H-056",
@@ -895,7 +835,7 @@
    "beat": "grocery-cashback-apps",
    "score": 0.1934,
    "kind": "hunter",
-   "rank": 66
+   "rank": 58
   },
   {
    "id": "H-033",
@@ -903,7 +843,7 @@
    "beat": "telecom-refunds",
    "score": 0.1871,
    "kind": "hunter",
-   "rank": 67
+   "rank": 59
   },
   {
    "id": "H-041",
@@ -911,7 +851,7 @@
    "beat": "unclaimed-property",
    "score": 0.1818,
    "kind": "hunter",
-   "rank": 68
+   "rank": 60
   },
   {
    "id": "H-090",
@@ -919,7 +859,7 @@
    "beat": "utility-rebates",
    "score": 0.1783,
    "kind": "hunter",
-   "rank": 69
+   "rank": 61
   },
   {
    "id": "H-070",
@@ -927,7 +867,7 @@
    "beat": "warranty-claims",
    "score": 0.1781,
    "kind": "hunter",
-   "rank": 70
+   "rank": 62
   },
   {
    "id": "H-079",
@@ -935,7 +875,7 @@
    "beat": "tax-credits",
    "score": 0.1769,
    "kind": "hunter",
-   "rank": 71
+   "rank": 63
   },
   {
    "id": "H-012",
@@ -943,7 +883,7 @@
    "beat": "state-programs",
    "score": 0.1705,
    "kind": "hunter",
-   "rank": 72
+   "rank": 64
   },
   {
    "id": "H-006",
@@ -951,7 +891,7 @@
    "beat": "utility-rebates",
    "score": 0.1679,
    "kind": "hunter",
-   "rank": 73
+   "rank": 65
   },
   {
    "id": "H-035",
@@ -959,7 +899,7 @@
    "beat": "employer-benefits",
    "score": 0.1588,
    "kind": "hunter",
-   "rank": 74
+   "rank": 66
   },
   {
    "id": "H-014",
@@ -967,7 +907,7 @@
    "beat": "settlements-breach",
    "score": 0.1452,
    "kind": "hunter",
-   "rank": 75
+   "rank": 67
   },
   {
    "id": "H-054",
@@ -975,7 +915,7 @@
    "beat": "utility-rebates",
    "score": 0.1335,
    "kind": "hunter",
-   "rank": 76
+   "rank": 68
   },
   {
    "id": "H-030",
@@ -983,7 +923,7 @@
    "beat": "utility-rebates",
    "score": 0.1209,
    "kind": "hunter",
-   "rank": 77
+   "rank": 69
   },
   {
    "id": "H-023",
@@ -991,7 +931,7 @@
    "beat": "employer-benefits",
    "score": 0.1162,
    "kind": "hunter",
-   "rank": 78
+   "rank": 70
   },
   {
    "id": "H-069",
@@ -999,7 +939,7 @@
    "beat": "telecom-refunds",
    "score": 0.1128,
    "kind": "hunter",
-   "rank": 79
+   "rank": 71
   },
   {
    "id": "H-099",
@@ -1007,7 +947,7 @@
    "beat": "settlements-new",
    "score": 0.1124,
    "kind": "hunter",
-   "rank": 80
+   "rank": 72
   },
   {
    "id": "H-080",
@@ -1015,15 +955,7 @@
    "beat": "grocery-cashback-apps",
    "score": 0.1106,
    "kind": "hunter",
-   "rank": 81
-  },
-  {
-   "id": "H-001",
-   "name": "Lucky Ferret",
-   "beat": "settlements-no-proof",
-   "score": 0.1029,
-   "kind": "hunter",
-   "rank": 82
+   "rank": 73
   },
   {
    "id": "H-009",
@@ -1031,7 +963,7 @@
    "beat": "telecom-refunds",
    "score": 0.098,
    "kind": "hunter",
-   "rank": 83
+   "rank": 74
   },
   {
    "id": "H-081",
@@ -1039,7 +971,7 @@
    "beat": "telecom-refunds",
    "score": 0.0937,
    "kind": "hunter",
-   "rank": 84
+   "rank": 75
   },
   {
    "id": "H-088",
@@ -1047,7 +979,7 @@
    "beat": "bank-bonuses",
    "score": 0.09,
    "kind": "hunter",
-   "rank": 85
+   "rank": 76
   },
   {
    "id": "H-040",
@@ -1055,7 +987,7 @@
    "beat": "bank-bonuses",
    "score": 0.0849,
    "kind": "hunter",
-   "rank": 86
+   "rank": 77
   },
   {
    "id": "H-092",
@@ -1063,7 +995,7 @@
    "beat": "grocery-cashback-apps",
    "score": 0.0759,
    "kind": "hunter",
-   "rank": 87
+   "rank": 78
   },
   {
    "id": "H-078",
@@ -1071,7 +1003,7 @@
    "beat": "utility-rebates",
    "score": 0.0695,
    "kind": "hunter",
-   "rank": 88
+   "rank": 79
   },
   {
    "id": "H-043",
@@ -1079,7 +1011,7 @@
    "beat": "tax-credits",
    "score": 0.0686,
    "kind": "hunter",
-   "rank": 89
+   "rank": 80
   },
   {
    "id": "H-093",
@@ -1087,7 +1019,7 @@
    "beat": "telecom-refunds",
    "score": 0.0639,
    "kind": "hunter",
-   "rank": 90
+   "rank": 81
   },
   {
    "id": "H-083",
@@ -1095,7 +1027,7 @@
    "beat": "employer-benefits",
    "score": 0.0576,
    "kind": "hunter",
-   "rank": 91
+   "rank": 82
   },
   {
    "id": "H-007",
@@ -1103,7 +1035,7 @@
    "beat": "tax-credits",
    "score": 0.0475,
    "kind": "hunter",
-   "rank": 92
+   "rank": 83
   },
   {
    "id": "H-004",
@@ -1111,7 +1043,7 @@
    "beat": "bank-bonuses",
    "score": 0.043,
    "kind": "hunter",
-   "rank": 93
+   "rank": 84
   },
   {
    "id": "H-057",
@@ -1119,7 +1051,7 @@
    "beat": "telecom-refunds",
    "score": 0.0358,
    "kind": "hunter",
-   "rank": 94
+   "rank": 85
   },
   {
    "id": "H-034",
@@ -1127,7 +1059,7 @@
    "beat": "warranty-claims",
    "score": 0.0322,
    "kind": "hunter",
-   "rank": 95
+   "rank": 86
   },
   {
    "id": "H-066",
@@ -1135,7 +1067,7 @@
    "beat": "utility-rebates",
    "score": 0.0205,
    "kind": "hunter",
-   "rank": 96
+   "rank": 87
   },
   {
    "id": "H-005",
@@ -1143,7 +1075,7 @@
    "beat": "unclaimed-property",
    "score": 0.0191,
    "kind": "hunter",
-   "rank": 97
+   "rank": 88
   },
   {
    "id": "H-021",
@@ -1151,7 +1083,7 @@
    "beat": "telecom-refunds",
    "score": 0.0103,
    "kind": "hunter",
-   "rank": 98
+   "rank": 89
   },
   {
    "id": "H-010",
@@ -1159,13 +1091,85 @@
    "beat": "warranty-claims",
    "score": 0.0085,
    "kind": "hunter",
-   "rank": 99
+   "rank": 90
   },
   {
    "id": "H-045",
    "name": "Peppy Fox",
    "beat": "telecom-refunds",
    "score": 0.0071,
+   "kind": "hunter",
+   "rank": 91
+  },
+  {
+   "id": "H-001",
+   "name": "Lucky Ferret",
+   "beat": "settlements-no-proof",
+   "score": 0,
+   "kind": "hunter",
+   "rank": 92
+  },
+  {
+   "id": "H-013",
+   "name": "Dusty Mole",
+   "beat": "settlements-no-proof",
+   "score": 0,
+   "kind": "hunter",
+   "rank": 93
+  },
+  {
+   "id": "H-025",
+   "name": "Slick Fox",
+   "beat": "settlements-no-proof",
+   "score": 0,
+   "kind": "hunter",
+   "rank": 94
+  },
+  {
+   "id": "H-037",
+   "name": "Rusty Raccoon",
+   "beat": "settlements-no-proof",
+   "score": 0,
+   "kind": "hunter",
+   "rank": 95
+  },
+  {
+   "id": "H-049",
+   "name": "Peppy Coyote",
+   "beat": "settlements-no-proof",
+   "score": 0,
+   "kind": "hunter",
+   "rank": 96
+  },
+  {
+   "id": "H-061",
+   "name": "Sharp Ferret",
+   "beat": "settlements-no-proof",
+   "score": 0,
+   "kind": "hunter",
+   "rank": 97
+  },
+  {
+   "id": "H-073",
+   "name": "Wily Mole",
+   "beat": "settlements-no-proof",
+   "score": 0,
+   "kind": "hunter",
+   "rank": 98
+  },
+  {
+   "id": "H-085",
+   "name": "Bold Fox",
+   "beat": "settlements-no-proof",
+   "score": 0,
+   "kind": "hunter",
+   "rank": 99
+  },
+  {
+   "id": "H-097",
+   "name": "Calm Raccoon",
+   "beat": "settlements-no-proof",
+   "score": 0,
    "kind": "hunter",
    "rank": 100
   }
@@ -1177,19 +1181,13 @@
     "round": 1,
     "size": 100,
     "survivors": [
-     "H-097",
-     "H-049",
-     "H-061",
      "H-050",
      "H-027",
      "H-003",
      "H-087",
      "H-098",
-     "H-013",
      "H-015",
-     "H-025",
      "H-074",
-     "H-037",
      "H-086",
      "H-058",
      "H-039",
@@ -1199,7 +1197,6 @@
      "H-072",
      "H-082",
      "H-038",
-     "H-073",
      "H-084",
      "H-065",
      "H-017",
@@ -1210,7 +1207,6 @@
      "H-100",
      "H-032",
      "H-020",
-     "H-085",
      "H-044",
      "H-029",
      "H-067",
@@ -1258,7 +1254,6 @@
      "H-069",
      "H-099",
      "H-080",
-     "H-001",
      "H-009",
      "H-081",
      "H-088",
@@ -1276,7 +1271,16 @@
      "H-005",
      "H-021",
      "H-010",
-     "H-045"
+     "H-045",
+     "H-001",
+     "H-013",
+     "H-025",
+     "H-037",
+     "H-049",
+     "H-061",
+     "H-073",
+     "H-085",
+     "H-097"
     ],
     "eliminated": []
    },
@@ -1284,19 +1288,13 @@
     "round": 2,
     "size": 50,
     "survivors": [
-     "H-097",
-     "H-049",
-     "H-061",
      "H-050",
      "H-027",
      "H-003",
      "H-087",
      "H-098",
-     "H-013",
      "H-015",
-     "H-025",
      "H-074",
-     "H-037",
      "H-086",
      "H-058",
      "H-039",
@@ -1306,7 +1304,6 @@
      "H-072",
      "H-082",
      "H-038",
-     "H-073",
      "H-084",
      "H-065",
      "H-017",
@@ -1317,7 +1314,6 @@
      "H-100",
      "H-032",
      "H-020",
-     "H-085",
      "H-044",
      "H-029",
      "H-067",
@@ -1333,9 +1329,7 @@
      "H-048",
      "H-076",
      "H-077",
-     "H-047"
-    ],
-    "eliminated": [
+     "H-047",
      "H-096",
      "H-055",
      "H-022",
@@ -1343,7 +1337,9 @@
      "H-028",
      "H-064",
      "H-024",
-     "H-091",
+     "H-091"
+    ],
+    "eliminated": [
      "H-019",
      "H-095",
      "H-052",
@@ -1367,7 +1363,6 @@
      "H-069",
      "H-099",
      "H-080",
-     "H-001",
      "H-009",
      "H-081",
      "H-088",
@@ -1385,26 +1380,29 @@
      "H-005",
      "H-021",
      "H-010",
-     "H-045"
+     "H-045",
+     "H-001",
+     "H-013",
+     "H-025",
+     "H-037",
+     "H-049",
+     "H-061",
+     "H-073",
+     "H-085",
+     "H-097"
     ]
    },
    {
     "round": 3,
     "size": 25,
     "survivors": [
-     "H-097",
-     "H-049",
-     "H-061",
      "H-050",
      "H-027",
      "H-003",
      "H-087",
      "H-098",
-     "H-013",
      "H-015",
-     "H-025",
      "H-074",
-     "H-037",
      "H-086",
      "H-058",
      "H-039",
@@ -1414,20 +1412,18 @@
      "H-072",
      "H-082",
      "H-038",
-     "H-073",
      "H-084",
-     "H-065"
-    ],
-    "eliminated": [
+     "H-065",
      "H-017",
      "H-046",
      "H-011",
      "H-075",
      "H-063",
      "H-100",
-     "H-032",
+     "H-032"
+    ],
+    "eliminated": [
      "H-020",
-     "H-085",
      "H-044",
      "H-029",
      "H-067",
@@ -1443,49 +1439,74 @@
      "H-048",
      "H-076",
      "H-077",
-     "H-047"
+     "H-047",
+     "H-096",
+     "H-055",
+     "H-022",
+     "H-031",
+     "H-028",
+     "H-064",
+     "H-024",
+     "H-091"
     ]
    },
    {
     "round": 4,
     "size": 12,
     "survivors": [
-     "H-097",
-     "H-049",
-     "H-061",
      "H-050",
      "H-027",
      "H-003",
      "H-087",
      "H-098",
-     "H-013",
      "H-015",
-     "H-025",
-     "H-074"
-    ],
-    "eliminated": [
-     "H-037",
+     "H-074",
      "H-086",
      "H-058",
      "H-039",
      "H-062",
-     "H-051",
+     "H-051"
+    ],
+    "eliminated": [
      "H-036",
      "H-072",
      "H-082",
      "H-038",
-     "H-073",
      "H-084",
-     "H-065"
+     "H-065",
+     "H-017",
+     "H-046",
+     "H-011",
+     "H-075",
+     "H-063",
+     "H-100",
+     "H-032"
     ]
    },
    {
     "round": 5,
     "size": 6,
     "survivors": [
-     "H-097",
-     "H-049",
-     "H-061",
+     "H-050",
+     "H-027",
+     "H-003",
+     "H-087",
+     "H-098",
+     "H-015"
+    ],
+    "eliminated": [
+     "H-074",
+     "H-086",
+     "H-058",
+     "H-039",
+     "H-062",
+     "H-051"
+    ]
+   },
+   {
+    "round": 6,
+    "size": 3,
+    "survivors": [
      "H-050",
      "H-027",
      "H-003"
@@ -1493,82 +1514,41 @@
     "eliminated": [
      "H-087",
      "H-098",
-     "H-013",
-     "H-015",
-     "H-025",
-     "H-074"
-    ]
-   },
-   {
-    "round": 6,
-    "size": 3,
-    "survivors": [
-     "H-097",
-     "H-049",
-     "H-061"
-    ],
-    "eliminated": [
-     "H-050",
-     "H-027",
-     "H-003"
+     "H-015"
     ]
    }
   ],
   "champions": [
    {
-    "id": "H-097",
-    "name": "Calm Raccoon",
-    "beat": "settlements-no-proof",
-    "score": 2.9813,
+    "id": "H-050",
+    "name": "Peppy Marmot",
+    "beat": "settlements-breach",
+    "score": 2.1866,
     "kind": "hunter"
    },
    {
-    "id": "H-049",
-    "name": "Peppy Coyote",
-    "beat": "settlements-no-proof",
-    "score": 2.6084,
+    "id": "H-027",
+    "name": "Slick Raccoon",
+    "beat": "settlements-new",
+    "score": 1.7249,
     "kind": "hunter"
    },
    {
-    "id": "H-061",
-    "name": "Sharp Ferret",
-    "beat": "settlements-no-proof",
-    "score": 2.3714,
+    "id": "H-003",
+    "name": "Lucky Mole",
+    "beat": "settlements-new",
+    "score": 1.6539,
     "kind": "hunter"
    }
   ],
   "leaderboard": [
-   {
-    "id": "H-097",
-    "name": "Calm Raccoon",
-    "beat": "settlements-no-proof",
-    "score": 2.9813,
-    "kind": "hunter",
-    "rank": 1
-   },
-   {
-    "id": "H-049",
-    "name": "Peppy Coyote",
-    "beat": "settlements-no-proof",
-    "score": 2.6084,
-    "kind": "hunter",
-    "rank": 2
-   },
-   {
-    "id": "H-061",
-    "name": "Sharp Ferret",
-    "beat": "settlements-no-proof",
-    "score": 2.3714,
-    "kind": "hunter",
-    "rank": 3
-   },
    {
     "id": "H-050",
     "name": "Peppy Marmot",
     "beat": "settlements-breach",
     "score": 2.1866,
     "kind": "hunter",
-    "rank": 4
+    "rank": 1
    },
    {
     "id": "H-027",
@@ -1576,7 +1556,7 @@
     "beat": "settlements-new",
     "score": 1.7249,
     "kind": "hunter",
-    "rank": 5
+    "rank": 2
    },
    {
     "id": "H-003",
@@ -1584,7 +1564,7 @@
     "beat": "settlements-new",
     "score": 1.6539,
     "kind": "hunter",
-    "rank": 6
+    "rank": 3
    },
    {
     "id": "H-087",
@@ -1592,7 +1572,7 @@
     "beat": "settlements-new",
     "score": 1.6527,
     "kind": "hunter",
-    "rank": 7
+    "rank": 4
    },
    {
     "id": "H-098",
@@ -1600,15 +1580,7 @@
     "beat": "settlements-breach",
     "score": 1.6465,
     "kind": "hunter",
-    "rank": 8
-   },
-   {
-    "id": "H-013",
-    "name": "Dusty Mole",
-    "beat": "settlements-no-proof",
-    "score": 1.6317,
-    "kind": "hunter",
-    "rank": 9
+    "rank": 5
    },
    {
     "id": "H-015",
@@ -1616,15 +1588,7 @@
     "beat": "settlements-new",
     "score": 1.5617,
     "kind": "hunter",
-    "rank": 10
-   },
-   {
-    "id": "H-025",
-    "name": "Slick Fox",
-    "beat": "settlements-no-proof",
-    "score": 1.5002,
-    "kind": "hunter",
-    "rank": 11
+    "rank": 6
    },
    {
     "id": "H-074",
@@ -1632,15 +1596,7 @@
     "beat": "settlements-breach",
     "score": 1.4792,
     "kind": "hunter",
-    "rank": 12
-   },
-   {
-    "id": "H-037",
-    "name": "Rusty Raccoon",
-    "beat": "settlements-no-proof",
-    "score": 1.467,
-    "kind": "hunter",
-    "rank": 13
+    "rank": 7
    },
    {
     "id": "H-086",
@@ -1648,7 +1604,7 @@
     "beat": "settlements-breach",
     "score": 1.4263,
     "kind": "hunter",
-    "rank": 14
+    "rank": 8
    },
    {
     "id": "H-058",
@@ -1656,7 +1612,7 @@
     "beat": "warranty-claims",
     "score": 1.3042,
     "kind": "hunter",
-    "rank": 15
+    "rank": 9
    },
    {
     "id": "H-039",
@@ -1664,7 +1620,7 @@
     "beat": "settlements-new",
     "score": 1.2268,
     "kind": "hunter",
-    "rank": 16
+    "rank": 10
    },
    {
     "id": "H-062",
@@ -1672,7 +1628,7 @@
     "beat": "settlements-breach",
     "score": 1.2251,
     "kind": "hunter",
-    "rank": 17
+    "rank": 11
    },
    {
     "id": "H-051",
@@ -1680,7 +1636,7 @@
     "beat": "settlements-new",
     "score": 1.0902,
     "kind": "hunter",
-    "rank": 18
+    "rank": 12
    },
    {
     "id": "H-036",
@@ -1688,7 +1644,7 @@
     "beat": "state-programs",
     "score": 0.9484,
     "kind": "hunter",
-    "rank": 19
+    "rank": 13
    },
    {
     "id": "H-072",
@@ -1696,7 +1652,7 @@
     "beat": "state-programs",
     "score": 0.9113,
     "kind": "hunter",
-    "rank": 20
+    "rank": 14
    },
    {
     "id": "H-082",
@@ -1704,7 +1660,7 @@
     "beat": "warranty-claims",
     "score": 0.9094,
     "kind": "hunter",
-    "rank": 21
+    "rank": 15
    },
    {
     "id": "H-038",
@@ -1712,15 +1668,7 @@
     "beat": "settlements-breach",
     "score": 0.857,
     "kind": "hunter",
-    "rank": 22
-   },
-   {
-    "id": "H-073",
-    "name": "Wily Mole",
-    "beat": "settlements-no-proof",
-    "score": 0.7684,
-    "kind": "hunter",
-    "rank": 23
+    "rank": 16
    },
    {
     "id": "H-084",
@@ -1728,7 +1676,7 @@
     "beat": "state-programs",
     "score": 0.686,
     "kind": "hunter",
-    "rank": 24
+    "rank": 17
    },
    {
     "id": "H-065",
@@ -1736,7 +1684,7 @@
     "beat": "unclaimed-property",
     "score": 0.6808,
     "kind": "hunter",
-    "rank": 25
+    "rank": 18
    },
    {
     "id": "H-017",
@@ -1744,7 +1692,7 @@
     "beat": "unclaimed-property",
     "score": 0.6627,
     "kind": "hunter",
-    "rank": 26
+    "rank": 19
    },
    {
     "id": "H-046",
@@ -1752,7 +1700,7 @@
     "beat": "warranty-claims",
     "score": 0.5763,
     "kind": "hunter",
-    "rank": 27
+    "rank": 20
    },
    {
     "id": "H-011",
@@ -1760,7 +1708,7 @@
     "beat": "employer-benefits",
     "score": 0.5508,
     "kind": "hunter",
-    "rank": 28
+    "rank": 21
    },
    {
     "id": "H-075",
@@ -1768,7 +1716,7 @@
     "beat": "settlements-new",
     "score": 0.5479,
     "kind": "hunter",
-    "rank": 29
+    "rank": 22
    },
    {
     "id": "H-063",
@@ -1776,7 +1724,7 @@
     "beat": "settlements-new",
     "score": 0.4858,
     "kind": "hunter",
-    "rank": 30
+    "rank": 23
    },
    {
     "id": "H-100",
@@ -1784,7 +1732,7 @@
     "beat": "bank-bonuses",
     "score": 0.4345,
     "kind": "hunter",
-    "rank": 31
+    "rank": 24
    },
    {
     "id": "H-032",
@@ -1792,7 +1740,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.4251,
     "kind": "hunter",
-    "rank": 32
+    "rank": 25
    },
    {
     "id": "H-020",
@@ -1800,15 +1748,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.4214,
     "kind": "hunter",
-    "rank": 33
-   },
-   {
-    "id": "H-085",
-    "name": "Bold Fox",
-    "beat": "settlements-no-proof",
-    "score": 0.4155,
-    "kind": "hunter",
-    "rank": 34
+    "rank": 26
    },
    {
     "id": "H-044",
@@ -1816,7 +1756,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.3974,
     "kind": "hunter",
-    "rank": 35
+    "rank": 27
    },
    {
     "id": "H-029",
@@ -1824,7 +1764,7 @@
     "beat": "unclaimed-property",
     "score": 0.3901,
     "kind": "hunter",
-    "rank": 36
+    "rank": 28
    },
    {
     "id": "H-067",
@@ -1832,7 +1772,7 @@
     "beat": "tax-credits",
     "score": 0.3873,
     "kind": "hunter",
-    "rank": 37
+    "rank": 29
    },
    {
     "id": "H-026",
@@ -1840,7 +1780,7 @@
     "beat": "settlements-breach",
     "score": 0.3834,
     "kind": "hunter",
-    "rank": 38
+    "rank": 30
    },
    {
     "id": "H-002",
@@ -1848,7 +1788,7 @@
     "beat": "settlements-breach",
     "score": 0.3819,
     "kind": "hunter",
-    "rank": 39
+    "rank": 31
    },
    {
     "id": "H-042",
@@ -1856,7 +1796,7 @@
     "beat": "utility-rebates",
     "score": 0.3775,
     "kind": "hunter",
-    "rank": 40
+    "rank": 32
    },
    {
     "id": "H-059",
@@ -1864,7 +1804,7 @@
     "beat": "employer-benefits",
     "score": 0.3744,
     "kind": "hunter",
-    "rank": 41
+    "rank": 33
    },
    {
     "id": "H-053",
@@ -1872,7 +1812,7 @@
     "beat": "unclaimed-property",
     "score": 0.3676,
     "kind": "hunter",
-    "rank": 42
+    "rank": 34
    },
    {
     "id": "H-094",
@@ -1880,7 +1820,7 @@
     "beat": "warranty-claims",
     "score": 0.3637,
     "kind": "hunter",
-    "rank": 43
+    "rank": 35
    },
    {
     "id": "H-071",
@@ -1888,7 +1828,7 @@
     "beat": "employer-benefits",
     "score": 0.3612,
     "kind": "hunter",
-    "rank": 44
+    "rank": 36
    },
    {
     "id": "H-008",
@@ -1896,7 +1836,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.3564,
     "kind": "hunter",
-    "rank": 45
+    "rank": 37
    },
    {
     "id": "H-016",
@@ -1904,7 +1844,7 @@
     "beat": "bank-bonuses",
     "score": 0.3458,
     "kind": "hunter",
-    "rank": 46
+    "rank": 38
    },
    {
     "id": "H-048",
@@ -1912,7 +1852,7 @@
     "beat": "state-programs",
     "score": 0.3432,
     "kind": "hunter",
-    "rank": 47
+    "rank": 39
    },
    {
     "id": "H-076",
@@ -1920,7 +1860,7 @@
     "beat": "bank-bonuses",
     "score": 0.3372,
     "kind": "hunter",
-    "rank": 48
+    "rank": 40
    },
    {
     "id": "H-077",
@@ -1928,7 +1868,7 @@
     "beat": "unclaimed-property",
     "score": 0.3325,
     "kind": "hunter",
-    "rank": 49
+    "rank": 41
    },
    {
     "id": "H-047",
@@ -1936,7 +1876,7 @@
     "beat": "employer-benefits",
     "score": 0.3306,
     "kind": "hunter",
-    "rank": 50
+    "rank": 42
    },
    {
     "id": "H-096",
@@ -1944,7 +1884,7 @@
     "beat": "state-programs",
     "score": 0.3236,
     "kind": "hunter",
-    "rank": 51
+    "rank": 43
    },
    {
     "id": "H-055",
@@ -1952,7 +1892,7 @@
     "beat": "tax-credits",
     "score": 0.3092,
     "kind": "hunter",
-    "rank": 52
+    "rank": 44
    },
    {
     "id": "H-022",
@@ -1960,7 +1900,7 @@
     "beat": "warranty-claims",
     "score": 0.2902,
     "kind": "hunter",
-    "rank": 53
+    "rank": 45
    },
    {
     "id": "H-031",
@@ -1968,7 +1908,7 @@
     "beat": "tax-credits",
     "score": 0.2761,
     "kind": "hunter",
-    "rank": 54
+    "rank": 46
    },
    {
     "id": "H-028",
@@ -1976,7 +1916,7 @@
     "beat": "bank-bonuses",
     "score": 0.2652,
     "kind": "hunter",
-    "rank": 55
+    "rank": 47
    },
    {
     "id": "H-064",
@@ -1984,7 +1924,7 @@
     "beat": "bank-bonuses",
     "score": 0.2644,
     "kind": "hunter",
-    "rank": 56
+    "rank": 48
    },
    {
     "id": "H-024",
@@ -1992,7 +1932,7 @@
     "beat": "state-programs",
     "score": 0.2573,
     "kind": "hunter",
-    "rank": 57
+    "rank": 49
    },
    {
     "id": "H-091",
@@ -2000,7 +1940,7 @@
     "beat": "tax-credits",
     "score": 0.2552,
     "kind": "hunter",
-    "rank": 58
+    "rank": 50
    },
    {
     "id": "H-019",
@@ -2008,7 +1948,7 @@
     "beat": "tax-credits",
     "score": 0.2471,
     "kind": "hunter",
-    "rank": 59
+    "rank": 51
    },
    {
     "id": "H-095",
@@ -2016,7 +1956,7 @@
     "beat": "employer-benefits",
     "score": 0.2437,
     "kind": "hunter",
-    "rank": 60
+    "rank": 52
    },
    {
     "id": "H-052",
@@ -2024,7 +1964,7 @@
     "beat": "bank-bonuses",
     "score": 0.2383,
     "kind": "hunter",
-    "rank": 61
+    "rank": 53
    },
    {
     "id": "H-068",
@@ -2032,7 +1972,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.2192,
     "kind": "hunter",
-    "rank": 62
+    "rank": 54
    },
    {
     "id": "H-089",
@@ -2040,7 +1980,7 @@
     "beat": "unclaimed-property",
     "score": 0.2179,
     "kind": "hunter",
-    "rank": 63
+    "rank": 55
    },
    {
     "id": "H-018",
@@ -2048,7 +1988,7 @@
     "beat": "utility-rebates",
     "score": 0.2048,
     "kind": "hunter",
-    "rank": 64
+    "rank": 56
    },
    {
     "id": "H-060",
@@ -2056,7 +1996,7 @@
     "beat": "state-programs",
     "score": 0.1983,
     "kind": "hunter",
-    "rank": 65
+    "rank": 57
    },
    {
     "id": "H-056",
@@ -2064,7 +2004,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.1934,
     "kind": "hunter",
-    "rank": 66
+    "rank": 58
    },
    {
     "id": "H-033",
@@ -2072,7 +2012,7 @@
     "beat": "telecom-refunds",
     "score": 0.1871,
     "kind": "hunter",
-    "rank": 67
+    "rank": 59
    },
    {
     "id": "H-041",
@@ -2080,7 +2020,7 @@
     "beat": "unclaimed-property",
     "score": 0.1818,
     "kind": "hunter",
-    "rank": 68
+    "rank": 60
    },
    {
     "id": "H-090",
@@ -2088,7 +2028,7 @@
     "beat": "utility-rebates",
     "score": 0.1783,
     "kind": "hunter",
-    "rank": 69
+    "rank": 61
    },
    {
     "id": "H-070",
@@ -2096,7 +2036,7 @@
     "beat": "warranty-claims",
     "score": 0.1781,
     "kind": "hunter",
-    "rank": 70
+    "rank": 62
    },
    {
     "id": "H-079",
@@ -2104,7 +2044,7 @@
     "beat": "tax-credits",
     "score": 0.1769,
     "kind": "hunter",
-    "rank": 71
+    "rank": 63
    },
    {
     "id": "H-012",
@@ -2112,7 +2052,7 @@
     "beat": "state-programs",
     "score": 0.1705,
     "kind": "hunter",
-    "rank": 72
+    "rank": 64
    },
    {
     "id": "H-006",
@@ -2120,7 +2060,7 @@
     "beat": "utility-rebates",
     "score": 0.1679,
     "kind": "hunter",
-    "rank": 73
+    "rank": 65
    },
    {
     "id": "H-035",
@@ -2128,7 +2068,7 @@
     "beat": "employer-benefits",
     "score": 0.1588,
     "kind": "hunter",
-    "rank": 74
+    "rank": 66
    },
    {
     "id": "H-014",
@@ -2136,7 +2076,7 @@
     "beat": "settlements-breach",
     "score": 0.1452,
     "kind": "hunter",
-    "rank": 75
+    "rank": 67
    },
    {
     "id": "H-054",
@@ -2144,7 +2084,7 @@
     "beat": "utility-rebates",
     "score": 0.1335,
     "kind": "hunter",
-    "rank": 76
+    "rank": 68
    },
    {
     "id": "H-030",
@@ -2152,7 +2092,7 @@
     "beat": "utility-rebates",
     "score": 0.1209,
     "kind": "hunter",
-    "rank": 77
+    "rank": 69
    },
    {
     "id": "H-023",
@@ -2160,7 +2100,7 @@
     "beat": "employer-benefits",
     "score": 0.1162,
     "kind": "hunter",
-    "rank": 78
+    "rank": 70
    },
    {
     "id": "H-069",
@@ -2168,7 +2108,7 @@
     "beat": "telecom-refunds",
     "score": 0.1128,
     "kind": "hunter",
-    "rank": 79
+    "rank": 71
    },
    {
     "id": "H-099",
@@ -2176,7 +2116,7 @@
     "beat": "settlements-new",
     "score": 0.1124,
     "kind": "hunter",
-    "rank": 80
+    "rank": 72
    },
    {
     "id": "H-080",
@@ -2184,15 +2124,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.1106,
     "kind": "hunter",
-    "rank": 81
-   },
-   {
-    "id": "H-001",
-    "name": "Lucky Ferret",
-    "beat": "settlements-no-proof",
-    "score": 0.1029,
-    "kind": "hunter",
-    "rank": 82
+    "rank": 73
    },
    {
     "id": "H-009",
@@ -2200,7 +2132,7 @@
     "beat": "telecom-refunds",
     "score": 0.098,
     "kind": "hunter",
-    "rank": 83
+    "rank": 74
    },
    {
     "id": "H-081",
@@ -2208,7 +2140,7 @@
     "beat": "telecom-refunds",
     "score": 0.0937,
     "kind": "hunter",
-    "rank": 84
+    "rank": 75
    },
    {
     "id": "H-088",
@@ -2216,7 +2148,7 @@
     "beat": "bank-bonuses",
     "score": 0.09,
     "kind": "hunter",
-    "rank": 85
+    "rank": 76
    },
    {
     "id": "H-040",
@@ -2224,7 +2156,7 @@
     "beat": "bank-bonuses",
     "score": 0.0849,
     "kind": "hunter",
-    "rank": 86
+    "rank": 77
    },
    {
     "id": "H-092",
@@ -2232,7 +2164,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.0759,
     "kind": "hunter",
-    "rank": 87
+    "rank": 78
    },
    {
     "id": "H-078",
@@ -2240,7 +2172,7 @@
     "beat": "utility-rebates",
     "score": 0.0695,
     "kind": "hunter",
-    "rank": 88
+    "rank": 79
    },
    {
     "id": "H-043",
@@ -2248,7 +2180,7 @@
     "beat": "tax-credits",
     "score": 0.0686,
     "kind": "hunter",
-    "rank": 89
+    "rank": 80
    },
    {
     "id": "H-093",
@@ -2256,7 +2188,7 @@
     "beat": "telecom-refunds",
     "score": 0.0639,
     "kind": "hunter",
-    "rank": 90
+    "rank": 81
    },
    {
     "id": "H-083",
@@ -2264,7 +2196,7 @@
     "beat": "employer-benefits",
     "score": 0.0576,
     "kind": "hunter",
-    "rank": 91
+    "rank": 82
    },
    {
     "id": "H-007",
@@ -2272,7 +2204,7 @@
     "beat": "tax-credits",
     "score": 0.0475,
     "kind": "hunter",
-    "rank": 92
+    "rank": 83
    },
    {
     "id": "H-004",
@@ -2280,7 +2212,7 @@
     "beat": "bank-bonuses",
     "score": 0.043,
     "kind": "hunter",
-    "rank": 93
+    "rank": 84
    },
    {
     "id": "H-057",
@@ -2288,7 +2220,7 @@
     "beat": "telecom-refunds",
     "score": 0.0358,
     "kind": "hunter",
-    "rank": 94
+    "rank": 85
    },
    {
     "id": "H-034",
@@ -2296,7 +2228,7 @@
     "beat": "warranty-claims",
     "score": 0.0322,
     "kind": "hunter",
-    "rank": 95
+    "rank": 86
    },
    {
     "id": "H-066",
@@ -2304,7 +2236,7 @@
     "beat": "utility-rebates",
     "score": 0.0205,
     "kind": "hunter",
-    "rank": 96
+    "rank": 87
    },
    {
     "id": "H-005",
@@ -2312,7 +2244,7 @@
     "beat": "unclaimed-property",
     "score": 0.0191,
     "kind": "hunter",
-    "rank": 97
+    "rank": 88
    },
    {
     "id": "H-021",
@@ -2320,7 +2252,7 @@
     "beat": "telecom-refunds",
     "score": 0.0103,
     "kind": "hunter",
-    "rank": 98
+    "rank": 89
    },
    {
     "id": "H-010",
@@ -2328,13 +2260,85 @@
     "beat": "warranty-claims",
     "score": 0.0085,
     "kind": "hunter",
-    "rank": 99
+    "rank": 90
    },
    {
     "id": "H-045",
     "name": "Peppy Fox",
     "beat": "telecom-refunds",
     "score": 0.0071,
+    "kind": "hunter",
+    "rank": 91
+   },
+   {
+    "id": "H-001",
+    "name": "Lucky Ferret",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "hunter",
+    "rank": 92
+   },
+   {
+    "id": "H-013",
+    "name": "Dusty Mole",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "hunter",
+    "rank": 93
+   },
+   {
+    "id": "H-025",
+    "name": "Slick Fox",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "hunter",
+    "rank": 94
+   },
+   {
+    "id": "H-037",
+    "name": "Rusty Raccoon",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "hunter",
+    "rank": 95
+   },
+   {
+    "id": "H-049",
+    "name": "Peppy Coyote",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "hunter",
+    "rank": 96
+   },
+   {
+    "id": "H-061",
+    "name": "Sharp Ferret",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "hunter",
+    "rank": 97
+   },
+   {
+    "id": "H-073",
+    "name": "Wily Mole",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "hunter",
+    "rank": 98
+   },
+   {
+    "id": "H-085",
+    "name": "Bold Fox",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "hunter",
+    "rank": 99
+   },
+   {
+    "id": "H-097",
+    "name": "Calm Raccoon",
+    "beat": "settlements-no-proof",
+    "score": 0,
     "kind": "hunter",
     "rank": 100
    }
@@ -2347,18 +2351,7 @@
     "round": 1,
     "size": 103,
     "survivors": [
-     "T2-049",
-     "T2-073",
-     "T2-097",
-     "T2-037",
-     "T2-025",
-     "T2-013",
-     "T2-061",
-     "T2-001",
-     "T2-085",
-     "H-097",
      "T2-051",
-     "H-049",
      "T2-087",
      "T2-015",
      "T2-063",
@@ -2367,7 +2360,9 @@
      "T2-039",
      "T2-099",
      "T2-003",
-     "H-061",
+     "H-050",
+     "H-027",
+     "H-003",
      "T2-024",
      "T2-096",
      "T2-036",
@@ -2442,14 +2437,23 @@
      "T2-057",
      "T2-021",
      "T2-081",
+     "T2-001",
      "T2-005",
+     "T2-013",
      "T2-017",
+     "T2-025",
      "T2-029",
+     "T2-037",
      "T2-041",
+     "T2-049",
      "T2-053",
+     "T2-061",
      "T2-065",
+     "T2-073",
      "T2-077",
-     "T2-089"
+     "T2-085",
+     "T2-089",
+     "T2-097"
     ],
     "eliminated": []
    },
@@ -2457,20 +2461,7 @@
     "round": 2,
     "size": 12,
     "survivors": [
-     "T2-049",
-     "T2-073",
-     "T2-097",
-     "T2-037",
-     "T2-025",
-     "T2-013",
-     "T2-061",
-     "T2-001",
-     "T2-085",
-     "H-097",
      "T2-051",
-     "H-049"
-    ],
-    "eliminated": [
      "T2-087",
      "T2-015",
      "T2-063",
@@ -2479,7 +2470,11 @@
      "T2-039",
      "T2-099",
      "T2-003",
-     "H-061",
+     "H-050",
+     "H-027",
+     "H-003"
+    ],
+    "eliminated": [
      "T2-024",
      "T2-096",
      "T2-036",
@@ -2554,156 +2549,77 @@
      "T2-057",
      "T2-021",
      "T2-081",
+     "T2-001",
      "T2-005",
+     "T2-013",
      "T2-017",
+     "T2-025",
      "T2-029",
+     "T2-037",
      "T2-041",
+     "T2-049",
      "T2-053",
+     "T2-061",
      "T2-065",
+     "T2-073",
      "T2-077",
-     "T2-089"
+     "T2-085",
+     "T2-089",
+     "T2-097"
     ]
    },
    {
     "round": 3,
     "size": 3,
     "survivors": [
-     "T2-049",
-     "T2-073",
-     "T2-097"
+     "T2-051",
+     "T2-087",
+     "T2-015"
     ],
     "eliminated": [
-     "T2-037",
-     "T2-025",
-     "T2-013",
-     "T2-061",
-     "T2-001",
-     "T2-085",
-     "H-097",
-     "T2-051",
-     "H-049"
+     "T2-063",
+     "T2-027",
+     "T2-075",
+     "T2-039",
+     "T2-099",
+     "T2-003",
+     "H-050",
+     "H-027",
+     "H-003"
     ]
    }
   ],
   "champions": [
    {
-    "id": "T2-049",
-    "name": "Apex Peppy Coyote",
-    "beat": "settlements-no-proof",
-    "score": 4.4568,
+    "id": "T2-051",
+    "name": "Apex Frugal Ferret",
+    "beat": "settlements-new",
+    "score": 2.6704,
     "kind": "elite"
    },
    {
-    "id": "T2-073",
-    "name": "Apex Wily Mole",
-    "beat": "settlements-no-proof",
-    "score": 4.4149,
+    "id": "T2-087",
+    "name": "Apex Bold Raccoon",
+    "beat": "settlements-new",
+    "score": 2.6073,
     "kind": "elite"
    },
    {
-    "id": "T2-097",
-    "name": "Apex Calm Raccoon",
-    "beat": "settlements-no-proof",
-    "score": 4.3503,
+    "id": "T2-015",
+    "name": "Apex Dusty Fox",
+    "beat": "settlements-new",
+    "score": 2.6041,
     "kind": "elite"
    }
   ],
   "leaderboard": [
-   {
-    "id": "T2-049",
-    "name": "Apex Peppy Coyote",
-    "beat": "settlements-no-proof",
-    "score": 4.4568,
-    "kind": "elite",
-    "rank": 1
-   },
-   {
-    "id": "T2-073",
-    "name": "Apex Wily Mole",
-    "beat": "settlements-no-proof",
-    "score": 4.4149,
-    "kind": "elite",
-    "rank": 2
-   },
-   {
-    "id": "T2-097",
-    "name": "Apex Calm Raccoon",
-    "beat": "settlements-no-proof",
-    "score": 4.3503,
-    "kind": "elite",
-    "rank": 3
-   },
-   {
-    "id": "T2-037",
-    "name": "Apex Rusty Raccoon",
-    "beat": "settlements-no-proof",
-    "score": 4.3124,
-    "kind": "elite",
-    "rank": 4
-   },
-   {
-    "id": "T2-025",
-    "name": "Apex Slick Fox",
-    "beat": "settlements-no-proof",
-    "score": 4.2757,
-    "kind": "elite",
-    "rank": 5
-   },
-   {
-    "id": "T2-013",
-    "name": "Apex Dusty Mole",
-    "beat": "settlements-no-proof",
-    "score": 4.2068,
-    "kind": "elite",
-    "rank": 6
-   },
-   {
-    "id": "T2-061",
-    "name": "Apex Sharp Ferret",
-    "beat": "settlements-no-proof",
-    "score": 4.19,
-    "kind": "elite",
-    "rank": 7
-   },
-   {
-    "id": "T2-001",
-    "name": "Apex Lucky Ferret",
-    "beat": "settlements-no-proof",
-    "score": 4.1793,
-    "kind": "elite",
-    "rank": 8
-   },
-   {
-    "id": "T2-085",
-    "name": "Apex Bold Fox",
-    "beat": "settlements-no-proof",
-    "score": 4.1652,
-    "kind": "elite",
-    "rank": 9
-   },
-   {
-    "id": "H-097",
-    "name": "Calm Raccoon",
-    "beat": "settlements-no-proof",
-    "score": 2.9813,
-    "kind": "seed",
-    "rank": 10
-   },
    {
     "id": "T2-051",
     "name": "Apex Frugal Ferret",
     "beat": "settlements-new",
     "score": 2.6704,
     "kind": "elite",
-    "rank": 11
-   },
-   {
-    "id": "H-049",
-    "name": "Peppy Coyote",
-    "beat": "settlements-no-proof",
-    "score": 2.6084,
-    "kind": "seed",
-    "rank": 12
+    "rank": 1
    },
    {
     "id": "T2-087",
@@ -2711,7 +2627,7 @@
     "beat": "settlements-new",
     "score": 2.6073,
     "kind": "elite",
-    "rank": 13
+    "rank": 2
    },
    {
     "id": "T2-015",
@@ -2719,7 +2635,7 @@
     "beat": "settlements-new",
     "score": 2.6041,
     "kind": "elite",
-    "rank": 14
+    "rank": 3
    },
    {
     "id": "T2-063",
@@ -2727,7 +2643,7 @@
     "beat": "settlements-new",
     "score": 2.5557,
     "kind": "elite",
-    "rank": 15
+    "rank": 4
    },
    {
     "id": "T2-027",
@@ -2735,7 +2651,7 @@
     "beat": "settlements-new",
     "score": 2.5413,
     "kind": "elite",
-    "rank": 16
+    "rank": 5
    },
    {
     "id": "T2-075",
@@ -2743,7 +2659,7 @@
     "beat": "settlements-new",
     "score": 2.5151,
     "kind": "elite",
-    "rank": 17
+    "rank": 6
    },
    {
     "id": "T2-039",
@@ -2751,7 +2667,7 @@
     "beat": "settlements-new",
     "score": 2.5007,
     "kind": "elite",
-    "rank": 18
+    "rank": 7
    },
    {
     "id": "T2-099",
@@ -2759,7 +2675,7 @@
     "beat": "settlements-new",
     "score": 2.4794,
     "kind": "elite",
-    "rank": 19
+    "rank": 8
    },
    {
     "id": "T2-003",
@@ -2767,15 +2683,31 @@
     "beat": "settlements-new",
     "score": 2.4256,
     "kind": "elite",
-    "rank": 20
+    "rank": 9
    },
    {
-    "id": "H-061",
-    "name": "Sharp Ferret",
-    "beat": "settlements-no-proof",
-    "score": 2.3714,
+    "id": "H-050",
+    "name": "Peppy Marmot",
+    "beat": "settlements-breach",
+    "score": 2.1866,
     "kind": "seed",
-    "rank": 21
+    "rank": 10
+   },
+   {
+    "id": "H-027",
+    "name": "Slick Raccoon",
+    "beat": "settlements-new",
+    "score": 1.7249,
+    "kind": "seed",
+    "rank": 11
+   },
+   {
+    "id": "H-003",
+    "name": "Lucky Mole",
+    "beat": "settlements-new",
+    "score": 1.6539,
+    "kind": "seed",
+    "rank": 12
    },
    {
     "id": "T2-024",
@@ -2783,7 +2715,7 @@
     "beat": "state-programs",
     "score": 1.5772,
     "kind": "elite",
-    "rank": 22
+    "rank": 13
    },
    {
     "id": "T2-096",
@@ -2791,7 +2723,7 @@
     "beat": "state-programs",
     "score": 1.5299,
     "kind": "elite",
-    "rank": 23
+    "rank": 14
    },
    {
     "id": "T2-036",
@@ -2799,7 +2731,7 @@
     "beat": "state-programs",
     "score": 1.5286,
     "kind": "elite",
-    "rank": 24
+    "rank": 15
    },
    {
     "id": "T2-034",
@@ -2807,7 +2739,7 @@
     "beat": "warranty-claims",
     "score": 1.4905,
     "kind": "elite",
-    "rank": 25
+    "rank": 16
    },
    {
     "id": "T2-048",
@@ -2815,7 +2747,7 @@
     "beat": "state-programs",
     "score": 1.4862,
     "kind": "elite",
-    "rank": 26
+    "rank": 17
    },
    {
     "id": "T2-060",
@@ -2823,7 +2755,7 @@
     "beat": "state-programs",
     "score": 1.4852,
     "kind": "elite",
-    "rank": 27
+    "rank": 18
    },
    {
     "id": "T2-022",
@@ -2831,7 +2763,7 @@
     "beat": "warranty-claims",
     "score": 1.4714,
     "kind": "elite",
-    "rank": 28
+    "rank": 19
    },
    {
     "id": "T2-070",
@@ -2839,7 +2771,7 @@
     "beat": "warranty-claims",
     "score": 1.4046,
     "kind": "elite",
-    "rank": 29
+    "rank": 20
    },
    {
     "id": "T2-072",
@@ -2847,7 +2779,7 @@
     "beat": "state-programs",
     "score": 1.3874,
     "kind": "elite",
-    "rank": 30
+    "rank": 21
    },
    {
     "id": "T2-046",
@@ -2855,7 +2787,7 @@
     "beat": "warranty-claims",
     "score": 1.3547,
     "kind": "elite",
-    "rank": 31
+    "rank": 22
    },
    {
     "id": "T2-058",
@@ -2863,7 +2795,7 @@
     "beat": "warranty-claims",
     "score": 1.3545,
     "kind": "elite",
-    "rank": 32
+    "rank": 23
    },
    {
     "id": "T2-084",
@@ -2871,7 +2803,7 @@
     "beat": "state-programs",
     "score": 1.3333,
     "kind": "elite",
-    "rank": 33
+    "rank": 24
    },
    {
     "id": "T2-082",
@@ -2879,7 +2811,7 @@
     "beat": "warranty-claims",
     "score": 1.3146,
     "kind": "elite",
-    "rank": 34
+    "rank": 25
    },
    {
     "id": "T2-010",
@@ -2887,7 +2819,7 @@
     "beat": "warranty-claims",
     "score": 1.2847,
     "kind": "elite",
-    "rank": 35
+    "rank": 26
    },
    {
     "id": "T2-012",
@@ -2895,7 +2827,7 @@
     "beat": "state-programs",
     "score": 1.2693,
     "kind": "elite",
-    "rank": 36
+    "rank": 27
    },
    {
     "id": "T2-094",
@@ -2903,7 +2835,7 @@
     "beat": "warranty-claims",
     "score": 1.2658,
     "kind": "elite",
-    "rank": 37
+    "rank": 28
    },
    {
     "id": "T2-059",
@@ -2911,7 +2843,7 @@
     "beat": "employer-benefits",
     "score": 0.8148,
     "kind": "elite",
-    "rank": 38
+    "rank": 29
    },
    {
     "id": "T2-011",
@@ -2919,7 +2851,7 @@
     "beat": "employer-benefits",
     "score": 0.8132,
     "kind": "elite",
-    "rank": 39
+    "rank": 30
    },
    {
     "id": "T2-074",
@@ -2927,7 +2859,7 @@
     "beat": "settlements-breach",
     "score": 0.8097,
     "kind": "elite",
-    "rank": 40
+    "rank": 31
    },
    {
     "id": "T2-095",
@@ -2935,7 +2867,7 @@
     "beat": "employer-benefits",
     "score": 0.8078,
     "kind": "elite",
-    "rank": 41
+    "rank": 32
    },
    {
     "id": "T2-035",
@@ -2943,7 +2875,7 @@
     "beat": "employer-benefits",
     "score": 0.8018,
     "kind": "elite",
-    "rank": 42
+    "rank": 33
    },
    {
     "id": "T2-002",
@@ -2951,7 +2883,7 @@
     "beat": "settlements-breach",
     "score": 0.7864,
     "kind": "elite",
-    "rank": 43
+    "rank": 34
    },
    {
     "id": "T2-023",
@@ -2959,7 +2891,7 @@
     "beat": "employer-benefits",
     "score": 0.7769,
     "kind": "elite",
-    "rank": 44
+    "rank": 35
    },
    {
     "id": "T2-038",
@@ -2967,7 +2899,7 @@
     "beat": "settlements-breach",
     "score": 0.7649,
     "kind": "elite",
-    "rank": 45
+    "rank": 36
    },
    {
     "id": "T2-050",
@@ -2975,7 +2907,7 @@
     "beat": "settlements-breach",
     "score": 0.7549,
     "kind": "elite",
-    "rank": 46
+    "rank": 37
    },
    {
     "id": "T2-080",
@@ -2983,7 +2915,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.7533,
     "kind": "elite",
-    "rank": 47
+    "rank": 38
    },
    {
     "id": "T2-098",
@@ -2991,7 +2923,7 @@
     "beat": "settlements-breach",
     "score": 0.7455,
     "kind": "elite",
-    "rank": 48
+    "rank": 39
    },
    {
     "id": "T2-047",
@@ -2999,7 +2931,7 @@
     "beat": "employer-benefits",
     "score": 0.7364,
     "kind": "elite",
-    "rank": 49
+    "rank": 40
    },
    {
     "id": "T2-014",
@@ -3007,7 +2939,7 @@
     "beat": "settlements-breach",
     "score": 0.7271,
     "kind": "elite",
-    "rank": 50
+    "rank": 41
    },
    {
     "id": "T2-026",
@@ -3015,7 +2947,7 @@
     "beat": "settlements-breach",
     "score": 0.7261,
     "kind": "elite",
-    "rank": 51
+    "rank": 42
    },
    {
     "id": "T2-083",
@@ -3023,7 +2955,7 @@
     "beat": "employer-benefits",
     "score": 0.7164,
     "kind": "elite",
-    "rank": 52
+    "rank": 43
    },
    {
     "id": "T2-044",
@@ -3031,7 +2963,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.7156,
     "kind": "elite",
-    "rank": 53
+    "rank": 44
    },
    {
     "id": "T2-008",
@@ -3039,7 +2971,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.7053,
     "kind": "elite",
-    "rank": 54
+    "rank": 45
    },
    {
     "id": "T2-071",
@@ -3047,7 +2979,7 @@
     "beat": "employer-benefits",
     "score": 0.702,
     "kind": "elite",
-    "rank": 55
+    "rank": 46
    },
    {
     "id": "T2-086",
@@ -3055,7 +2987,7 @@
     "beat": "settlements-breach",
     "score": 0.701,
     "kind": "elite",
-    "rank": 56
+    "rank": 47
    },
    {
     "id": "T2-020",
@@ -3063,7 +2995,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.7007,
     "kind": "elite",
-    "rank": 57
+    "rank": 48
    },
    {
     "id": "T2-062",
@@ -3071,7 +3003,7 @@
     "beat": "settlements-breach",
     "score": 0.6981,
     "kind": "elite",
-    "rank": 58
+    "rank": 49
    },
    {
     "id": "T2-032",
@@ -3079,7 +3011,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.6963,
     "kind": "elite",
-    "rank": 59
+    "rank": 50
    },
    {
     "id": "T2-056",
@@ -3087,7 +3019,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.6847,
     "kind": "elite",
-    "rank": 60
+    "rank": 51
    },
    {
     "id": "T2-068",
@@ -3095,7 +3027,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.6693,
     "kind": "elite",
-    "rank": 61
+    "rank": 52
    },
    {
     "id": "T2-092",
@@ -3103,7 +3035,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.6502,
     "kind": "elite",
-    "rank": 62
+    "rank": 53
    },
    {
     "id": "T2-028",
@@ -3111,7 +3043,7 @@
     "beat": "bank-bonuses",
     "score": 0.5018,
     "kind": "elite",
-    "rank": 63
+    "rank": 54
    },
    {
     "id": "T2-100",
@@ -3119,7 +3051,7 @@
     "beat": "bank-bonuses",
     "score": 0.4752,
     "kind": "elite",
-    "rank": 64
+    "rank": 55
    },
    {
     "id": "T2-006",
@@ -3127,7 +3059,7 @@
     "beat": "utility-rebates",
     "score": 0.4659,
     "kind": "elite",
-    "rank": 65
+    "rank": 56
    },
    {
     "id": "T2-018",
@@ -3135,7 +3067,7 @@
     "beat": "utility-rebates",
     "score": 0.4611,
     "kind": "elite",
-    "rank": 66
+    "rank": 57
    },
    {
     "id": "T2-078",
@@ -3143,7 +3075,7 @@
     "beat": "utility-rebates",
     "score": 0.4609,
     "kind": "elite",
-    "rank": 67
+    "rank": 58
    },
    {
     "id": "T2-016",
@@ -3151,7 +3083,7 @@
     "beat": "bank-bonuses",
     "score": 0.4594,
     "kind": "elite",
-    "rank": 68
+    "rank": 59
    },
    {
     "id": "T2-054",
@@ -3159,7 +3091,7 @@
     "beat": "utility-rebates",
     "score": 0.4594,
     "kind": "elite",
-    "rank": 69
+    "rank": 60
    },
    {
     "id": "T2-064",
@@ -3167,7 +3099,7 @@
     "beat": "bank-bonuses",
     "score": 0.4569,
     "kind": "elite",
-    "rank": 70
+    "rank": 61
    },
    {
     "id": "T2-004",
@@ -3175,7 +3107,7 @@
     "beat": "bank-bonuses",
     "score": 0.4558,
     "kind": "elite",
-    "rank": 71
+    "rank": 62
    },
    {
     "id": "T2-042",
@@ -3183,7 +3115,7 @@
     "beat": "utility-rebates",
     "score": 0.4558,
     "kind": "elite",
-    "rank": 72
+    "rank": 63
    },
    {
     "id": "T2-066",
@@ -3191,7 +3123,7 @@
     "beat": "utility-rebates",
     "score": 0.4511,
     "kind": "elite",
-    "rank": 73
+    "rank": 64
    },
    {
     "id": "T2-088",
@@ -3199,7 +3131,7 @@
     "beat": "bank-bonuses",
     "score": 0.445,
     "kind": "elite",
-    "rank": 74
+    "rank": 65
    },
    {
     "id": "T2-090",
@@ -3207,7 +3139,7 @@
     "beat": "utility-rebates",
     "score": 0.4405,
     "kind": "elite",
-    "rank": 75
+    "rank": 66
    },
    {
     "id": "T2-030",
@@ -3215,7 +3147,7 @@
     "beat": "utility-rebates",
     "score": 0.435,
     "kind": "elite",
-    "rank": 76
+    "rank": 67
    },
    {
     "id": "T2-052",
@@ -3223,7 +3155,7 @@
     "beat": "bank-bonuses",
     "score": 0.4254,
     "kind": "elite",
-    "rank": 77
+    "rank": 68
    },
    {
     "id": "T2-076",
@@ -3231,7 +3163,7 @@
     "beat": "bank-bonuses",
     "score": 0.4173,
     "kind": "elite",
-    "rank": 78
+    "rank": 69
    },
    {
     "id": "T2-040",
@@ -3239,7 +3171,7 @@
     "beat": "bank-bonuses",
     "score": 0.4157,
     "kind": "elite",
-    "rank": 79
+    "rank": 70
    },
    {
     "id": "T2-007",
@@ -3247,7 +3179,7 @@
     "beat": "tax-credits",
     "score": 0.4077,
     "kind": "elite",
-    "rank": 80
+    "rank": 71
    },
    {
     "id": "T2-079",
@@ -3255,7 +3187,7 @@
     "beat": "tax-credits",
     "score": 0.4075,
     "kind": "elite",
-    "rank": 81
+    "rank": 72
    },
    {
     "id": "T2-055",
@@ -3263,7 +3195,7 @@
     "beat": "tax-credits",
     "score": 0.4025,
     "kind": "elite",
-    "rank": 82
+    "rank": 73
    },
    {
     "id": "T2-019",
@@ -3271,7 +3203,7 @@
     "beat": "tax-credits",
     "score": 0.4011,
     "kind": "elite",
-    "rank": 83
+    "rank": 74
    },
    {
     "id": "T2-043",
@@ -3279,7 +3211,7 @@
     "beat": "tax-credits",
     "score": 0.3965,
     "kind": "elite",
-    "rank": 84
+    "rank": 75
    },
    {
     "id": "T2-031",
@@ -3287,7 +3219,7 @@
     "beat": "tax-credits",
     "score": 0.3626,
     "kind": "elite",
-    "rank": 85
+    "rank": 76
    },
    {
     "id": "T2-091",
@@ -3295,7 +3227,7 @@
     "beat": "tax-credits",
     "score": 0.3623,
     "kind": "elite",
-    "rank": 86
+    "rank": 77
    },
    {
     "id": "T2-067",
@@ -3303,7 +3235,7 @@
     "beat": "tax-credits",
     "score": 0.3502,
     "kind": "elite",
-    "rank": 87
+    "rank": 78
    },
    {
     "id": "T2-033",
@@ -3311,7 +3243,7 @@
     "beat": "telecom-refunds",
     "score": 0.2521,
     "kind": "elite",
-    "rank": 88
+    "rank": 79
    },
    {
     "id": "T2-093",
@@ -3319,7 +3251,7 @@
     "beat": "telecom-refunds",
     "score": 0.2494,
     "kind": "elite",
-    "rank": 89
+    "rank": 80
    },
    {
     "id": "T2-009",
@@ -3327,7 +3259,7 @@
     "beat": "telecom-refunds",
     "score": 0.2408,
     "kind": "elite",
-    "rank": 90
+    "rank": 81
    },
    {
     "id": "T2-045",
@@ -3335,7 +3267,7 @@
     "beat": "telecom-refunds",
     "score": 0.2404,
     "kind": "elite",
-    "rank": 91
+    "rank": 82
    },
    {
     "id": "T2-069",
@@ -3343,7 +3275,7 @@
     "beat": "telecom-refunds",
     "score": 0.2313,
     "kind": "elite",
-    "rank": 92
+    "rank": 83
    },
    {
     "id": "T2-057",
@@ -3351,7 +3283,7 @@
     "beat": "telecom-refunds",
     "score": 0.2221,
     "kind": "elite",
-    "rank": 93
+    "rank": 84
    },
    {
     "id": "T2-021",
@@ -3359,7 +3291,7 @@
     "beat": "telecom-refunds",
     "score": 0.2165,
     "kind": "elite",
-    "rank": 94
+    "rank": 85
    },
    {
     "id": "T2-081",
@@ -3367,7 +3299,15 @@
     "beat": "telecom-refunds",
     "score": 0.2063,
     "kind": "elite",
-    "rank": 95
+    "rank": 86
+   },
+   {
+    "id": "T2-001",
+    "name": "Apex Lucky Ferret",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "elite",
+    "rank": 87
    },
    {
     "id": "T2-005",
@@ -3375,7 +3315,15 @@
     "beat": "unclaimed-property",
     "score": 0,
     "kind": "elite",
-    "rank": 96
+    "rank": 88
+   },
+   {
+    "id": "T2-013",
+    "name": "Apex Dusty Mole",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "elite",
+    "rank": 89
    },
    {
     "id": "T2-017",
@@ -3383,7 +3331,15 @@
     "beat": "unclaimed-property",
     "score": 0,
     "kind": "elite",
-    "rank": 97
+    "rank": 90
+   },
+   {
+    "id": "T2-025",
+    "name": "Apex Slick Fox",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "elite",
+    "rank": 91
    },
    {
     "id": "T2-029",
@@ -3391,7 +3347,15 @@
     "beat": "unclaimed-property",
     "score": 0,
     "kind": "elite",
-    "rank": 98
+    "rank": 92
+   },
+   {
+    "id": "T2-037",
+    "name": "Apex Rusty Raccoon",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "elite",
+    "rank": 93
    },
    {
     "id": "T2-041",
@@ -3399,7 +3363,15 @@
     "beat": "unclaimed-property",
     "score": 0,
     "kind": "elite",
-    "rank": 99
+    "rank": 94
+   },
+   {
+    "id": "T2-049",
+    "name": "Apex Peppy Coyote",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "elite",
+    "rank": 95
    },
    {
     "id": "T2-053",
@@ -3407,7 +3379,15 @@
     "beat": "unclaimed-property",
     "score": 0,
     "kind": "elite",
-    "rank": 100
+    "rank": 96
+   },
+   {
+    "id": "T2-061",
+    "name": "Apex Sharp Ferret",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "elite",
+    "rank": 97
    },
    {
     "id": "T2-065",
@@ -3415,7 +3395,15 @@
     "beat": "unclaimed-property",
     "score": 0,
     "kind": "elite",
-    "rank": 101
+    "rank": 98
+   },
+   {
+    "id": "T2-073",
+    "name": "Apex Wily Mole",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "elite",
+    "rank": 99
    },
    {
     "id": "T2-077",
@@ -3423,12 +3411,28 @@
     "beat": "unclaimed-property",
     "score": 0,
     "kind": "elite",
-    "rank": 102
+    "rank": 100
+   },
+   {
+    "id": "T2-085",
+    "name": "Apex Bold Fox",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "elite",
+    "rank": 101
    },
    {
     "id": "T2-089",
     "name": "Apex Bold Coyote",
     "beat": "unclaimed-property",
+    "score": 0,
+    "kind": "elite",
+    "rank": 102
+   },
+   {
+    "id": "T2-097",
+    "name": "Apex Calm Raccoon",
+    "beat": "settlements-no-proof",
     "score": 0,
     "kind": "elite",
     "rank": 103
@@ -3442,18 +3446,9 @@
     "round": 1,
     "size": 103,
     "survivors": [
-     "T2-049",
-     "T2-073",
-     "T2-097",
-     "T3-001",
-     "T3-049",
-     "T3-025",
-     "T3-037",
-     "T3-013",
-     "T3-085",
-     "T3-061",
-     "T3-097",
-     "T3-073",
+     "T2-051",
+     "T2-087",
+     "T2-015",
      "T3-051",
      "T3-075",
      "T3-015",
@@ -3528,22 +3523,31 @@
      "T3-081",
      "T3-009",
      "T3-033",
+     "T3-001",
      "T3-002",
      "T3-008",
+     "T3-013",
      "T3-014",
      "T3-020",
+     "T3-025",
      "T3-026",
      "T3-032",
+     "T3-037",
      "T3-038",
      "T3-044",
+     "T3-049",
      "T3-050",
      "T3-056",
+     "T3-061",
      "T3-062",
      "T3-068",
+     "T3-073",
      "T3-074",
      "T3-080",
+     "T3-085",
      "T3-086",
      "T3-092",
+     "T3-097",
      "T3-098"
     ],
     "eliminated": []
@@ -3552,20 +3556,9 @@
     "round": 2,
     "size": 12,
     "survivors": [
-     "T2-049",
-     "T2-073",
-     "T2-097",
-     "T3-001",
-     "T3-049",
-     "T3-025",
-     "T3-037",
-     "T3-013",
-     "T3-085",
-     "T3-061",
-     "T3-097",
-     "T3-073"
-    ],
-    "eliminated": [
+     "T2-051",
+     "T2-087",
+     "T2-015",
      "T3-051",
      "T3-075",
      "T3-015",
@@ -3574,7 +3567,9 @@
      "T3-039",
      "T3-003",
      "T3-099",
-     "T3-087",
+     "T3-087"
+    ],
+    "eliminated": [
      "T3-034",
      "T3-084",
      "T3-096",
@@ -3640,22 +3635,31 @@
      "T3-081",
      "T3-009",
      "T3-033",
+     "T3-001",
      "T3-002",
      "T3-008",
+     "T3-013",
      "T3-014",
      "T3-020",
+     "T3-025",
      "T3-026",
      "T3-032",
+     "T3-037",
      "T3-038",
      "T3-044",
+     "T3-049",
      "T3-050",
      "T3-056",
+     "T3-061",
      "T3-062",
      "T3-068",
+     "T3-073",
      "T3-074",
      "T3-080",
+     "T3-085",
      "T3-086",
      "T3-092",
+     "T3-097",
      "T3-098"
     ]
    },
@@ -3663,142 +3667,70 @@
     "round": 3,
     "size": 3,
     "survivors": [
-     "T2-049",
-     "T2-073",
-     "T2-097"
+     "T2-051",
+     "T2-087",
+     "T2-015"
     ],
     "eliminated": [
-     "T3-001",
-     "T3-049",
-     "T3-025",
-     "T3-037",
-     "T3-013",
-     "T3-085",
-     "T3-061",
-     "T3-097",
-     "T3-073"
+     "T3-051",
+     "T3-075",
+     "T3-015",
+     "T3-063",
+     "T3-027",
+     "T3-039",
+     "T3-003",
+     "T3-099",
+     "T3-087"
     ]
    }
   ],
   "champions": [
    {
-    "id": "T2-049",
-    "name": "Apex Peppy Coyote",
-    "beat": "settlements-no-proof",
-    "score": 4.4568,
+    "id": "T2-051",
+    "name": "Apex Frugal Ferret",
+    "beat": "settlements-new",
+    "score": 2.6704,
     "kind": "seed"
    },
    {
-    "id": "T2-073",
-    "name": "Apex Wily Mole",
-    "beat": "settlements-no-proof",
-    "score": 4.4149,
+    "id": "T2-087",
+    "name": "Apex Bold Raccoon",
+    "beat": "settlements-new",
+    "score": 2.6073,
     "kind": "seed"
    },
    {
-    "id": "T2-097",
-    "name": "Apex Calm Raccoon",
-    "beat": "settlements-no-proof",
-    "score": 4.3503,
+    "id": "T2-015",
+    "name": "Apex Dusty Fox",
+    "beat": "settlements-new",
+    "score": 2.6041,
     "kind": "seed"
    }
   ],
   "leaderboard": [
    {
-    "id": "T2-049",
-    "name": "Apex Peppy Coyote",
-    "beat": "settlements-no-proof",
-    "score": 4.4568,
+    "id": "T2-051",
+    "name": "Apex Frugal Ferret",
+    "beat": "settlements-new",
+    "score": 2.6704,
     "kind": "seed",
     "rank": 1
    },
    {
-    "id": "T2-073",
-    "name": "Apex Wily Mole",
-    "beat": "settlements-no-proof",
-    "score": 4.4149,
+    "id": "T2-087",
+    "name": "Apex Bold Raccoon",
+    "beat": "settlements-new",
+    "score": 2.6073,
     "kind": "seed",
     "rank": 2
    },
    {
-    "id": "T2-097",
-    "name": "Apex Calm Raccoon",
-    "beat": "settlements-no-proof",
-    "score": 4.3503,
+    "id": "T2-015",
+    "name": "Apex Dusty Fox",
+    "beat": "settlements-new",
+    "score": 2.6041,
     "kind": "seed",
     "rank": 3
-   },
-   {
-    "id": "T3-001",
-    "name": "Prime Lucky Ferret",
-    "beat": "settlements-no-proof",
-    "score": 3.6022,
-    "kind": "elite",
-    "rank": 4
-   },
-   {
-    "id": "T3-049",
-    "name": "Prime Peppy Coyote",
-    "beat": "settlements-no-proof",
-    "score": 3.5627,
-    "kind": "elite",
-    "rank": 5
-   },
-   {
-    "id": "T3-025",
-    "name": "Prime Slick Fox",
-    "beat": "settlements-no-proof",
-    "score": 3.4932,
-    "kind": "elite",
-    "rank": 6
-   },
-   {
-    "id": "T3-037",
-    "name": "Prime Rusty Raccoon",
-    "beat": "settlements-no-proof",
-    "score": 3.4415,
-    "kind": "elite",
-    "rank": 7
-   },
-   {
-    "id": "T3-013",
-    "name": "Prime Dusty Mole",
-    "beat": "settlements-no-proof",
-    "score": 3.4119,
-    "kind": "elite",
-    "rank": 8
-   },
-   {
-    "id": "T3-085",
-    "name": "Prime Bold Fox",
-    "beat": "settlements-no-proof",
-    "score": 3.3057,
-    "kind": "elite",
-    "rank": 9
-   },
-   {
-    "id": "T3-061",
-    "name": "Prime Sharp Ferret",
-    "beat": "settlements-no-proof",
-    "score": 3.2189,
-    "kind": "elite",
-    "rank": 10
-   },
-   {
-    "id": "T3-097",
-    "name": "Prime Calm Raccoon",
-    "beat": "settlements-no-proof",
-    "score": 3.1984,
-    "kind": "elite",
-    "rank": 11
-   },
-   {
-    "id": "T3-073",
-    "name": "Prime Wily Mole",
-    "beat": "settlements-no-proof",
-    "score": 3.1422,
-    "kind": "elite",
-    "rank": 12
    },
    {
     "id": "T3-051",
@@ -3806,7 +3738,7 @@
     "beat": "settlements-new",
     "score": 2.1782,
     "kind": "elite",
-    "rank": 13
+    "rank": 4
    },
    {
     "id": "T3-075",
@@ -3814,7 +3746,7 @@
     "beat": "settlements-new",
     "score": 2.139,
     "kind": "elite",
-    "rank": 14
+    "rank": 5
    },
    {
     "id": "T3-015",
@@ -3822,7 +3754,7 @@
     "beat": "settlements-new",
     "score": 2.0142,
     "kind": "elite",
-    "rank": 15
+    "rank": 6
    },
    {
     "id": "T3-063",
@@ -3830,7 +3762,7 @@
     "beat": "settlements-new",
     "score": 2.0014,
     "kind": "elite",
-    "rank": 16
+    "rank": 7
    },
    {
     "id": "T3-027",
@@ -3838,7 +3770,7 @@
     "beat": "settlements-new",
     "score": 1.9718,
     "kind": "elite",
-    "rank": 17
+    "rank": 8
    },
    {
     "id": "T3-039",
@@ -3846,7 +3778,7 @@
     "beat": "settlements-new",
     "score": 1.9578,
     "kind": "elite",
-    "rank": 18
+    "rank": 9
    },
    {
     "id": "T3-003",
@@ -3854,7 +3786,7 @@
     "beat": "settlements-new",
     "score": 1.8616,
     "kind": "elite",
-    "rank": 19
+    "rank": 10
    },
    {
     "id": "T3-099",
@@ -3862,7 +3794,7 @@
     "beat": "settlements-new",
     "score": 1.8433,
     "kind": "elite",
-    "rank": 20
+    "rank": 11
    },
    {
     "id": "T3-087",
@@ -3870,7 +3802,7 @@
     "beat": "settlements-new",
     "score": 1.8315,
     "kind": "elite",
-    "rank": 21
+    "rank": 12
    },
    {
     "id": "T3-034",
@@ -3878,7 +3810,7 @@
     "beat": "warranty-claims",
     "score": 1.5301,
     "kind": "elite",
-    "rank": 22
+    "rank": 13
    },
    {
     "id": "T3-084",
@@ -3886,7 +3818,7 @@
     "beat": "state-programs",
     "score": 1.4583,
     "kind": "elite",
-    "rank": 23
+    "rank": 14
    },
    {
     "id": "T3-096",
@@ -3894,7 +3826,7 @@
     "beat": "state-programs",
     "score": 1.4559,
     "kind": "elite",
-    "rank": 24
+    "rank": 15
    },
    {
     "id": "T3-022",
@@ -3902,7 +3834,7 @@
     "beat": "warranty-claims",
     "score": 1.4546,
     "kind": "elite",
-    "rank": 25
+    "rank": 16
    },
    {
     "id": "T3-036",
@@ -3910,7 +3842,7 @@
     "beat": "state-programs",
     "score": 1.4525,
     "kind": "elite",
-    "rank": 26
+    "rank": 17
    },
    {
     "id": "T3-082",
@@ -3918,7 +3850,7 @@
     "beat": "warranty-claims",
     "score": 1.4519,
     "kind": "elite",
-    "rank": 27
+    "rank": 18
    },
    {
     "id": "T3-060",
@@ -3926,7 +3858,7 @@
     "beat": "state-programs",
     "score": 1.4412,
     "kind": "elite",
-    "rank": 28
+    "rank": 19
    },
    {
     "id": "T3-012",
@@ -3934,7 +3866,7 @@
     "beat": "state-programs",
     "score": 1.3982,
     "kind": "elite",
-    "rank": 29
+    "rank": 20
    },
    {
     "id": "T3-070",
@@ -3942,7 +3874,7 @@
     "beat": "warranty-claims",
     "score": 1.3842,
     "kind": "elite",
-    "rank": 30
+    "rank": 21
    },
    {
     "id": "T3-072",
@@ -3950,7 +3882,7 @@
     "beat": "state-programs",
     "score": 1.3678,
     "kind": "elite",
-    "rank": 31
+    "rank": 22
    },
    {
     "id": "T3-048",
@@ -3958,7 +3890,7 @@
     "beat": "state-programs",
     "score": 1.3518,
     "kind": "elite",
-    "rank": 32
+    "rank": 23
    },
    {
     "id": "T3-058",
@@ -3966,7 +3898,7 @@
     "beat": "warranty-claims",
     "score": 1.3404,
     "kind": "elite",
-    "rank": 33
+    "rank": 24
    },
    {
     "id": "T3-094",
@@ -3974,7 +3906,7 @@
     "beat": "warranty-claims",
     "score": 1.3246,
     "kind": "elite",
-    "rank": 34
+    "rank": 25
    },
    {
     "id": "T3-010",
@@ -3982,7 +3914,7 @@
     "beat": "warranty-claims",
     "score": 1.2987,
     "kind": "elite",
-    "rank": 35
+    "rank": 26
    },
    {
     "id": "T3-024",
@@ -3990,7 +3922,7 @@
     "beat": "state-programs",
     "score": 1.2914,
     "kind": "elite",
-    "rank": 36
+    "rank": 27
    },
    {
     "id": "T3-046",
@@ -3998,7 +3930,7 @@
     "beat": "warranty-claims",
     "score": 1.2763,
     "kind": "elite",
-    "rank": 37
+    "rank": 28
    },
    {
     "id": "T3-095",
@@ -4006,7 +3938,7 @@
     "beat": "employer-benefits",
     "score": 0.8266,
     "kind": "elite",
-    "rank": 38
+    "rank": 29
    },
    {
     "id": "T3-065",
@@ -4014,7 +3946,7 @@
     "beat": "unclaimed-property",
     "score": 0.8218,
     "kind": "elite",
-    "rank": 39
+    "rank": 30
    },
    {
     "id": "T3-017",
@@ -4022,7 +3954,7 @@
     "beat": "unclaimed-property",
     "score": 0.8142,
     "kind": "elite",
-    "rank": 40
+    "rank": 31
    },
    {
     "id": "T3-047",
@@ -4030,7 +3962,7 @@
     "beat": "employer-benefits",
     "score": 0.79,
     "kind": "elite",
-    "rank": 41
+    "rank": 32
    },
    {
     "id": "T3-005",
@@ -4038,7 +3970,7 @@
     "beat": "unclaimed-property",
     "score": 0.7836,
     "kind": "elite",
-    "rank": 42
+    "rank": 33
    },
    {
     "id": "T3-011",
@@ -4046,7 +3978,7 @@
     "beat": "employer-benefits",
     "score": 0.7811,
     "kind": "elite",
-    "rank": 43
+    "rank": 34
    },
    {
     "id": "T3-053",
@@ -4054,7 +3986,7 @@
     "beat": "unclaimed-property",
     "score": 0.751,
     "kind": "elite",
-    "rank": 44
+    "rank": 35
    },
    {
     "id": "T3-083",
@@ -4062,7 +3994,7 @@
     "beat": "employer-benefits",
     "score": 0.751,
     "kind": "elite",
-    "rank": 45
+    "rank": 36
    },
    {
     "id": "T3-089",
@@ -4070,7 +4002,7 @@
     "beat": "unclaimed-property",
     "score": 0.7361,
     "kind": "elite",
-    "rank": 46
+    "rank": 37
    },
    {
     "id": "T3-023",
@@ -4078,7 +4010,7 @@
     "beat": "employer-benefits",
     "score": 0.7326,
     "kind": "elite",
-    "rank": 47
+    "rank": 38
    },
    {
     "id": "T3-077",
@@ -4086,7 +4018,7 @@
     "beat": "unclaimed-property",
     "score": 0.731,
     "kind": "elite",
-    "rank": 48
+    "rank": 39
    },
    {
     "id": "T3-041",
@@ -4094,7 +4026,7 @@
     "beat": "unclaimed-property",
     "score": 0.7231,
     "kind": "elite",
-    "rank": 49
+    "rank": 40
    },
    {
     "id": "T3-035",
@@ -4102,7 +4034,7 @@
     "beat": "employer-benefits",
     "score": 0.7179,
     "kind": "elite",
-    "rank": 50
+    "rank": 41
    },
    {
     "id": "T3-071",
@@ -4110,7 +4042,7 @@
     "beat": "employer-benefits",
     "score": 0.7099,
     "kind": "elite",
-    "rank": 51
+    "rank": 42
    },
    {
     "id": "T3-029",
@@ -4118,7 +4050,7 @@
     "beat": "unclaimed-property",
     "score": 0.6953,
     "kind": "elite",
-    "rank": 52
+    "rank": 43
    },
    {
     "id": "T3-059",
@@ -4126,7 +4058,7 @@
     "beat": "employer-benefits",
     "score": 0.6841,
     "kind": "elite",
-    "rank": 53
+    "rank": 44
    },
    {
     "id": "T3-078",
@@ -4134,7 +4066,7 @@
     "beat": "utility-rebates",
     "score": 0.5104,
     "kind": "elite",
-    "rank": 54
+    "rank": 45
    },
    {
     "id": "T3-052",
@@ -4142,7 +4074,7 @@
     "beat": "bank-bonuses",
     "score": 0.5013,
     "kind": "elite",
-    "rank": 55
+    "rank": 46
    },
    {
     "id": "T3-004",
@@ -4150,7 +4082,7 @@
     "beat": "bank-bonuses",
     "score": 0.4925,
     "kind": "elite",
-    "rank": 56
+    "rank": 47
    },
    {
     "id": "T3-076",
@@ -4158,7 +4090,7 @@
     "beat": "bank-bonuses",
     "score": 0.4878,
     "kind": "elite",
-    "rank": 57
+    "rank": 48
    },
    {
     "id": "T3-100",
@@ -4166,7 +4098,7 @@
     "beat": "bank-bonuses",
     "score": 0.4834,
     "kind": "elite",
-    "rank": 58
+    "rank": 49
    },
    {
     "id": "T3-006",
@@ -4174,7 +4106,7 @@
     "beat": "utility-rebates",
     "score": 0.4768,
     "kind": "elite",
-    "rank": 59
+    "rank": 50
    },
    {
     "id": "T3-028",
@@ -4182,7 +4114,7 @@
     "beat": "bank-bonuses",
     "score": 0.4737,
     "kind": "elite",
-    "rank": 60
+    "rank": 51
    },
    {
     "id": "T3-054",
@@ -4190,7 +4122,7 @@
     "beat": "utility-rebates",
     "score": 0.4689,
     "kind": "elite",
-    "rank": 61
+    "rank": 52
    },
    {
     "id": "T3-064",
@@ -4198,7 +4130,7 @@
     "beat": "bank-bonuses",
     "score": 0.4671,
     "kind": "elite",
-    "rank": 62
+    "rank": 53
    },
    {
     "id": "T3-066",
@@ -4206,7 +4138,7 @@
     "beat": "utility-rebates",
     "score": 0.4653,
     "kind": "elite",
-    "rank": 63
+    "rank": 54
    },
    {
     "id": "T3-018",
@@ -4214,7 +4146,7 @@
     "beat": "utility-rebates",
     "score": 0.4641,
     "kind": "elite",
-    "rank": 64
+    "rank": 55
    },
    {
     "id": "T3-040",
@@ -4222,7 +4154,7 @@
     "beat": "bank-bonuses",
     "score": 0.463,
     "kind": "elite",
-    "rank": 65
+    "rank": 56
    },
    {
     "id": "T3-090",
@@ -4230,7 +4162,7 @@
     "beat": "utility-rebates",
     "score": 0.4614,
     "kind": "elite",
-    "rank": 66
+    "rank": 57
    },
    {
     "id": "T3-042",
@@ -4238,7 +4170,7 @@
     "beat": "utility-rebates",
     "score": 0.4555,
     "kind": "elite",
-    "rank": 67
+    "rank": 58
    },
    {
     "id": "T3-016",
@@ -4246,7 +4178,7 @@
     "beat": "bank-bonuses",
     "score": 0.4538,
     "kind": "elite",
-    "rank": 68
+    "rank": 59
    },
    {
     "id": "T3-088",
@@ -4254,7 +4186,7 @@
     "beat": "bank-bonuses",
     "score": 0.4441,
     "kind": "elite",
-    "rank": 69
+    "rank": 60
    },
    {
     "id": "T3-030",
@@ -4262,7 +4194,7 @@
     "beat": "utility-rebates",
     "score": 0.4401,
     "kind": "elite",
-    "rank": 70
+    "rank": 61
    },
    {
     "id": "T3-031",
@@ -4270,7 +4202,7 @@
     "beat": "tax-credits",
     "score": 0.4309,
     "kind": "elite",
-    "rank": 71
+    "rank": 62
    },
    {
     "id": "T3-079",
@@ -4278,7 +4210,7 @@
     "beat": "tax-credits",
     "score": 0.4087,
     "kind": "elite",
-    "rank": 72
+    "rank": 63
    },
    {
     "id": "T3-007",
@@ -4286,7 +4218,7 @@
     "beat": "tax-credits",
     "score": 0.4018,
     "kind": "elite",
-    "rank": 73
+    "rank": 64
    },
    {
     "id": "T3-043",
@@ -4294,7 +4226,7 @@
     "beat": "tax-credits",
     "score": 0.3981,
     "kind": "elite",
-    "rank": 74
+    "rank": 65
    },
    {
     "id": "T3-067",
@@ -4302,7 +4234,7 @@
     "beat": "tax-credits",
     "score": 0.3859,
     "kind": "elite",
-    "rank": 75
+    "rank": 66
    },
    {
     "id": "T3-055",
@@ -4310,7 +4242,7 @@
     "beat": "tax-credits",
     "score": 0.3831,
     "kind": "elite",
-    "rank": 76
+    "rank": 67
    },
    {
     "id": "T3-019",
@@ -4318,7 +4250,7 @@
     "beat": "tax-credits",
     "score": 0.3732,
     "kind": "elite",
-    "rank": 77
+    "rank": 68
    },
    {
     "id": "T3-091",
@@ -4326,7 +4258,7 @@
     "beat": "tax-credits",
     "score": 0.3683,
     "kind": "elite",
-    "rank": 78
+    "rank": 69
    },
    {
     "id": "T3-069",
@@ -4334,7 +4266,7 @@
     "beat": "telecom-refunds",
     "score": 0.2386,
     "kind": "elite",
-    "rank": 79
+    "rank": 70
    },
    {
     "id": "T3-021",
@@ -4342,7 +4274,7 @@
     "beat": "telecom-refunds",
     "score": 0.2364,
     "kind": "elite",
-    "rank": 80
+    "rank": 71
    },
    {
     "id": "T3-057",
@@ -4350,7 +4282,7 @@
     "beat": "telecom-refunds",
     "score": 0.2331,
     "kind": "elite",
-    "rank": 81
+    "rank": 72
    },
    {
     "id": "T3-045",
@@ -4358,7 +4290,7 @@
     "beat": "telecom-refunds",
     "score": 0.2309,
     "kind": "elite",
-    "rank": 82
+    "rank": 73
    },
    {
     "id": "T3-093",
@@ -4366,7 +4298,7 @@
     "beat": "telecom-refunds",
     "score": 0.224,
     "kind": "elite",
-    "rank": 83
+    "rank": 74
    },
    {
     "id": "T3-081",
@@ -4374,7 +4306,7 @@
     "beat": "telecom-refunds",
     "score": 0.2229,
     "kind": "elite",
-    "rank": 84
+    "rank": 75
    },
    {
     "id": "T3-009",
@@ -4382,7 +4314,7 @@
     "beat": "telecom-refunds",
     "score": 0.2212,
     "kind": "elite",
-    "rank": 85
+    "rank": 76
    },
    {
     "id": "T3-033",
@@ -4390,7 +4322,15 @@
     "beat": "telecom-refunds",
     "score": 0.2164,
     "kind": "elite",
-    "rank": 86
+    "rank": 77
+   },
+   {
+    "id": "T3-001",
+    "name": "Prime Lucky Ferret",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "elite",
+    "rank": 78
    },
    {
     "id": "T3-002",
@@ -4398,7 +4338,7 @@
     "beat": "settlements-breach",
     "score": 0,
     "kind": "elite",
-    "rank": 87
+    "rank": 79
    },
    {
     "id": "T3-008",
@@ -4406,7 +4346,15 @@
     "beat": "grocery-cashback-apps",
     "score": 0,
     "kind": "elite",
-    "rank": 88
+    "rank": 80
+   },
+   {
+    "id": "T3-013",
+    "name": "Prime Dusty Mole",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "elite",
+    "rank": 81
    },
    {
     "id": "T3-014",
@@ -4414,7 +4362,7 @@
     "beat": "settlements-breach",
     "score": 0,
     "kind": "elite",
-    "rank": 89
+    "rank": 82
    },
    {
     "id": "T3-020",
@@ -4422,7 +4370,15 @@
     "beat": "grocery-cashback-apps",
     "score": 0,
     "kind": "elite",
-    "rank": 90
+    "rank": 83
+   },
+   {
+    "id": "T3-025",
+    "name": "Prime Slick Fox",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "elite",
+    "rank": 84
    },
    {
     "id": "T3-026",
@@ -4430,7 +4386,7 @@
     "beat": "settlements-breach",
     "score": 0,
     "kind": "elite",
-    "rank": 91
+    "rank": 85
    },
    {
     "id": "T3-032",
@@ -4438,7 +4394,15 @@
     "beat": "grocery-cashback-apps",
     "score": 0,
     "kind": "elite",
-    "rank": 92
+    "rank": 86
+   },
+   {
+    "id": "T3-037",
+    "name": "Prime Rusty Raccoon",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "elite",
+    "rank": 87
    },
    {
     "id": "T3-038",
@@ -4446,7 +4410,7 @@
     "beat": "settlements-breach",
     "score": 0,
     "kind": "elite",
-    "rank": 93
+    "rank": 88
    },
    {
     "id": "T3-044",
@@ -4454,7 +4418,15 @@
     "beat": "grocery-cashback-apps",
     "score": 0,
     "kind": "elite",
-    "rank": 94
+    "rank": 89
+   },
+   {
+    "id": "T3-049",
+    "name": "Prime Peppy Coyote",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "elite",
+    "rank": 90
    },
    {
     "id": "T3-050",
@@ -4462,7 +4434,7 @@
     "beat": "settlements-breach",
     "score": 0,
     "kind": "elite",
-    "rank": 95
+    "rank": 91
    },
    {
     "id": "T3-056",
@@ -4470,7 +4442,15 @@
     "beat": "grocery-cashback-apps",
     "score": 0,
     "kind": "elite",
-    "rank": 96
+    "rank": 92
+   },
+   {
+    "id": "T3-061",
+    "name": "Prime Sharp Ferret",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "elite",
+    "rank": 93
    },
    {
     "id": "T3-062",
@@ -4478,7 +4458,7 @@
     "beat": "settlements-breach",
     "score": 0,
     "kind": "elite",
-    "rank": 97
+    "rank": 94
    },
    {
     "id": "T3-068",
@@ -4486,7 +4466,15 @@
     "beat": "grocery-cashback-apps",
     "score": 0,
     "kind": "elite",
-    "rank": 98
+    "rank": 95
+   },
+   {
+    "id": "T3-073",
+    "name": "Prime Wily Mole",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "elite",
+    "rank": 96
    },
    {
     "id": "T3-074",
@@ -4494,7 +4482,7 @@
     "beat": "settlements-breach",
     "score": 0,
     "kind": "elite",
-    "rank": 99
+    "rank": 97
    },
    {
     "id": "T3-080",
@@ -4502,7 +4490,15 @@
     "beat": "grocery-cashback-apps",
     "score": 0,
     "kind": "elite",
-    "rank": 100
+    "rank": 98
+   },
+   {
+    "id": "T3-085",
+    "name": "Prime Bold Fox",
+    "beat": "settlements-no-proof",
+    "score": 0,
+    "kind": "elite",
+    "rank": 99
    },
    {
     "id": "T3-086",
@@ -4510,12 +4506,20 @@
     "beat": "settlements-breach",
     "score": 0,
     "kind": "elite",
-    "rank": 101
+    "rank": 100
    },
    {
     "id": "T3-092",
     "name": "Prime Calm Badger",
     "beat": "grocery-cashback-apps",
+    "score": 0,
+    "kind": "elite",
+    "rank": 101
+   },
+   {
+    "id": "T3-097",
+    "name": "Prime Calm Raccoon",
+    "beat": "settlements-no-proof",
     "score": 0,
     "kind": "elite",
     "rank": 102

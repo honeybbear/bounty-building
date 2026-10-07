@@ -50,6 +50,13 @@ ranks which beats are actually producing.
 - Top-level `champions`/`rounds`/`leaderboard` in `tournament.json` are the
   Round-2 tournament (unchanged shape for the site); `tier2` and `tier3`
   objects carry the higher tiers.
+- **Banned beat (user-directed rule, 2026-10-07):** `settlements-no-proof` is
+  excluded from scoring in all three tiers — the user wants champions that
+  cannot come from the no-proof settlements route. The 5 no-proof opportunities
+  stay in `data/opportunities.json` and on the site as verified legitimate
+  listings; they simply don't count toward any hunter's score, seeding, or
+  elimination math. Implemented as `BANNED_BEATS` in `hunters.py`; hunters
+  assigned to a banned beat score 0.
 
 ## Honesty rules (non-negotiable)
 
