@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Bounty Building — Money Waiting to Be Claimed</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="logo">🏆</div>
+    <div><h1>Bounty Building</h1><p>site finds · you file</p></div>
+  </div>
+  <div class="livebox">
+    <span class="pill" id="livePill"><span class="dot"></span>LIVE</span>
+    <div class="updated" id="updatedAt">loading…</div>
+  </div>
+</header>
+
+<section class="panel" id="champions">
+  <h2>Champions podium</h2>
+  <p class="sub">3 hunters survived the 100-hunter tournament. Scores come from real opportunities — value ÷ effort × deadline urgency.</p>
+  <div class="podium" id="podium"></div>
+</section>
+
+<section class="panel" id="bracket">
+  <h2>Tournament bracket</h2>
+  <p class="sub">100 → 50 → 25 → 12 → 6 → 3. Bottom half eliminated every round. Deterministic: seed 42, same data in, same result out.</p>
+  <div id="rounds"></div>
+</section>
+
+<section class="panel" id="leaders">
+  <h2>Hunter leaderboard</h2>
+  <p class="sub">Top 20 of 100. Every hunter works one beat; only verified opportunities count.</p>
+  <div id="leaderboard"></div>
+</section>
+
+<section class="panel" id="opps">
+  <h2>Open bounties</h2>
+  <p class="sub">Real programs, real deadlines, real claim links. Expired ones drop off automatically. Only claim what you genuinely qualify for.</p>
+  <div class="chips" id="beatChips" aria-label="Filter by beat"></div>
+  <div class="chips" id="proofChips" aria-label="Filter by proof needed"></div>
+  <div id="oppGrid" class="grid"></div>
+</section>
+
+<footer class="disclaimer">
+  <strong>⚠ Every claim is filed under penalty of perjury — by you, not this site.</strong><br>
+  This site FINDS. You FILE. Only claim what you genuinely qualify for; filing a claim you don't qualify for harms other real claimants and can be fraud.<br>
+  Educational content only — not legal or financial advice. Deadlines and payouts change by court order; always verify on the official settlement website before filing.<br>
+  This site never files claims, never moves money, never signs you up for anything.
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

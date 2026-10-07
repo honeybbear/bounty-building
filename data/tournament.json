@@ -1,0 +1,1070 @@
+{
+ "generated_at": "2026-10-07T16:37:01Z",
+ "seed": 42,
+ "opportunity_count": 8,
+ "active_opportunity_count": 8,
+ "rounds": [
+  {
+   "round": 1,
+   "size": 100,
+   "survivors": [
+    "H-031",
+    "H-011",
+    "H-091",
+    "H-061",
+    "H-071",
+    "H-051",
+    "H-081",
+    "H-041",
+    "H-042",
+    "H-082",
+    "H-072",
+    "H-032",
+    "H-062",
+    "H-052",
+    "H-033",
+    "H-003",
+    "H-021",
+    "H-053",
+    "H-013",
+    "H-022",
+    "H-001",
+    "H-002",
+    "H-093",
+    "H-012",
+    "H-063",
+    "H-092",
+    "H-043",
+    "H-073",
+    "H-023",
+    "H-083",
+    "H-004",
+    "H-005",
+    "H-006",
+    "H-007",
+    "H-008",
+    "H-009",
+    "H-010",
+    "H-014",
+    "H-015",
+    "H-016",
+    "H-017",
+    "H-018",
+    "H-019",
+    "H-020",
+    "H-024",
+    "H-025",
+    "H-026",
+    "H-027",
+    "H-028",
+    "H-029",
+    "H-030",
+    "H-034",
+    "H-035",
+    "H-036",
+    "H-037",
+    "H-038",
+    "H-039",
+    "H-040",
+    "H-044",
+    "H-045",
+    "H-046",
+    "H-047",
+    "H-048",
+    "H-049",
+    "H-050",
+    "H-054",
+    "H-055",
+    "H-056",
+    "H-057",
+    "H-058",
+    "H-059",
+    "H-060",
+    "H-064",
+    "H-065",
+    "H-066",
+    "H-067",
+    "H-068",
+    "H-069",
+    "H-070",
+    "H-074",
+    "H-075",
+    "H-076",
+    "H-077",
+    "H-078",
+    "H-079",
+    "H-080",
+    "H-084",
+    "H-085",
+    "H-086",
+    "H-087",
+    "H-088",
+    "H-089",
+    "H-090",
+    "H-094",
+    "H-095",
+    "H-096",
+    "H-097",
+    "H-098",
+    "H-099",
+    "H-100"
+   ],
+   "eliminated": []
+  },
+  {
+   "round": 2,
+   "size": 50,
+   "survivors": [
+    "H-031",
+    "H-011",
+    "H-091",
+    "H-061",
+    "H-071",
+    "H-051",
+    "H-081",
+    "H-041",
+    "H-042",
+    "H-082",
+    "H-072",
+    "H-032",
+    "H-062",
+    "H-052",
+    "H-033",
+    "H-003",
+    "H-021",
+    "H-053",
+    "H-013",
+    "H-022",
+    "H-001",
+    "H-002",
+    "H-093",
+    "H-012",
+    "H-063",
+    "H-092",
+    "H-043",
+    "H-073",
+    "H-023",
+    "H-083",
+    "H-004",
+    "H-005",
+    "H-006",
+    "H-007",
+    "H-008",
+    "H-009",
+    "H-010",
+    "H-014",
+    "H-015",
+    "H-016",
+    "H-017",
+    "H-018",
+    "H-019",
+    "H-020",
+    "H-024",
+    "H-025",
+    "H-026",
+    "H-027",
+    "H-028",
+    "H-029"
+   ],
+   "eliminated": [
+    "H-030",
+    "H-034",
+    "H-035",
+    "H-036",
+    "H-037",
+    "H-038",
+    "H-039",
+    "H-040",
+    "H-044",
+    "H-045",
+    "H-046",
+    "H-047",
+    "H-048",
+    "H-049",
+    "H-050",
+    "H-054",
+    "H-055",
+    "H-056",
+    "H-057",
+    "H-058",
+    "H-059",
+    "H-060",
+    "H-064",
+    "H-065",
+    "H-066",
+    "H-067",
+    "H-068",
+    "H-069",
+    "H-070",
+    "H-074",
+    "H-075",
+    "H-076",
+    "H-077",
+    "H-078",
+    "H-079",
+    "H-080",
+    "H-084",
+    "H-085",
+    "H-086",
+    "H-087",
+    "H-088",
+    "H-089",
+    "H-090",
+    "H-094",
+    "H-095",
+    "H-096",
+    "H-097",
+    "H-098",
+    "H-099",
+    "H-100"
+   ]
+  },
+  {
+   "round": 3,
+   "size": 25,
+   "survivors": [
+    "H-031",
+    "H-011",
+    "H-091",
+    "H-061",
+    "H-071",
+    "H-051",
+    "H-081",
+    "H-041",
+    "H-042",
+    "H-082",
+    "H-072",
+    "H-032",
+    "H-062",
+    "H-052",
+    "H-033",
+    "H-003",
+    "H-021",
+    "H-053",
+    "H-013",
+    "H-022",
+    "H-001",
+    "H-002",
+    "H-093",
+    "H-012",
+    "H-063"
+   ],
+   "eliminated": [
+    "H-092",
+    "H-043",
+    "H-073",
+    "H-023",
+    "H-083",
+    "H-004",
+    "H-005",
+    "H-006",
+    "H-007",
+    "H-008",
+    "H-009",
+    "H-010",
+    "H-014",
+    "H-015",
+    "H-016",
+    "H-017",
+    "H-018",
+    "H-019",
+    "H-020",
+    "H-024",
+    "H-025",
+    "H-026",
+    "H-027",
+    "H-028",
+    "H-029"
+   ]
+  },
+  {
+   "round": 4,
+   "size": 12,
+   "survivors": [
+    "H-031",
+    "H-011",
+    "H-091",
+    "H-061",
+    "H-071",
+    "H-051",
+    "H-081",
+    "H-041",
+    "H-042",
+    "H-082",
+    "H-072",
+    "H-032"
+   ],
+   "eliminated": [
+    "H-062",
+    "H-052",
+    "H-033",
+    "H-003",
+    "H-021",
+    "H-053",
+    "H-013",
+    "H-022",
+    "H-001",
+    "H-002",
+    "H-093",
+    "H-012",
+    "H-063"
+   ]
+  },
+  {
+   "round": 5,
+   "size": 6,
+   "survivors": [
+    "H-031",
+    "H-011",
+    "H-091",
+    "H-061",
+    "H-071",
+    "H-051"
+   ],
+   "eliminated": [
+    "H-081",
+    "H-041",
+    "H-042",
+    "H-082",
+    "H-072",
+    "H-032"
+   ]
+  },
+  {
+   "round": 6,
+   "size": 3,
+   "survivors": [
+    "H-031",
+    "H-011",
+    "H-091"
+   ],
+   "eliminated": [
+    "H-061",
+    "H-071",
+    "H-051"
+   ]
+  }
+ ],
+ "champions": [
+  {
+   "id": "H-031",
+   "name": "Rusty Ferret",
+   "beat": "settlements",
+   "score": 4.0083
+  },
+  {
+   "id": "H-011",
+   "name": "Dusty Ferret",
+   "beat": "settlements",
+   "score": 3.9986
+  },
+  {
+   "id": "H-091",
+   "name": "Calm Ferret",
+   "beat": "settlements",
+   "score": 3.7049
+  }
+ ],
+ "leaderboard": [
+  {
+   "id": "H-031",
+   "name": "Rusty Ferret",
+   "beat": "settlements",
+   "score": 4.0083,
+   "rank": 1
+  },
+  {
+   "id": "H-011",
+   "name": "Dusty Ferret",
+   "beat": "settlements",
+   "score": 3.9986,
+   "rank": 2
+  },
+  {
+   "id": "H-091",
+   "name": "Calm Ferret",
+   "beat": "settlements",
+   "score": 3.7049,
+   "rank": 3
+  },
+  {
+   "id": "H-061",
+   "name": "Sharp Ferret",
+   "beat": "settlements",
+   "score": 3.0204,
+   "rank": 4
+  },
+  {
+   "id": "H-071",
+   "name": "Wily Ferret",
+   "beat": "settlements",
+   "score": 2.6221,
+   "rank": 5
+  },
+  {
+   "id": "H-051",
+   "name": "Frugal Ferret",
+   "beat": "settlements",
+   "score": 2.4658,
+   "rank": 6
+  },
+  {
+   "id": "H-081",
+   "name": "Bold Ferret",
+   "beat": "settlements",
+   "score": 2.2679,
+   "rank": 7
+  },
+  {
+   "id": "H-041",
+   "name": "Peppy Ferret",
+   "beat": "settlements",
+   "score": 1.3195,
+   "rank": 8
+  },
+  {
+   "id": "H-042",
+   "name": "Peppy Badger",
+   "beat": "unclaimed-property",
+   "score": 0.6292,
+   "rank": 9
+  },
+  {
+   "id": "H-082",
+   "name": "Bold Badger",
+   "beat": "unclaimed-property",
+   "score": 0.5052,
+   "rank": 10
+  },
+  {
+   "id": "H-072",
+   "name": "Wily Badger",
+   "beat": "unclaimed-property",
+   "score": 0.4994,
+   "rank": 11
+  },
+  {
+   "id": "H-032",
+   "name": "Rusty Badger",
+   "beat": "unclaimed-property",
+   "score": 0.4723,
+   "rank": 12
+  },
+  {
+   "id": "H-062",
+   "name": "Sharp Badger",
+   "beat": "unclaimed-property",
+   "score": 0.4125,
+   "rank": 13
+  },
+  {
+   "id": "H-052",
+   "name": "Frugal Badger",
+   "beat": "unclaimed-property",
+   "score": 0.3971,
+   "rank": 14
+  },
+  {
+   "id": "H-033",
+   "name": "Rusty Mole",
+   "beat": "bank-bonuses",
+   "score": 0.3743,
+   "rank": 15
+  },
+  {
+   "id": "H-003",
+   "name": "Lucky Mole",
+   "beat": "bank-bonuses",
+   "score": 0.3091,
+   "rank": 16
+  },
+  {
+   "id": "H-021",
+   "name": "Slick Ferret",
+   "beat": "settlements",
+   "score": 0.25,
+   "rank": 17
+  },
+  {
+   "id": "H-053",
+   "name": "Frugal Mole",
+   "beat": "bank-bonuses",
+   "score": 0.2206,
+   "rank": 18
+  },
+  {
+   "id": "H-013",
+   "name": "Dusty Mole",
+   "beat": "bank-bonuses",
+   "score": 0.1718,
+   "rank": 19
+  },
+  {
+   "id": "H-022",
+   "name": "Slick Badger",
+   "beat": "unclaimed-property",
+   "score": 0.1612,
+   "rank": 20
+  },
+  {
+   "id": "H-001",
+   "name": "Lucky Ferret",
+   "beat": "settlements",
+   "score": 0.1311,
+   "rank": 21
+  },
+  {
+   "id": "H-002",
+   "name": "Lucky Badger",
+   "beat": "unclaimed-property",
+   "score": 0.1286,
+   "rank": 22
+  },
+  {
+   "id": "H-093",
+   "name": "Calm Mole",
+   "beat": "bank-bonuses",
+   "score": 0.1277,
+   "rank": 23
+  },
+  {
+   "id": "H-012",
+   "name": "Dusty Badger",
+   "beat": "unclaimed-property",
+   "score": 0.0934,
+   "rank": 24
+  },
+  {
+   "id": "H-063",
+   "name": "Sharp Mole",
+   "beat": "bank-bonuses",
+   "score": 0.0908,
+   "rank": 25
+  },
+  {
+   "id": "H-092",
+   "name": "Calm Badger",
+   "beat": "unclaimed-property",
+   "score": 0.0843,
+   "rank": 26
+  },
+  {
+   "id": "H-043",
+   "name": "Peppy Mole",
+   "beat": "bank-bonuses",
+   "score": 0.0823,
+   "rank": 27
+  },
+  {
+   "id": "H-073",
+   "name": "Wily Mole",
+   "beat": "bank-bonuses",
+   "score": 0.0809,
+   "rank": 28
+  },
+  {
+   "id": "H-023",
+   "name": "Slick Mole",
+   "beat": "bank-bonuses",
+   "score": 0.0697,
+   "rank": 29
+  },
+  {
+   "id": "H-083",
+   "name": "Bold Mole",
+   "beat": "bank-bonuses",
+   "score": 0.0345,
+   "rank": 30
+  },
+  {
+   "id": "H-004",
+   "name": "Lucky Hawk",
+   "beat": "card-bonuses",
+   "score": 0,
+   "rank": 31
+  },
+  {
+   "id": "H-005",
+   "name": "Lucky Fox",
+   "beat": "utility-rebates",
+   "score": 0,
+   "rank": 32
+  },
+  {
+   "id": "H-006",
+   "name": "Lucky Otter",
+   "beat": "tax-credits",
+   "score": 0,
+   "rank": 33
+  },
+  {
+   "id": "H-007",
+   "name": "Lucky Raccoon",
+   "beat": "grocery-cashback",
+   "score": 0,
+   "rank": 34
+  },
+  {
+   "id": "H-008",
+   "name": "Lucky Beaver",
+   "beat": "employer-benefits",
+   "score": 0,
+   "rank": 35
+  },
+  {
+   "id": "H-009",
+   "name": "Lucky Coyote",
+   "beat": "telecom-refunds",
+   "score": 0,
+   "rank": 36
+  },
+  {
+   "id": "H-010",
+   "name": "Lucky Marmot",
+   "beat": "warranty-claims",
+   "score": 0,
+   "rank": 37
+  },
+  {
+   "id": "H-014",
+   "name": "Dusty Hawk",
+   "beat": "card-bonuses",
+   "score": 0,
+   "rank": 38
+  },
+  {
+   "id": "H-015",
+   "name": "Dusty Fox",
+   "beat": "utility-rebates",
+   "score": 0,
+   "rank": 39
+  },
+  {
+   "id": "H-016",
+   "name": "Dusty Otter",
+   "beat": "tax-credits",
+   "score": 0,
+   "rank": 40
+  },
+  {
+   "id": "H-017",
+   "name": "Dusty Raccoon",
+   "beat": "grocery-cashback",
+   "score": 0,
+   "rank": 41
+  },
+  {
+   "id": "H-018",
+   "name": "Dusty Beaver",
+   "beat": "employer-benefits",
+   "score": 0,
+   "rank": 42
+  },
+  {
+   "id": "H-019",
+   "name": "Dusty Coyote",
+   "beat": "telecom-refunds",
+   "score": 0,
+   "rank": 43
+  },
+  {
+   "id": "H-020",
+   "name": "Dusty Marmot",
+   "beat": "warranty-claims",
+   "score": 0,
+   "rank": 44
+  },
+  {
+   "id": "H-024",
+   "name": "Slick Hawk",
+   "beat": "card-bonuses",
+   "score": 0,
+   "rank": 45
+  },
+  {
+   "id": "H-025",
+   "name": "Slick Fox",
+   "beat": "utility-rebates",
+   "score": 0,
+   "rank": 46
+  },
+  {
+   "id": "H-026",
+   "name": "Slick Otter",
+   "beat": "tax-credits",
+   "score": 0,
+   "rank": 47
+  },
+  {
+   "id": "H-027",
+   "name": "Slick Raccoon",
+   "beat": "grocery-cashback",
+   "score": 0,
+   "rank": 48
+  },
+  {
+   "id": "H-028",
+   "name": "Slick Beaver",
+   "beat": "employer-benefits",
+   "score": 0,
+   "rank": 49
+  },
+  {
+   "id": "H-029",
+   "name": "Slick Coyote",
+   "beat": "telecom-refunds",
+   "score": 0,
+   "rank": 50
+  },
+  {
+   "id": "H-030",
+   "name": "Slick Marmot",
+   "beat": "warranty-claims",
+   "score": 0,
+   "rank": 51
+  },
+  {
+   "id": "H-034",
+   "name": "Rusty Hawk",
+   "beat": "card-bonuses",
+   "score": 0,
+   "rank": 52
+  },
+  {
+   "id": "H-035",
+   "name": "Rusty Fox",
+   "beat": "utility-rebates",
+   "score": 0,
+   "rank": 53
+  },
+  {
+   "id": "H-036",
+   "name": "Rusty Otter",
+   "beat": "tax-credits",
+   "score": 0,
+   "rank": 54
+  },
+  {
+   "id": "H-037",
+   "name": "Rusty Raccoon",
+   "beat": "grocery-cashback",
+   "score": 0,
+   "rank": 55
+  },
+  {
+   "id": "H-038",
+   "name": "Rusty Beaver",
+   "beat": "employer-benefits",
+   "score": 0,
+   "rank": 56
+  },
+  {
+   "id": "H-039",
+   "name": "Rusty Coyote",
+   "beat": "telecom-refunds",
+   "score": 0,
+   "rank": 57
+  },
+  {
+   "id": "H-040",
+   "name": "Rusty Marmot",
+   "beat": "warranty-claims",
+   "score": 0,
+   "rank": 58
+  },
+  {
+   "id": "H-044",
+   "name": "Peppy Hawk",
+   "beat": "card-bonuses",
+   "score": 0,
+   "rank": 59
+  },
+  {
+   "id": "H-045",
+   "name": "Peppy Fox",
+   "beat": "utility-rebates",
+   "score": 0,
+   "rank": 60
+  },
+  {
+   "id": "H-046",
+   "name": "Peppy Otter",
+   "beat": "tax-credits",
+   "score": 0,
+   "rank": 61
+  },
+  {
+   "id": "H-047",
+   "name": "Peppy Raccoon",
+   "beat": "grocery-cashback",
+   "score": 0,
+   "rank": 62
+  },
+  {
+   "id": "H-048",
+   "name": "Peppy Beaver",
+   "beat": "employer-benefits",
+   "score": 0,
+   "rank": 63
+  },
+  {
+   "id": "H-049",
+   "name": "Peppy Coyote",
+   "beat": "telecom-refunds",
+   "score": 0,
+   "rank": 64
+  },
+  {
+   "id": "H-050",
+   "name": "Peppy Marmot",
+   "beat": "warranty-claims",
+   "score": 0,
+   "rank": 65
+  },
+  {
+   "id": "H-054",
+   "name": "Frugal Hawk",
+   "beat": "card-bonuses",
+   "score": 0,
+   "rank": 66
+  },
+  {
+   "id": "H-055",
+   "name": "Frugal Fox",
+   "beat": "utility-rebates",
+   "score": 0,
+   "rank": 67
+  },
+  {
+   "id": "H-056",
+   "name": "Frugal Otter",
+   "beat": "tax-credits",
+   "score": 0,
+   "rank": 68
+  },
+  {
+   "id": "H-057",
+   "name": "Frugal Raccoon",
+   "beat": "grocery-cashback",
+   "score": 0,
+   "rank": 69
+  },
+  {
+   "id": "H-058",
+   "name": "Frugal Beaver",
+   "beat": "employer-benefits",
+   "score": 0,
+   "rank": 70
+  },
+  {
+   "id": "H-059",
+   "name": "Frugal Coyote",
+   "beat": "telecom-refunds",
+   "score": 0,
+   "rank": 71
+  },
+  {
+   "id": "H-060",
+   "name": "Frugal Marmot",
+   "beat": "warranty-claims",
+   "score": 0,
+   "rank": 72
+  },
+  {
+   "id": "H-064",
+   "name": "Sharp Hawk",
+   "beat": "card-bonuses",
+   "score": 0,
+   "rank": 73
+  },
+  {
+   "id": "H-065",
+   "name": "Sharp Fox",
+   "beat": "utility-rebates",
+   "score": 0,
+   "rank": 74
+  },
+  {
+   "id": "H-066",
+   "name": "Sharp Otter",
+   "beat": "tax-credits",
+   "score": 0,
+   "rank": 75
+  },
+  {
+   "id": "H-067",
+   "name": "Sharp Raccoon",
+   "beat": "grocery-cashback",
+   "score": 0,
+   "rank": 76
+  },
+  {
+   "id": "H-068",
+   "name": "Sharp Beaver",
+   "beat": "employer-benefits",
+   "score": 0,
+   "rank": 77
+  },
+  {
+   "id": "H-069",
+   "name": "Sharp Coyote",
+   "beat": "telecom-refunds",
+   "score": 0,
+   "rank": 78
+  },
+  {
+   "id": "H-070",
+   "name": "Sharp Marmot",
+   "beat": "warranty-claims",
+   "score": 0,
+   "rank": 79
+  },
+  {
+   "id": "H-074",
+   "name": "Wily Hawk",
+   "beat": "card-bonuses",
+   "score": 0,
+   "rank": 80
+  },
+  {
+   "id": "H-075",
+   "name": "Wily Fox",
+   "beat": "utility-rebates",
+   "score": 0,
+   "rank": 81
+  },
+  {
+   "id": "H-076",
+   "name": "Wily Otter",
+   "beat": "tax-credits",
+   "score": 0,
+   "rank": 82
+  },
+  {
+   "id": "H-077",
+   "name": "Wily Raccoon",
+   "beat": "grocery-cashback",
+   "score": 0,
+   "rank": 83
+  },
+  {
+   "id": "H-078",
+   "name": "Wily Beaver",
+   "beat": "employer-benefits",
+   "score": 0,
+   "rank": 84
+  },
+  {
+   "id": "H-079",
+   "name": "Wily Coyote",
+   "beat": "telecom-refunds",
+   "score": 0,
+   "rank": 85
+  },
+  {
+   "id": "H-080",
+   "name": "Wily Marmot",
+   "beat": "warranty-claims",
+   "score": 0,
+   "rank": 86
+  },
+  {
+   "id": "H-084",
+   "name": "Bold Hawk",
+   "beat": "card-bonuses",
+   "score": 0,
+   "rank": 87
+  },
+  {
+   "id": "H-085",
+   "name": "Bold Fox",
+   "beat": "utility-rebates",
+   "score": 0,
+   "rank": 88
+  },
+  {
+   "id": "H-086",
+   "name": "Bold Otter",
+   "beat": "tax-credits",
+   "score": 0,
+   "rank": 89
+  },
+  {
+   "id": "H-087",
+   "name": "Bold Raccoon",
+   "beat": "grocery-cashback",
+   "score": 0,
+   "rank": 90
+  },
+  {
+   "id": "H-088",
+   "name": "Bold Beaver",
+   "beat": "employer-benefits",
+   "score": 0,
+   "rank": 91
+  },
+  {
+   "id": "H-089",
+   "name": "Bold Coyote",
+   "beat": "telecom-refunds",
+   "score": 0,
+   "rank": 92
+  },
+  {
+   "id": "H-090",
+   "name": "Bold Marmot",
+   "beat": "warranty-claims",
+   "score": 0,
+   "rank": 93
+  },
+  {
+   "id": "H-094",
+   "name": "Calm Hawk",
+   "beat": "card-bonuses",
+   "score": 0,
+   "rank": 94
+  },
+  {
+   "id": "H-095",
+   "name": "Calm Fox",
+   "beat": "utility-rebates",
+   "score": 0,
+   "rank": 95
+  },
+  {
+   "id": "H-096",
+   "name": "Calm Otter",
+   "beat": "tax-credits",
+   "score": 0,
+   "rank": 96
+  },
+  {
+   "id": "H-097",
+   "name": "Calm Raccoon",
+   "beat": "grocery-cashback",
+   "score": 0,
+   "rank": 97
+  },
+  {
+   "id": "H-098",
+   "name": "Calm Beaver",
+   "beat": "employer-benefits",
+   "score": 0,
+   "rank": 98
+  },
+  {
+   "id": "H-099",
+   "name": "Calm Coyote",
+   "beat": "telecom-refunds",
+   "score": 0,
+   "rank": 99
+  },
+  {
+   "id": "H-100",
+   "name": "Calm Marmot",
+   "beat": "warranty-claims",
+   "score": 0,
+   "rank": 100
+  }
+ ]
+}

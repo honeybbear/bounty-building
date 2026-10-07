@@ -1,0 +1,33 @@
+name: Daily bounty refresh
+
+# Marks expired opportunities and re-runs the 100-hunter tournament.
+# No API keys, no secrets. Never invents data.
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh opportunities + tournament
+        run: python3 refresh.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "bounty-bot"
+          git config user.email "bounty-bot@users.noreply.github.com"
+          git add data/opportunities.json data/tournament.json
+          git diff --cached --quiet || git commit -m "Daily bounty refresh: $(date -u +%Y-%m-%d)"
+          git push
