@@ -12,4 +12,9 @@
 
 | Date | Candidate | Reason rejected |
 |------|-----------|-----------------|
-|      |           |                 |
+| 2026-10-08 | Nonbank ATM surcharge $167.5M (no proof at filing, deadline 2026-02-10) | REJECTED — Eimaj banned the entire no-proof route 2026-10-07; this beat may not publish no-proof finds. Candidate not verified. |
+| 2026-10-08 | CVS Pharmacy $20.5M digital privacy (up-to-$5 no-document path, deadline 2026-11-16) | REJECTED — same standing no-proof ban. Candidate not verified. |
+| 2026-10-08 | ConnectOnCall settlement (no proof, deadline 2026-11-02) | REJECTED — same standing no-proof ban. Candidate not verified. |
+| 2026-10-08 | Planned Parenthood lab data breach (no proof, deadline 2026-11-24) | REJECTED — same standing no-proof ban. Candidate not verified. |
+| 2026-10-08 | Raging Waters settlement (no proof, deadline 2026-11-24) | REJECTED — same standing no-proof ban. Candidate not verified. |
+| 2026-10-08 | Apple Intelligence/Siri (no proof, deadline 2026-12-21) | REJECTED — same standing no-proof ban. Candidate not verified. |
