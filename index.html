@@ -3,14 +3,16 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Bounty Building — Money Waiting to Be Claimed</title>
+<title>Bounty Hive — Money Waiting to Be Claimed</title>
+<meta name="description" content="The Bounty Hive: 100 hunter bees compete to find verified money waiting to be claimed. Site finds · you file.">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+
 <header class="topbar">
   <div class="brand">
-    <div class="logo">🏆</div>
-    <div><h1>Bounty Building</h1><p>site finds · you file</p></div>
+    <div class="logo" aria-hidden="true">🍯</div>
+    <div><h1>Bounty Hive</h1><p>site finds · you file</p></div>
   </div>
   <div class="livebox">
     <span class="pill" id="livePill"><span class="dot"></span>LIVE</span>
@@ -18,38 +20,80 @@
   </div>
 </header>
 
-<section class="panel" id="champions">
-  <h2>Champions podium</h2>
-  <p class="sub">3 hunters survived the 100-hunter tournament. Scores come from real opportunities — value ÷ effort × deadline urgency.</p>
-  <div class="podium" id="podium"></div>
+<section class="hero" aria-label="The hive">
+  <canvas id="hiveCanvas" aria-label="Animated beehive with bees flying foraging paths"></canvas>
+  <div class="hero-text">
+    <h2>The Bounty Hive</h2>
+    <p>100 hunter bees. One hive. Every verified dollar of money waiting to be claimed, stored as honey.</p>
+  </div>
 </section>
 
-<section class="panel" id="bracket">
-  <h2>Tournament bracket</h2>
-  <p class="sub">100 → 50 → 25 → 12 → 6 → 3. Bottom half eliminated every round. Deterministic: seed 42, same data in, same result out.</p>
-  <div id="rounds"></div>
+<section class="panel" id="growth" aria-label="Hive growth">
+  <h2>Hive growth</h2>
+  <p class="sub">The comb fills as the champion teams verify new finds. Honey levels come straight from the real fund and program values — no fake honey.</p>
+  <div class="meter-wrap">
+    <div class="meter-label"><span>🍯 Honey stores — total verified fund &amp; program value</span><strong id="honeyTotal">…</strong></div>
+    <div class="meter"><div class="meter-fill" id="honeyFill"></div></div>
+  </div>
+  <div class="stats" id="hiveStats"></div>
 </section>
 
-<section class="panel" id="leaders">
-  <h2>Hunter leaderboard</h2>
-  <p class="sub">Top 20 of 100. Every hunter works one beat; only verified opportunities count.</p>
-  <div id="leaderboard"></div>
+<section class="panel" id="queens" aria-label="Queen bees">
+  <h2>Royal chamber — the 3 queen bees</h2>
+  <p class="sub">The three champions of the 100-hunter tournament, crowned on the royal comb. Tap a queen for her record.</p>
+  <div class="royalcomb" id="queenComb"></div>
 </section>
 
-<section class="panel" id="opps">
-  <h2>Open bounties</h2>
-  <p class="sub">Real programs, real deadlines, real claim links. Expired ones drop off automatically. Only claim what you genuinely qualify for.</p>
+<section class="panel" id="comb" aria-label="Tournament comb">
+  <h2>The tournament comb</h2>
+  <p class="sub">100 → 50 → 25 → 12 → 6 → 3. Survivors fly inward, ring by ring, toward the queen cells. Tap a ring to inspect that round. Deterministic: seed 42, same data in, same result out.</p>
+  <div class="rings-wrap">
+    <svg id="combRings" viewBox="0 0 400 400" role="img" aria-label="Concentric hexagonal tournament rings"></svg>
+  </div>
+  <div class="round-detail" id="roundDetail"><p class="hint">Tap a ring above to see who survived it.</p></div>
+  <h3 class="gauntlet-title">Rival hive raids — the gauntlet</h3>
+  <p class="sub">After the crown, the queens survived two rival-hive raids: 100 Harvard-tier elites, then 100 Yale-tier elites under primary-source-only audit. The same three queens still stand.</p>
+  <div class="gauntlet" id="gauntlet"></div>
+</section>
+
+<section class="panel" id="swarm" aria-label="The swarm">
+  <h2>The swarm — all 100 hunter bees</h2>
+  <p class="sub">Every hunter, one bee. Greyed-out bees were eliminated. Tap any bee for callsign, beat, score and fate.</p>
+  <div class="swarm-grid" id="swarmGrid"></div>
+</section>
+
+<section class="panel" id="honeycomb" aria-label="Honeycomb of opportunities">
+  <h2>The honeycomb — open bounties</h2>
+  <p class="sub">Each verified opportunity is a cell, filled with honey in proportion to its real value tier. Sealed cells (🔒) are capped by hive rule — listed for reference, but they can hold no honey and win no points. Only claim what you genuinely qualify for.</p>
   <div class="chips" id="beatChips" aria-label="Filter by beat"></div>
-  <div class="chips" id="proofChips" aria-label="Filter by proof needed"></div>
-  <div id="oppGrid" class="grid"></div>
+  <div class="honeycomb" id="honeycomb"></div>
+</section>
+
+<section class="panel" id="castes" aria-label="Bee castes">
+  <h2>Hive castes</h2>
+  <p class="sub">Each champion queen commands a five-seat team, working the daily rotation: Scout sweeps → Guard verifies → Comb-builder publishes → Sentinel watches.</p>
+  <div class="caste-grid">
+    <div class="caste"><div class="caste-emoji">👑</div><div class="caste-name">Queen</div><div class="caste-role">Lead Hunter — owns the beat, final say on every find</div></div>
+    <div class="caste"><div class="caste-emoji">🔍</div><div class="caste-name">Scout bee</div><div class="caste-role">Sweeps sources daily, brings back candidates with raw links</div></div>
+    <div class="caste"><div class="caste-emoji">🛡️</div><div class="caste-name">Guard bee</div><div class="caste-role">Verifier — confirms every field same-day, rejects the unverifiable</div></div>
+    <div class="caste"><div class="caste-emoji">🏗️</div><div class="caste-name">Comb-builder</div><div class="caste-role">Scribe — writes verified finds to the comb, nothing invented</div></div>
+    <div class="caste"><div class="caste-emoji">👁️</div><div class="caste-name">Sentinel</div><div class="caste-role">Watcher — tracks deadlines, marks the expired, flags the urgent</div></div>
+  </div>
 </section>
 
 <footer class="disclaimer">
   <strong>⚠ Every claim is filed under penalty of perjury — by you, not this site.</strong><br>
-  This site FINDS. You FILE. Only claim what you genuinely qualify for; filing a claim you don't qualify for harms other real claimants and can be fraud.<br>
+  This hive FINDS. You FILE. Only claim what you genuinely qualify for; filing a claim you don't qualify for harms other real claimants and can be fraud.<br>
   Educational content only — not legal or financial advice. Deadlines and payouts change by court order; always verify on the official settlement website before filing.<br>
+  Verification badges: <span class="vbadge primary">primary-source</span> = confirmed on an official site, court record, .gov page or administrator notice. <span class="vbadge secondary">secondary</span> = confirmed via reputable roundup, awaiting primary confirmation.<br>
   This site never files claims, never moves money, never signs you up for anything.
 </footer>
+
+<div class="sheet-backdrop" id="sheetBackdrop" hidden></div>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true" hidden>
+  <button class="sheet-close" id="sheetClose" aria-label="Close">✕</button>
+  <div class="sheet-body" id="sheetBody"></div>
+</div>
 
 <script src="app.js"></script>
 </body>
