@@ -459,7 +459,7 @@
    "eligibility": "New consumer checking customers (no Wells Fargo consumer checking bonus in past 12 months); open Everyday Checking by Oct 13, 2026 and receive $1,000+ qualifying electronic deposits within 90 days; nationwide",
    "id": "wells-fargo-2026",
    "proof_required": "records",
-   "source_note": "Verified 2026-10-07 via hustlermoneyblog.com (updated 10/6/26) reputable roundup with full terms; offer also available online | claim_url corrected to official Wells Fargo offer page 2026-10-07.",
+   "source_note": "Verified 2026-10-07 via hustlermoneyblog.com (updated 10/6/26) reputable roundup with full terms; offer also available online | claim_url corrected to official Wells Fargo offer page 2026-10-07. Re-verified 2026-10-09: official Wells Fargo offer page states 'Limited Time Offer: ends October 13, 2026'.",
    "title": "Wells Fargo $325 checking bonus",
    "value_desc": "$325 bonus",
    "verified": "2026-10-07",
@@ -624,11 +624,11 @@
    "effort": "45 min + brokerage records",
    "deadline": "2026-10-12",
    "eligibility": "Purchased Spectrum Pharmaceuticals (SPPI, Nasdaq) common stock 5/12/2022-9/22/2022 and held through at least one corrective disclosure; brokerage records required; min $10 payout",
-   "claim_url": "https://www.strategicclaims.net",
+   "claim_url": "https://www.strategicclaims.net/AyoubvSpectrum/",
    "proof_required": "records",
    "verified": "2026-10-08",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-08 via openclassactions.com (linked official site strategicclaims.net); administrator Strategic Claims Services; online deadline Oct 12, 2026 11:59pm ET; final hearing Nov 20, 2026"
+   "source_note": "Verified 2026-10-08 via openclassactions.com (linked official site strategicclaims.net); administrator Strategic Claims Services; online deadline Oct 12, 2026 11:59pm ET; final hearing Nov 20, 2026 Re-verified 2026-10-09: Status Claims Open, online deadline Oct 12, 2026 11:59pm ET (openclassactions.com + Kaplan Fox notice)."
   },
   {
    "id": "ecsi-2026",
@@ -659,6 +659,66 @@
    "verified": "2026-10-09",
    "verification": "secondary",
    "source_note": "Verified 2026-10-09 via classaction.org + openclassactions.com (preliminary approval May 13, 2026; official site LandsEndDataSettlement.com, admin Simpluris)"
+  },
+  {
+   "id": "harvard-morgue-2026",
+   "title": "Harvard $53M anatomical gift program settlement",
+   "category": "Class action",
+   "beat": "settlements-new",
+   "value_desc": "Pro-rata share of $53M net fund ($52.5M primary class 2018-2023; $500K pre-2018 class); varies by donor, relationship to donor, and number of claimants",
+   "effort": "30 min + family records",
+   "deadline": "2026-12-09",
+   "eligibility": "Spouse, registered domestic partner, child, parent, sibling, grandchild (2018-2023 class only), or donor's designee of a person whose remains left the Harvard Medical School morgue Jan 1 2018-Mar 31 2023 (primary) or Jan 1 2003-Dec 31 2017 (pre-2018); also notice recipients and named plaintiffs",
+   "claim_url": "https://harvardmorguesettlement.com",
+   "proof_required": "records",
+   "verified": "2026-10-09",
+   "verification": "secondary",
+   "source_note": "Verified 2026-10-09 via claimdepot.com (updated 2026-10-08) + Bloomberg Law + Fox News + topclassactions.com: preliminary approval by Judge Debra Squires-Lee (Suffolk Superior Court); official site harvardmorguesettlement.com; objection deadline Nov 16, 2026; final hearing Dec 9, 2026; mail or online claim (LoginID/PIN from notice) with gov ID + relationship docs."
+  },
+  {
+   "id": "uop-pixel-2026",
+   "title": "University of Phoenix $8.75M pixel privacy settlement",
+   "category": "Class action",
+   "beat": "settlements-new",
+   "value_desc": "$25 cash payment per class member",
+   "effort": "10 min",
+   "deadline": "2026-11-05",
+   "eligibility": "Enrolled at University of Phoenix after April 1, 2023 (or after April 1, 2020 in Illinois) through Oct 6, 2026; visited a UoP-owned website with browser settings not blocking cookies and no privacy extensions; declaration under penalty of perjury",
+   "claim_url": "https://uoppixelsettlement.com/form/claim",
+   "proof_required": "notice-id",
+   "verified": "2026-10-09",
+   "verification": "secondary",
+   "source_note": "Verified 2026-10-09 via official site uoppixelsettlement.com (claim form login page states Nov 5, 2026 deadline) + openclassactions.com + claimdepot.com; alleged Meta pixel video/data sharing; online claim needs LoginID/PIN from notice, mailed declaration form also accepted."
+  },
+  {
+   "id": "playstudios-2026",
+   "title": "Playstudios $3M social casino virtual chip settlement",
+   "category": "Class action",
+   "beat": "settlements-new",
+   "value_desc": "Cash election up to 23% of eligible spending (net of platform fees); 27% in virtual currency if no election; pro-rata reduction if cash elections exceed 17% of fund value",
+   "effort": "15 min",
+   "deadline": "2026-10-21",
+   "eligibility": "Spent real money in myVEGAS, Pop! Slots, myKONAMI Slots, MGM Slots Live, myVEGAS Blackjack, or myVEGAS Bingo while in Alabama (3/8/2022-6/30/2026), Ohio (7/26/2022-6/30/2026), New Jersey (1/2/2024-6/30/2026), Massachusetts (7/26/2022-6/30/2026), Tennessee (11/12/2022-6/30/2026), or Kentucky (7/5/2018-6/29/2023); claim ID from settlement notice",
+   "claim_url": "https://www.gamingappsettlement.com",
+   "proof_required": "notice-id",
+   "verified": "2026-10-09",
+   "verification": "secondary",
+   "source_note": "Verified 2026-10-09 via classaction.org + newsnet5.com: preliminary approval June 30, 2026; official site gamingappsettlement.com; election/claim form online (gamingappsettlement.pnclassaction.com) or mailed; final hearing Nov 10, 2026."
+  },
+  {
+   "id": "ftac-ii-2026",
+   "title": "FTAC II $59.5M stockholder settlement",
+   "category": "Class action",
+   "beat": "settlements-new",
+   "value_desc": "Pro-rata share of $59.5M net settlement fund; varies by shares held and number of valid claims",
+   "effort": "30 min + brokerage records",
+   "deadline": "2027-01-07",
+   "eligibility": "Held FTAC II (Foley Trasimene Acquisition Corp. II) Class A common stock as of March 23, 2021, of record or beneficially, and were entitled to but did not redeem all shares; defendants, affiliates, and related trusts excluded; non-opt-out class",
+   "claim_url": "https://www.ftaciistockholdersettlement.com/claim",
+   "proof_required": "records",
+   "verified": "2026-10-09",
+   "verification": "primary",
+   "source_note": "Verified 2026-10-09: court-authorized summary notice via PR Newswire (JND Legal Administration, Oct 7, 2026); full 19-page Notice on official site confirms claim deadline Jan 7, 2027 (online or postmarked); hearing Dec 8, 2026; objections due Nov 20, 2026; online Individual Claim Portal secure.ftaciistockholdersettlement.com."
   }
  ]
 }

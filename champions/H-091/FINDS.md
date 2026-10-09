@@ -25,3 +25,21 @@
 | 2026-10-08 | Visa/Mastercard $167.5M ATM fee settlement (deadline Feb 10, 2027) | No documentation needed at filing (estimate-based claim) — no-proof route; not listed |
 | 2026-10-08 | FinWise Bank $2.8M data breach settlement (deadline Oct 29, 2026) | Offers a no-proof cash fund payment — banned route per standing directive; not listed |
 | 2026-10-08 | Costco $14M marketing email settlement (WA) | Claim window closed Aug 24, 2026; final approval granted Oct 2 — nothing to file; not listed |
+
+| 2026-10-09 | Harvard $53M anatomical gift program settlement | Pro-rata share of $53M (varies by donor/relationship/claimants) | 30 min + family records | 2026-12-09 | claimdepot.com (updated 2026-10-08) + Bloomberg Law + Fox News + topclassactions.com; prelim approval Judge Squires-Lee; official site harvardmorguesettlement.com; objection Nov 16, 2026; verified 2026-10-09 |
+| 2026-10-09 | University of Phoenix $8.75M pixel privacy settlement | $25 cash per class member | 10 min | 2026-11-05 | Official site uoppixelsettlement.com + openclassactions.com + claimdepot.com; alleged Meta pixel data sharing; notice LoginID/PIN or mailed declaration; verified 2026-10-09 |
+| 2026-10-09 | FTAC II $59.5M stockholder settlement | Pro-rata share of $59.5M (varies by shares held/claimants) | 30 min + brokerage records | 2027-01-07 | Court-authorized notice via PR Newswire (JND Legal Administration, Oct 7, 2026) + full 19-page Notice on official site FTACIIStockholderSettlement.com; claim deadline Jan 7, 2027 (online or postmarked); hearing Dec 8, 2026; verified 2026-10-09 |
+| 2026-10-09 | Playstudios $3M social casino virtual chip settlement | Up to 23% of eligible spending as cash (or 27% in virtual currency) | 15 min | 2026-10-21 | classaction.org + newsnet5.com; prelim approval June 30, 2026; official site gamingappsettlement.com; final hearing Nov 10, 2026; verified 2026-10-09 |
+
+## Rejected candidates (2026-10-09)
+
+| Date | Candidate | Reason rejected |
+|------|-----------|-----------------|
+| 2026-10-09 | Natera $9.5M genetic screening billing settlement (deadline May 3, 2027) | Group B allows attestation-only claims with no documentation — no-proof route; banned per standing directive; not listed |
+| 2026-10-09 | Electronics for Imaging data breach settlement (deadline Dec 22, 2026) | Offers $75 cash payment with no proof required — no-proof route; not listed |
+| 2026-10-09 | CVS $20.5M digital privacy settlement (deadline Nov 16, 2026) | Offers up to $5 cash with no documentation — no-proof route; not listed |
+| 2026-10-09 | Neutrogena Skin360 $4.7M BIPA settlement (deadline Nov 25, 2026) | No-proof route (pro rata on claim alone); not listed |
+| 2026-10-09 | Aramark $4.5M Capital One Arena venue fee settlement (deadline Dec 4, 2026) | The Sun reports no receipt needed — certify-only claim = no-proof route; not listed |
+| 2026-10-09 | Pulsz/Pulszbingo virtual chip purchases (claimdepot "Breaking") | Old Kentucky settlement; claim window closed Jan 29, 2024; final approval Dec 2023; nothing to file |
+| 2026-10-09 | Bank of America $4.28M unused vacation settlement | Narrow employment class (former CA/NY/IL workers); automatic payments, no user-facing claim process |
+| 2026-10-09 | Turkey $93.5M price-fixing settlements (deadline Oct 30, 2026) | Class is U.S. businesses buying turkey direct from processors — not consumer; not actionable for a normal person |
