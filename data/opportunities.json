@@ -629,6 +629,36 @@
    "verified": "2026-10-08",
    "verification": "secondary",
    "source_note": "Verified 2026-10-08 via openclassactions.com (linked official site strategicclaims.net); administrator Strategic Claims Services; online deadline Oct 12, 2026 11:59pm ET; final hearing Nov 20, 2026"
+  },
+  {
+   "id": "ecsi-2026",
+   "title": "ECSI $6.5M data breach settlement",
+   "category": "Class action",
+   "beat": "settlements-breach",
+   "value_desc": "Up to $5,000 documented losses or est. $100 pro-rata cash; $6.5M fund",
+   "effort": "10 min",
+   "deadline": "2026-12-21",
+   "eligibility": "US residents whose personal info was potentially accessed in the Oct 2023-Feb 2024 ECSI breach (~2.58M); ID + confirmation code from settlement notice required to file online",
+   "claim_url": "https://www.datasettlementecsi.com",
+   "proof_required": "notice-id",
+   "verified": "2026-10-09",
+   "verification": "secondary",
+   "source_note": "Verified 2026-10-09 via classaction.org (preliminary approval Aug 5, 2026; links official site DataSettlementECSI.com)"
+  },
+  {
+   "id": "landsend-2026",
+   "title": "Lands' End data breach settlement",
+   "category": "Class action",
+   "beat": "settlements-breach",
+   "value_desc": "~$60 flat cash or up to $5,000 documented losses; 2-yr credit monitoring w/ $1M fraud insurance",
+   "effort": "10 min",
+   "deadline": "2026-10-22",
+   "eligibility": "US residents whose private info was compromised in the Dec 2024 Lands' End breach (~10,060); login ID + PIN from mailed notice required to file",
+   "claim_url": "https://landsenddatasetlement.com",
+   "proof_required": "notice-id",
+   "verified": "2026-10-09",
+   "verification": "secondary",
+   "source_note": "Verified 2026-10-09 via classaction.org + openclassactions.com (preliminary approval May 13, 2026; official site LandsEndDataSettlement.com, admin Simpluris)"
   }
  ]
 }

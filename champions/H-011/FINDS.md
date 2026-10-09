@@ -30,3 +30,11 @@
 | 2026-10-07 | Arrowhead Regional Computing Consortium data breach | claim deadline Oct 8, 2026 — expires tomorrow; not worth adding today |
 | 2026-10-07 | ABC Legal Services $2.5M data breach | claim deadline Sep 28, 2026 — already closed |
 | 2026-10-08 | ABC Legal Services $2.5M data breach | claim deadline Sep 28, 2026 — already closed; confirmed closed today |
+
+| 2026-10-09 | ECSI $6.5M data breach | up to $5,000 documented or est. $100 pro-rata cash | 10 min | 2026-12-21, ID + confirmation code from notice | classaction.org, verified 2026-10-09 |
+| 2026-10-09 | Lands' End data breach | ~$60 flat cash or up to $5,000 documented; 2-yr credit monitoring | 10 min | 2026-10-22, login ID + PIN from notice — 13 days | classaction.org + openclassactions.com, verified 2026-10-09 |
+| 2026-10-09 | Fort Wayne Medical Education Program data breach | $40 alternative cash has a no-notice filing route (openclassactions: Proof Required: No; Login ID optional "if known") — effectively no-proof, under standing no-proof ban |
+| 2026-10-09 | ConnectOnCall $4.95M data breach | $75 no-documentation tier; Unique ID + PIN "not required" — effectively no-proof, under standing no-proof ban |
+| 2026-10-09 | EY/Bank of America MOVEit breach settlement | deadline Oct 8, 2026 — already closed |
+| 2026-10-09 | Heritage South Credit Union data breach | deadline Oct 5, 2026 — already closed |
+| 2026-10-09 | TransUnion bankruptcy reporting settlement | not a data breach — wrong beat for H-011 |
