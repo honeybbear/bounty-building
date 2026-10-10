@@ -1,12 +1,12 @@
 {
- "run_date": "2026-10-09",
+ "run_date": "2026-10-10",
  "seed": 42,
  "banned_beats": [
   "settlements-no-proof"
  ],
- "opportunity_count": 42,
- "scorable_opportunity_count": 37,
- "active_opportunity_count": 42,
+ "opportunity_count": 48,
+ "scorable_opportunity_count": 43,
+ "active_opportunity_count": 48,
  "rounds": [
   {
    "round": 1,
@@ -2360,8 +2360,8 @@
      "T2-075",
      "T2-039",
      "T2-099",
-     "T2-003",
      "T2-074",
+     "T2-003",
      "T2-002",
      "T2-038",
      "T2-050",
@@ -2470,8 +2470,8 @@
      "T2-075",
      "T2-039",
      "T2-099",
-     "T2-003",
      "T2-074",
+     "T2-003",
      "T2-002"
     ],
     "eliminated": [
@@ -2583,8 +2583,8 @@
      "T2-075",
      "T2-039",
      "T2-099",
-     "T2-003",
      "T2-074",
+     "T2-003",
      "T2-002"
     ]
    }
@@ -2686,18 +2686,18 @@
     "rank": 9
    },
    {
-    "id": "T2-003",
-    "name": "Apex Lucky Mole",
-    "beat": "settlements-new",
-    "score": 2.5503,
+    "id": "T2-074",
+    "name": "Apex Wily Hawk",
+    "beat": "settlements-breach",
+    "score": 2.5763,
     "kind": "elite",
     "rank": 10
    },
    {
-    "id": "T2-074",
-    "name": "Apex Wily Hawk",
-    "beat": "settlements-breach",
-    "score": 2.4291,
+    "id": "T2-003",
+    "name": "Apex Lucky Mole",
+    "beat": "settlements-new",
+    "score": 2.5503,
     "kind": "elite",
     "rank": 11
    },
@@ -2705,7 +2705,7 @@
     "id": "T2-002",
     "name": "Apex Lucky Badger",
     "beat": "settlements-breach",
-    "score": 2.3593,
+    "score": 2.5023,
     "kind": "elite",
     "rank": 12
    },
@@ -2713,7 +2713,7 @@
     "id": "T2-038",
     "name": "Apex Rusty Beaver",
     "beat": "settlements-breach",
-    "score": 2.2947,
+    "score": 2.4338,
     "kind": "elite",
     "rank": 13
    },
@@ -2721,7 +2721,7 @@
     "id": "T2-050",
     "name": "Apex Peppy Marmot",
     "beat": "settlements-breach",
-    "score": 2.2648,
+    "score": 2.4021,
     "kind": "elite",
     "rank": 14
    },
@@ -2729,7 +2729,7 @@
     "id": "T2-098",
     "name": "Apex Calm Beaver",
     "beat": "settlements-breach",
-    "score": 2.2365,
+    "score": 2.3721,
     "kind": "elite",
     "rank": 15
    },
@@ -2737,7 +2737,7 @@
     "id": "T2-014",
     "name": "Apex Dusty Hawk",
     "beat": "settlements-breach",
-    "score": 2.1814,
+    "score": 2.3136,
     "kind": "elite",
     "rank": 16
    },
@@ -2745,7 +2745,7 @@
     "id": "T2-026",
     "name": "Apex Slick Otter",
     "beat": "settlements-breach",
-    "score": 2.1783,
+    "score": 2.3104,
     "kind": "elite",
     "rank": 17
    },
@@ -2753,7 +2753,7 @@
     "id": "T2-086",
     "name": "Apex Bold Otter",
     "beat": "settlements-breach",
-    "score": 2.1031,
+    "score": 2.2305,
     "kind": "elite",
     "rank": 18
    },
@@ -2761,7 +2761,7 @@
     "id": "T2-062",
     "name": "Apex Sharp Badger",
     "beat": "settlements-breach",
-    "score": 2.0943,
+    "score": 2.2212,
     "kind": "elite",
     "rank": 19
    },
