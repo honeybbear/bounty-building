@@ -23,3 +23,6 @@
 | 2026-10-09 | High 5 Games (Washington only, no-proof, via fall 2026 roundup) | REJECTED — same standing no-proof ban. Candidate not verified. |
 | 2026-10-09 | The Venetian (California only, no-proof, via fall 2026 roundup) | REJECTED — same standing no-proof ban. Candidate not verified. |
 | 2026-10-09 | NYC strip search settlement (no-proof, via fall 2026 roundup; NYC Central Booking variant already on board as settlements-new) | REJECTED — same standing no-proof ban. Candidate not verified. |
+| 2026-10-10 | AMN Healthcare $4.5M privacy (Carrero v. AMN; California-only interpreted-conversation class; no proof, deadline 2026-10-27) | REJECTED — same standing no-proof ban. Candidate not verified. |
+| 2026-10-10 | Tift Regional Health System $1.2M data breach ($75 no-proof alternative cash tier, deadline 2026-10-15) | REJECTED — same standing no-proof ban. Candidate not verified. |
+| 2026-10-10 | Truffettes de France (Canada-only; no receipt for ≤3 products, deadline 2026-11-04) | REJECTED — same standing no-proof ban (and non-US). Candidate not verified. |
