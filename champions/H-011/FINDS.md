@@ -38,3 +38,12 @@
 | 2026-10-09 | EY/Bank of America MOVEit breach settlement | deadline Oct 8, 2026 — already closed |
 | 2026-10-09 | Heritage South Credit Union data breach | deadline Oct 5, 2026 — already closed |
 | 2026-10-09 | TransUnion bankruptcy reporting settlement | not a data breach — wrong beat for H-011 |
+
+| 2026-10-10 | FinWise Bank $2.8M data breach | up to $5,000 documented or pro-rata Cash Fund Payment (CA double shares); 2yr monitoring | 10 min | 2026-10-29, Unique ID + PIN from notice | openclassactions (Epiq admin) + classaction.org, verified 2026-10-10 |
+| 2026-10-10 | CUSO Financial Services $1.75M data breach | up to $5,000 documented or up to $599 residual cash; up to $100 CA statutory; 2yr monitoring | 10 min | 2026-11-16, claim number + PIN from notice | claimdepot + classaction.org, verified 2026-10-10 |
+| 2026-10-10 | Finastra Technology $3.125M data breach | up to $2,500 documented or pro-rata cash; 1yr monitoring | 10 min | 2026-11-27, login ID + PIN from notice | claimdepot + classaction.org, verified 2026-10-10 |
+| 2026-10-10 | AMCA $6.44M data breach (Sonic/CPL/Austin Pathology) | up to $5,000 documented or est. $50 alternative cash; 2yr medical monitoring | 10 min | 2027-01-04, class member ID from notice for online filing | claimdepot (updated 2026-10-09; Kroll admin), verified 2026-10-10 |
+| 2026-10-10 | Equinox $685K data breach | up to $5,000 documented or est. $100 pro-rata cash; 3yr monitoring | 10 min | 2026-10-23, Notice ID + Confirmation Code from notice — 13 days | PRNewswire official notice + openclassactions, verified 2026-10-10 |
+| 2026-10-10 | Arizona Labor Force $300K data breach | est. $25 pro-rata cash, "no proof required" per classaction.org — effectively no-proof route available, under standing no-proof ban |
+| 2026-10-10 | MCNA data breach settlement | topclassactions settlement page shows no official settlement website — real claim URL not confirmed today |
+| 2026-10-10 | American Consumer Credit Counseling data breach | claim deadline Sep 16, 2026 — already closed |
