@@ -31,6 +31,17 @@
 | 2026-10-09 | FTAC II $59.5M stockholder settlement | Pro-rata share of $59.5M (varies by shares held/claimants) | 30 min + brokerage records | 2027-01-07 | Court-authorized notice via PR Newswire (JND Legal Administration, Oct 7, 2026) + full 19-page Notice on official site FTACIIStockholderSettlement.com; claim deadline Jan 7, 2027 (online or postmarked); hearing Dec 8, 2026; verified 2026-10-09 |
 | 2026-10-09 | Playstudios $3M social casino virtual chip settlement | Up to 23% of eligible spending as cash (or 27% in virtual currency) | 15 min | 2026-10-21 | classaction.org + newsnet5.com; prelim approval June 30, 2026; official site gamingappsettlement.com; final hearing Nov 10, 2026; verified 2026-10-09 |
 
+## Rejected candidates (2026-10-10)
+
+| Date | Candidate | Reason rejected |
+|------|-----------|-----------------|
+| 2026-10-10 | Lake Compounce $500K ticket fee settlement (deadline Nov 24, 2026) | claimdepot: "No proof is required to submit a claim" (attestation only) — no-proof route per standing directive; not listed |
+| 2026-10-10 | Belcan Engineering "$1.65M pay transparency settlement" (claimdepot Breaking) | Unverifiable — no real program/deadline/claim URL found; search only surfaces the stale 2024 aerospace wage-fixing case (Belcan $9.9M share of $26.5M); not listed |
+
+| 2026-10-10 | TED video privacy VPPA settlement | $5 cash (pro-rata, $350K fund) or 2 free months TED membership (automatic) | 10 min + Claim ID/PIN from notice | 2026-10-26 | Sutton v. TED Foundation (S.D.N.Y.); topclassactions.com + classaction.org + openclassactions.com; official site tedvppasettlement.com; final hearing Nov 12, 2026; verified 2026-10-10 |
+| 2026-10-10 | TransUnion $8.31M bankruptcy-reporting FCRA settlement | $100 automatic (No Bankruptcy Group, no claim) / est. ~$1,000 with claim / ~$350 Aged Bankruptcy Group | 10 min + Claim Number/PIN from notice + sworn certification | 2026-10-30 | Brooks v. Trans Union (E.D. Pa.); openclassactions.com (linked official site brooksbankruptcyclassaction.com) + topclassactions.com + badcredit.org; final hearing Dec 2, 2026; verified 2026-10-10 |
+| 2026-10-10 | Concora Credit $9.375M prerecorded-call TCPA settlement | Est. $250–$650 pro-rata cash | 10 min + Claimant ID/access code from notice | 2026-10-19 | Seals v. Concora Credit (D. Or.); classaction.org (linked official site SealsTCPASettlement.com) + topclassactions.com + eosguidehub.com; prelim approval Aug 5, 2026; final hearing Nov 24, 2026; verified 2026-10-10 |
+
 ## Rejected candidates (2026-10-09)
 
 | Date | Candidate | Reason rejected |
