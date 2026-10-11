@@ -47,3 +47,13 @@
 | 2026-10-10 | Arizona Labor Force $300K data breach | est. $25 pro-rata cash, "no proof required" per classaction.org — effectively no-proof route available, under standing no-proof ban |
 | 2026-10-10 | MCNA data breach settlement | topclassactions settlement page shows no official settlement website — real claim URL not confirmed today |
 | 2026-10-10 | American Consumer Credit Counseling data breach | claim deadline Sep 16, 2026 — already closed |
+| 2026-10-10 | See Tickets data breach | claim deadline not confirmed on an official settlement page today — real deadline unconfirmed |
+
+## 2026-10-11 sweep — six new verified finds
+
+| 2026-10-11 | Kelly Benefits $5M data breach | up to $5,000 documented, est. $50 pro-rata cash ($100 CA statutory); 3yr monitoring | 10 min | 2026-12-28, Class Member ID from notice | official site kellybenefitssettlement.com (Kroll admin) + claimdepot + openclassactions + classaction.org, verified 2026-10-11 |
+| 2026-10-11 | Dap Health $1.3M data breach | up to $5,000 documented, est. $25 pro-rata cash ($75 CA statutory); 2yr credit + medical monitoring | 10 min | 2026-10-21, unique ID + PIN from notice | official site dapdatasettlement.com (Epiq admin) + claimdepot, verified 2026-10-11 |
+| 2026-10-11 | Antigo Construction data breach | up to $3,000 documented losses/lost time or $100 flat alternative cash; 2yr monitoring (auto) | 10 min | 2026-12-24, Notice ID from settlement notice | official site antigodatabreachsettlement.com (Atticus admin) + claimdepot, verified 2026-10-11 |
+| 2026-10-11 | Innovative Renal Care $900K data breach | up to $5,000 documented or est. $100 pro-rata cash; 2yr monitoring | 10 min | 2026-12-21, Class Member ID from notice | PR Newswire official notice (Kroll admin) + classaction.org + openclassactions, verified 2026-10-11 |
+| 2026-10-11 | Jefferson-Blount-St. Clair Mental Health Authority $700K data breach | up to $5,000 documented or $100 flat cash; 3yr monitoring | 10 min | 2026-12-23, CPT ID + passcode from notice | PR Newswire official notice (CPT Group admin) + classaction.org, verified 2026-10-11 |
+| 2026-10-11 | Jack's Family Restaurants data breach | up to $4,000 documented, up to $80 lost time, or $55 alternative cash; 3yr monitoring | 10 min | 2026-11-30, login ID + PIN from notice (court notice governs; some third parties list Nov 20) | court long-form notice + claimdepot + openclassactions, verified 2026-10-11 |
