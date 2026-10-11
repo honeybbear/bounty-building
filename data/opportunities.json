@@ -929,6 +929,66 @@
    "verified": "2026-10-11",
    "verification": "primary",
    "source_note": "Verified 2026-10-11 via court long-form notice + claimdepot + openclassactions; claim deadline Nov 30, 2026 per official court notice (some third parties list Nov 20 - official notice governs); final approval hearing Dec 15, 2026"
+  },
+  {
+   "id": "mcna-dental-2026",
+   "title": "MCNA Dental data breach settlement (documented losses)",
+   "category": "Class action",
+   "beat": "settlements-new",
+   "value_desc": "Up to $2,500 cash for documented out-of-pocket losses (pro-rata reducible against $250K aggregate cap) + 2 years free medical data monitoring (automatic, no claim); cash via electronic payment",
+   "effort": "20 min + notice ID + third-party documentation of losses",
+   "deadline": "2026-10-19",
+   "eligibility": "Living US individuals sent a data-incident notice by MCNA/Healthplex about the Feb 26-Mar 7, 2023 breach (~8.9M notices); Class Member ID from notice required to log in online (mail-in form has optional ID field); minors' claims filed by parent/guardian",
+   "claim_url": "https://www.mcnadatabreachsettlement.com/",
+   "proof_required": "notice-id+records",
+   "verified": "2026-10-11",
+   "verification": "secondary",
+   "source_note": "Verified 2026-10-11 via openclassactions.com (linked official site) + classaction.org + topclassactions.com + hipaajournal.com; Crowe v. MCNA, S.D. Fla. 0:23-cv-61065-AHS; NO flat no-proof cash alternative (explicit); final hearing Nov 16, 2026; losses must be post-breach, pre-Mar 7, 2026, third-party documented (affidavit alone rejected)"
+  },
+  {
+   "id": "state-farm-umpd-2026",
+   "title": "State Farm $8.8M Washington diminished-value (UMPD) settlement",
+   "category": "Class action",
+   "beat": "settlements-new",
+   "value_desc": "Est. $625 average per claim, scaled to individual repair cost (pro-rata of $8.82M fund; reduced by any prior diminished-value payment); paper check",
+   "effort": "10 min + Class Member ID from notice; 3 sworn yes/no questions, no receipts",
+   "deadline": "2026-12-14",
+   "eligibility": "Washington State Farm insureds paid under UMPD coverage for accidents 1/13/2019-2/27/2026 where repair estimate (incl. supplements) totaled >=$1,000, vehicle <=6 model years old with <90,000 miles, with structural/frame damage, deformed sheet metal, or body/paint work; leased and total-loss vehicles excluded; separate form per accident",
+   "claim_url": "https://www.washingtonumpdsettlement.com/",
+   "proof_required": "notice-id",
+   "verified": "2026-10-11",
+   "verification": "secondary",
+   "source_note": "Verified 2026-10-11 via claimdepot.com + topclassactions.com + openclassactions.com + eosguidehub.com; Hardy v. State Farm Mutual Auto Ins. Co., W.D. Wash. 2:25-cv-00072-RSM; admin Kroll; final hearing Oct 30, 2026"
+  },
+  {
+   "id": "suffolk-redlight-2026",
+   "title": "Suffolk County NY $45M red-light camera fee settlement",
+   "category": "Class action",
+   "beat": "settlements-new",
+   "value_desc": "Up to $36 for each $30 red-light camera admin fee paid (pro-rata reducible if valid claims exceed $45M)",
+   "effort": "10 min + Class Member ID from notice (obtainable via contact form on official site)",
+   "deadline": "2026-12-08",
+   "eligibility": "Any person or entity that paid a $30 administrative fee to Suffolk County or the Suffolk County Traffic and Parking Violation Agency for a red-light camera violation between April 1, 2013 and the present; fee count comes from County records (contest with citation/license-plate docs)",
+   "claim_url": "https://www.suffolkredlightsettlement.com/",
+   "proof_required": "notice-id",
+   "verified": "2026-10-11",
+   "verification": "secondary",
+   "source_note": "Verified 2026-10-11 via claimhub24.com + classaction.org + claimdepot.com + topclassactions.com + eosguidehub.com; McGrath v. Suffolk County, N.Y. Sup. Ct. Suffolk County Index No. 608155/2016; admin Kroll; final hearing Dec 8, 2026; proposed settlement, payments only after final approval + appeals"
+  },
+  {
+   "id": "amazon-return-policy-2026",
+   "title": "Amazon $309.5M return/refund policy settlement (Subclass B claim)",
+   "category": "Class action",
+   "beat": "settlements-new",
+   "value_desc": "Subclass B: share of 7.3% of net fund, proportional to unpaid transaction amounts + prejudgment interest (varies; documentation required); Subclass A members paid automatically (no claim needed)",
+   "effort": "20 min + Amazon order number + product/dates/amount details + proof of tender (shipping receipt, bank statement, or order history)",
+   "deadline": "2026-12-01",
+   "eligibility": "Initiated a return or refund request on Amazon.com for a physical product received in the US between 9/5/2017 and 2/12/2026, and did not receive the refund, received it late/incorrect, or were incorrectly re-charged; Subclass B only (Subclass A, identified in Amazon records, is paid automatically without filing)",
+   "claim_url": "https://www.returnsettlement.com/",
+   "proof_required": "records",
+   "verified": "2026-10-11",
+   "verification": "secondary",
+   "source_note": "Verified 2026-10-11 via taxassistant.org + topclassactions.com + eosguidehub.com + money.com + wcia.com; In re: Amazon Return Policy Litigation, W.D. Wash. 2:23-cv-01372-JNW; prelim approval Aug 18, 2026; final hearing Mar 16, 2027; claim must show 'more likely than not' entitlement with documentation"
   }
  ]
 }

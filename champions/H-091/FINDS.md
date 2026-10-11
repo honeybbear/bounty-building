@@ -42,6 +42,24 @@
 | 2026-10-10 | TransUnion $8.31M bankruptcy-reporting FCRA settlement | $100 automatic (No Bankruptcy Group, no claim) / est. ~$1,000 with claim / ~$350 Aged Bankruptcy Group | 10 min + Claim Number/PIN from notice + sworn certification | 2026-10-30 | Brooks v. Trans Union (E.D. Pa.); openclassactions.com (linked official site brooksbankruptcyclassaction.com) + topclassactions.com + badcredit.org; final hearing Dec 2, 2026; verified 2026-10-10 |
 | 2026-10-10 | Concora Credit $9.375M prerecorded-call TCPA settlement | Est. $250–$650 pro-rata cash | 10 min + Claimant ID/access code from notice | 2026-10-19 | Seals v. Concora Credit (D. Or.); classaction.org (linked official site SealsTCPASettlement.com) + topclassactions.com + eosguidehub.com; prelim approval Aug 5, 2026; final hearing Nov 24, 2026; verified 2026-10-10 |
 
+| 2026-10-11 | MCNA Dental data breach settlement (documented losses) | Up to $2,500 documented losses (pro-rata vs $250K cap) + 2 yrs free medical monitoring (automatic) | 20 min + Class Member ID from notice + third-party docs | 2026-10-19 | Crowe v. MCNA, S.D. Fla. 0:23-cv-61065-AHS; openclassactions.com (linked official site mcnadatabreachsettlement.com) + classaction.org + topclassactions.com + hipaajournal.com; NO flat no-proof cash alternative (explicit in notice); final hearing Nov 16, 2026; verified 2026-10-11 |
+| 2026-10-11 | State Farm $8.8M Washington UMPD diminished-value settlement | Est. $625 avg per claim (scaled to repair cost) | 10 min + Class Member ID from notice, 3 sworn questions, no receipts | 2026-12-14 | Hardy v. State Farm Mutual Auto Ins. Co., W.D. Wash. 2:25-cv-00072-RSM; claimdepot.com + topclassactions.com + openclassactions.com + eosguidehub.com; admin Kroll; official site washingtonumpdsettlement.com; WA insureds, UMPD-paid accidents 1/13/2019–2/27/2026, repair est. >=$1,000, vehicle <=6 yrs & <90k mi, structural/body damage; leased/total-loss excluded; final hearing Oct 30, 2026; verified 2026-10-11 |
+| 2026-10-11 | Suffolk County NY $45M red-light camera fee settlement | Up to $36 per $30 admin fee paid (pro-rata if claims exceed $45M) | 10 min + Class Member ID (obtainable via official-site contact form) | 2026-12-08 | McGrath v. Suffolk County, N.Y. Sup. Ct. Suffolk County Index No. 608155/2016; claimhub24.com + classaction.org + claimdepot.com + topclassactions.com; official site suffolkredlightsettlement.com; anyone who paid the $30 fee 4/1/2013–present; fee count from County records; proposed settlement, final hearing Dec 8, 2026; verified 2026-10-11 |
+| 2026-10-11 | Amazon $309.5M return/refund policy settlement — Subclass B claim | Share of 7.3% of net fund, proportional to unpaid amount + interest (varies; docs required; Subclass A paid automatically, no claim) | 20 min + order number + product/dates/amount + proof of tender | 2026-12-01 | In re: Amazon Return Policy Litigation, W.D. Wash. 2:23-cv-01372-JNW; taxassistant.org + topclassactions.com + eosguidehub.com + money.com; official site returnsettlement.com; returns/refunds on physical products received in US 9/5/2017–2/12/2026 with missing/late/wrong refund or re-charge; claim must show 'more likely than not' with docs; final hearing Mar 16, 2027; verified 2026-10-11 |
+
+## Rejected candidates (2026-10-11)
+
+| Date | Candidate | Reason rejected |
+|------|-----------|-----------------|
+| 2026-10-11 | Jefferson County Health data breach settlement ($150 no-doc / up to $300 documented, deadline Nov 16, 2026) | Offers $150 cash with no documentation (mail-in form needs no ID) — no-proof route; not listed |
+| 2026-10-11 | Arizona Labor Force $300K data breach settlement (est. $25, deadline Dec 28, 2026) | Explicit "no proof required" pro-rata cash — no-proof route; not listed |
+| 2026-10-11 | MDLive/Evernorth $3.5M privacy settlement (up to $15, deadline Dec 1, 2026) | No supporting documents required; attestation-only — no-proof route; not listed |
+| 2026-10-11 | Wayne Memorial Hospital data breach settlement (up to $5,000 documented OR $25 pro-rata, deadline Dec 7, 2026) | $25 no-proof pro-rata cash option — no-proof route; not listed |
+| 2026-10-11 | Beef direct-purchaser price-fixing settlement (Tyson notice, opt-out Oct 23, 2026) | Class is businesses buying boxed/case-ready beef direct from producers — not consumer; not actionable for a normal person |
+| 2026-10-11 | Labcorp web-tracking class action settlement (deadline Nov 23, 2026) | Injunctive relief only — no payout; nothing to claim |
+| 2026-10-11 | AT&T $177M data breach settlement | Claim window closed Dec 18, 2025; final approval Oct 2, 2026 — no new claims; nothing to file |
+| 2026-10-11 | CBIZ $485K data breach settlement | Already listed in data/opportunities.json (cbiz-2026, H-011 sweep) — duplicate of this sweep |
+
 ## Rejected candidates (2026-10-09)
 
 | Date | Candidate | Reason rejected |
