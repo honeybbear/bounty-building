@@ -26,3 +26,8 @@
 | 2026-10-10 | AMN Healthcare $4.5M privacy (Carrero v. AMN; California-only interpreted-conversation class; no proof, deadline 2026-10-27) | REJECTED — same standing no-proof ban. Candidate not verified. |
 | 2026-10-10 | Tift Regional Health System $1.2M data breach ($75 no-proof alternative cash tier, deadline 2026-10-15) | REJECTED — same standing no-proof ban. Candidate not verified. |
 | 2026-10-10 | Truffettes de France (Canada-only; no receipt for ≤3 products, deadline 2026-11-04) | REJECTED — same standing no-proof ban (and non-US). Candidate not verified. |
+| 2026-10-11 | Costa Del Mar $21.75M Florida sunglasses (no receipts/no proof per pair, deadline 2027-01-11; new sighting) | REJECTED — same standing no-proof ban. Candidate not verified. |
+| 2026-10-11 | Neutrogena Skin360 BIPA $4.7M (Illinois, no proof, deadline 2026-11-25) | REJECTED — same standing no-proof ban (re-sighting; rejected 2026-10-09). Candidate not verified. |
+| 2026-10-11 | CVS digital privacy (up-to-$5 no-proof path, deadline 2026-11-16) | REJECTED — same standing no-proof ban (re-sighting; rejected 2026-10-08). Candidate not verified. |
+| 2026-10-11 | Apple Intelligence $250M (no-proof path, serial number/Apple ID as receipt, deadline 2026-12-21) | REJECTED — same standing no-proof ban (re-sighting; rejected 2026-10-08; records variant already on board as apple-iphone-ai-2026). Candidate not verified. |
+| 2026-10-11 | Nonbank ATM $167.5M (no documents needed, corrected deadline 2027-02-10) | REJECTED — same standing no-proof ban (re-sighting; rejected 2026-10-08). Candidate not verified. |
