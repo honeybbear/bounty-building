@@ -72,3 +72,14 @@
 | 2026-10-09 | Pulsz/Pulszbingo virtual chip purchases (claimdepot "Breaking") | Old Kentucky settlement; claim window closed Jan 29, 2024; final approval Dec 2023; nothing to file |
 | 2026-10-09 | Bank of America $4.28M unused vacation settlement | Narrow employment class (former CA/NY/IL workers); automatic payments, no user-facing claim process |
 | 2026-10-09 | Turkey $93.5M price-fixing settlements (deadline Oct 30, 2026) | Class is U.S. businesses buying turkey direct from processors — not consumer; not actionable for a normal person |
+
+| 2026-10-12 | Coast Dental $3.84M TCPA text message settlement | Up to $59 cash or $99 voucher (pro-rata maximums from $3.84M fund) | 10 min + notice credentials | 2026-12-24 | Chaviano v. Coast Dental Services, LLC, 2026-013610-CA-01, Circuit Court Miami-Dade County FL; verified 2026-10-12 via openclassactions.com + claimdepot.com; official site cdstcpasettlement.com; admin Analytics Consulting LLC; final hearing Dec 9, 2026 |
+| 2026-10-12 | Indegene $4.7M junk-fax TCPA settlement | $250 per fax number (pro-rata if fund oversubscribed) | 10 min + notice credentials or fax number | 2026-12-09 | Progressive Health and Rehab Corp. v. Indegene, Inc., 1:20-cv-10106-ESK-AMD, D.N.J.; verified 2026-10-12 via openclassactions.com + claimdepot.com + claimhub24.com; official site indegenetcpasettlement.com; admin Analytics Consulting LLC; final hearing Jan 12, 2027 |
+
+## Rejected candidates (2026-10-12)
+
+| Date | Candidate | Reason rejected |
+|------|-----------|-----------------|
+| 2026-10-12 | Tenet Healthcare pixel settlement ($16 cash + 2 yrs monitoring, deadline Mar 15, 2027) | Paper form needs Login ID from notice only "if known" and "no receipts or explanation" for the $16 — no-proof route per standing directive; not listed |
+| 2026-10-12 | PARS $750K data breach settlement | No claim form required — payments automatic (mailed check default; electronic selection via notice LoginID/PIN); no claim deadline; nothing to file |
+| 2026-10-12 | Equity Residential "$1M Mill Creek Apartments Settlement" (claimdepot Breaking tile) | Unverifiable — no real program/deadline/claim URL found; search only surfaces closed Equity Residential fee cases; not listed |
