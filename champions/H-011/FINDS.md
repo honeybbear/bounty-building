@@ -61,4 +61,4 @@
 ## 2026-10-12 sweep
 
 | 2026-10-12 | Tift Regional Health System $1.2M data breach | up to $5,000 documented or est. $75 alternative cash; 2yr CyEx Medical Shield Complete | 10 min | 2026-10-15, login ID + PIN from notice — URGENT, 3 days | official site tiftdatasettlement.com + claimdepot + eosguidehub + topclassactions + openclassactions + classactionbuddy, verified 2026-10-12 |
-| 2026-10-12 | American Income Life / Globe Life data breach | up to $5,000 documented or $72 lost time; 2yr monitoring auto | 10 min | 2026-10-19, Settlement Class Member ID from notice — 7 days | eosguidehub dedicated guide (official site aildatasettlement.com confirmed live via browser today) + Kroll admin, verified 2026-10-12 |
+| 2026-10-12 | American Income Life / Globe Life data breach | Cash A up to $5,000 documented (3rd-party docs req.) or Cash B $72 self-certified lost time; 2yr monitoring auto | 10 min | 2026-10-19 11:59 p.m. CT — 7 days | official site aildatasettlement.com verified live (court-authorized, Kroll; official FAQs list NO notice-ID requirement) + eosguidehub, verified 2026-10-12 |

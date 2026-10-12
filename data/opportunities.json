@@ -1010,15 +1010,15 @@
    "title": "American Income Life / Globe Life data breach settlement",
    "category": "Class action",
    "beat": "settlements-breach",
-   "value_desc": "Up to $5,000 documented losses or $72 lost time (4 hrs at $18/hr); 2-yr CyEx Financial Shield Complete monitoring auto",
+   "value_desc": "Cash A: up to $5,000 documented losses (expenses Oct 1, 2024\u2013notice date; third-party docs required); Cash B: up to $72 lost time (self-certified); 2-yr Cyex monitoring auto. Cash pool $3.4M cap, pro rata if exceeded",
    "effort": "10 min",
    "deadline": "2026-10-19",
-   "eligibility": "US individuals sent a notice letter from American Income Life or Globe Life re the Oct 2, 2024 data incident; Settlement Class Member ID from notice required for online filing",
+   "eligibility": "US individuals whose PI was accessed from AIL/Globe Life systems Oct 1, 2024\u2013notice date; file timely valid Claim Form",
    "claim_url": "https://www.aildatasettlement.com",
-   "proof_required": "notice-id",
+   "proof_required": "records",
    "verified": "2026-10-12",
-   "verification": "secondary",
-   "source_note": "Verified 2026-10-12 via eosguidehub dedicated guide (official site aildatasettlement.com named as the only authorized site) + live browser confirmed official FAQ page loads at aildatasettlement.com/faq. Kroll admin. Case: In re American Income Life Ins. Co. & Globe Life Inc. Data Breach Litig., No. 6:25-cv-00262 (W.D. Tex.). Phone (833) 930-0155."
+   "verification": "primary",
+   "source_note": "Verified 2026-10-12 directly on official site aildatasettlement.com (court-authorized, Kroll admin): deadline Oct 19, 2026 11:59 p.m. CT; No. 6:25-cv-00262 (W.D. Tex.); phone (833) 930-0155. Official FAQs do not require a notice ID; Cash A requires reasonable third-party documentation."
   }
  ]
 }
