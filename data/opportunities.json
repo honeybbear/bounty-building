@@ -989,6 +989,36 @@
    "verified": "2026-10-11",
    "verification": "secondary",
    "source_note": "Verified 2026-10-11 via taxassistant.org + topclassactions.com + eosguidehub.com + money.com + wcia.com; In re: Amazon Return Policy Litigation, W.D. Wash. 2:23-cv-01372-JNW; prelim approval Aug 18, 2026; final hearing Mar 16, 2027; claim must show 'more likely than not' entitlement with documentation"
+  },
+  {
+   "id": "tift-regional-2026",
+   "title": "Tift Regional Health System $1.2M data breach settlement",
+   "category": "Class action",
+   "beat": "settlements-breach",
+   "value_desc": "Up to $5,000 documented losses or est. $75 alternative cash (no doc for cash tier); 2-yr CyEx Medical Shield Complete",
+   "effort": "10 min",
+   "deadline": "2026-10-15",
+   "eligibility": "US individuals notified of the Aug 2022 Tift Regional/Southwell breach (~180,142 notified); login ID + PIN from notice required for online filing",
+   "claim_url": "https://tiftdatasettlement.com",
+   "proof_required": "notice-id",
+   "verified": "2026-10-12",
+   "verification": "primary",
+   "source_note": "Verified 2026-10-12 via official site tiftdatasettlement.com (claim deadline Oct 15, 2026 on official notice table) + claimdepot + eosguidehub + topclassactions + openclassactions + classactionbuddy. Case: In re Tift Regional Health Sys. Data Breach Litig., Case No. 2023CV0313, Super. Ct. Tift County, GA."
+  },
+  {
+   "id": "ail-globe-life-2026",
+   "title": "American Income Life / Globe Life data breach settlement",
+   "category": "Class action",
+   "beat": "settlements-breach",
+   "value_desc": "Up to $5,000 documented losses or $72 lost time (4 hrs at $18/hr); 2-yr CyEx Financial Shield Complete monitoring auto",
+   "effort": "10 min",
+   "deadline": "2026-10-19",
+   "eligibility": "US individuals sent a notice letter from American Income Life or Globe Life re the Oct 2, 2024 data incident; Settlement Class Member ID from notice required for online filing",
+   "claim_url": "https://www.aildatasettlement.com",
+   "proof_required": "notice-id",
+   "verified": "2026-10-12",
+   "verification": "secondary",
+   "source_note": "Verified 2026-10-12 via eosguidehub dedicated guide (official site aildatasettlement.com named as the only authorized site) + live browser confirmed official FAQ page loads at aildatasettlement.com/faq. Kroll admin. Case: In re American Income Life Ins. Co. & Globe Life Inc. Data Breach Litig., No. 6:25-cv-00262 (W.D. Tex.). Phone (833) 930-0155."
   }
  ]
 }

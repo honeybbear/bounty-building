@@ -57,3 +57,8 @@
 | 2026-10-11 | Innovative Renal Care $900K data breach | up to $5,000 documented or est. $100 pro-rata cash; 2yr monitoring | 10 min | 2026-12-21, Class Member ID from notice | PR Newswire official notice (Kroll admin) + classaction.org + openclassactions, verified 2026-10-11 |
 | 2026-10-11 | Jefferson-Blount-St. Clair Mental Health Authority $700K data breach | up to $5,000 documented or $100 flat cash; 3yr monitoring | 10 min | 2026-12-23, CPT ID + passcode from notice | PR Newswire official notice (CPT Group admin) + classaction.org, verified 2026-10-11 |
 | 2026-10-11 | Jack's Family Restaurants data breach | up to $4,000 documented, up to $80 lost time, or $55 alternative cash; 3yr monitoring | 10 min | 2026-11-30, login ID + PIN from notice (court notice governs; some third parties list Nov 20) | court long-form notice + claimdepot + openclassactions, verified 2026-10-11 |
+
+## 2026-10-12 sweep
+
+| 2026-10-12 | Tift Regional Health System $1.2M data breach | up to $5,000 documented or est. $75 alternative cash; 2yr CyEx Medical Shield Complete | 10 min | 2026-10-15, login ID + PIN from notice — URGENT, 3 days | official site tiftdatasettlement.com + claimdepot + eosguidehub + topclassactions + openclassactions + classactionbuddy, verified 2026-10-12 |
+| 2026-10-12 | American Income Life / Globe Life data breach | up to $5,000 documented or $72 lost time; 2yr monitoring auto | 10 min | 2026-10-19, Settlement Class Member ID from notice — 7 days | eosguidehub dedicated guide (official site aildatasettlement.com confirmed live via browser today) + Kroll admin, verified 2026-10-12 |
