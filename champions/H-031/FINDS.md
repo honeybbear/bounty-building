@@ -31,3 +31,11 @@
 | 2026-10-11 | CVS digital privacy (up-to-$5 no-proof path, deadline 2026-11-16) | REJECTED — same standing no-proof ban (re-sighting; rejected 2026-10-08). Candidate not verified. |
 | 2026-10-11 | Apple Intelligence $250M (no-proof path, serial number/Apple ID as receipt, deadline 2026-12-21) | REJECTED — same standing no-proof ban (re-sighting; rejected 2026-10-08; records variant already on board as apple-iphone-ai-2026). Candidate not verified. |
 | 2026-10-11 | Nonbank ATM $167.5M (no documents needed, corrected deadline 2027-02-10) | REJECTED — same standing no-proof ban (re-sighting; rejected 2026-10-08). Candidate not verified. |
+
+| 2026-10-12 | Silk & Great Value plant-beverage recall (Canada-only, no-proof tier, deadline 2026-10-16; OpenClassActions) | REJECTED — standing no-proof ban (and non-US). Candidate not verified. |
+| 2026-10-12 | Costa Del Mar $21.75M FL sunglasses (re-sighting; deadline 2027-01-11) | REJECTED — same standing no-proof ban (rejected 2026-10-11). |
+| 2026-10-12 | Neutrogena Skin360 BIPA $4.7M IL (re-sighting; deadline 2026-11-25) | REJECTED — same standing no-proof ban (rejected 2026-10-09). |
+| 2026-10-12 | Nonbank ATM $167.5M (re-sighting; deadline 2027-02-10) | REJECTED — same standing no-proof ban (rejected 2026-10-08). |
+| 2026-10-12 | CVS digital privacy up-to-$5 no-proof path (re-sighting; deadline 2026-11-16) | REJECTED — same standing no-proof ban (rejected 2026-10-08). |
+| 2026-10-12 | Apple Intelligence $250M no-proof path (re-sighting; deadline 2026-12-21) | REJECTED — same standing no-proof ban (rejected 2026-10-08; records variant on board as apple-iphone-ai-2026). |
+| 2026-10-12 | Board re-check: Flo Oct 15 (3d), VSL#3 Oct 20, Pork Oct 29, Bestway Oct 30, Dr. Squatch Nov 27 — all deadlines confirmed live | No changes to opportunities.json. |
