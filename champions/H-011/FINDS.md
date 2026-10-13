@@ -62,3 +62,12 @@
 
 | 2026-10-12 | Tift Regional Health System $1.2M data breach | up to $5,000 documented or est. $75 alternative cash; 2yr CyEx Medical Shield Complete | 10 min | 2026-10-15, login ID + PIN from notice — URGENT, 3 days | official site tiftdatasettlement.com + claimdepot + eosguidehub + topclassactions + openclassactions + classactionbuddy, verified 2026-10-12 |
 | 2026-10-12 | American Income Life / Globe Life data breach | Cash A up to $5,000 documented (3rd-party docs req.) or Cash B $72 self-certified lost time; 2yr monitoring auto | 10 min | 2026-10-19 11:59 p.m. CT — 7 days | official site aildatasettlement.com verified live (court-authorized, Kroll; official FAQs list NO notice-ID requirement) + eosguidehub, verified 2026-10-12 |
+
+## 2026-10-13 sweep — two new verified finds
+
+| 2026-10-13 | Benworth Capital $50 est. data breach | est. $50 cash or up to $5,000 documented; 1yr monitoring automatic | 10 min | 2026-12-21, Login ID + PIN from notice | openclassactions.com (updated 2026-10-11; names official site benworthdatasettlement.com; Arreola v. Benworth Capital Partners LLC, CACE-26-012064, Simpluris), verified 2026-10-13 |
+| 2026-10-13 | Vasindas' Around the Clock Care data breach | up to $2,500 documented or $70 alternate cash; 2yr CyEx Medical Shield Complete | 10 min | 2026-11-23, login ID + PIN from notice | claimdepot.com (updated 2026-10-12; names official claim site vasindasdatasettlement.com; case docs + FAQ on record; opt-out Oct 26, 2026), verified 2026-10-13 |
+| 2026-10-13 | Jefferson County Health Center $2.25M data breach | $150 fixed cash "no documentation required... only need to attest they are a class member" — effectively no-proof route available, under standing no-proof ban |
+| 2026-10-13 | Carter Credit Union data breach | $50 cash "no proof required" per classaction.org, eosguidehub, moneypilot — effectively no-proof route available, under standing no-proof ban |
+| 2026-10-13 | Academy Mortgage $1.995M data breach | pro-rata cash "no documentation required" — effectively no-proof route available, under standing no-proof ban |
+| 2026-10-13 | Seattle Schools / Carruth data breach | paper claim form allows name + address verification (notice ID not mandatory) — effectively no-proof route, under standing no-proof ban (per ConnectOnCall precedent) |
