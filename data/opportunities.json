@@ -1080,6 +1080,51 @@
       "value_desc": "Up to $2,500 documented losses or $70 alternate cash; 2yr CyEx Medical Shield Complete",
       "verification": "secondary",
       "verified": "2026-10-13"
+    },
+    {
+      "id": "seatgeek-nevada-2026",
+      "title": "SeatGeek $7.75M Nevada ticket fee settlement",
+      "category": "Class action",
+      "beat": "settlements-new",
+      "value_desc": "Pro-rata cash share of $7.75M fund, based on fees SeatGeek retained per claimant (no per-person estimate published; fund pays costs/fees first)",
+      "effort": "10 min + Login ID & PIN from notice (requestable from administrator without notice via contact page)",
+      "deadline": "2027-01-05",
+      "eligibility": "Bought electronic tickets to events in Nevada (not necessarily Nevada residents) via seatgeek.com or the SeatGeek app between 11/7/2020 and 5/12/2025, and were charged fees",
+      "claim_url": "https://www.seatgeeknevadaclassaction.com",
+      "proof_required": "notice-id",
+      "verified": "2026-10-13",
+      "verification": "secondary",
+      "source_note": "Carbonell v. SeatGeek, Inc., 2:24-cv-02087-JCM-NJK (D. Nev.); prelim approval Sep 9, 2026; admin Simpluris; final hearing Jan 12, 2027; verified 2026-10-13 via openclassactions.com linking official site; opt-out/objection deadline Dec 6, 2026"
+    },
+    {
+      "id": "rocket-tax-dcwp-2026",
+      "title": "Rocket Tax NYC DCWP restitution (undisclosed fee refunds)",
+      "category": "Government restitution",
+      "beat": "settlements-new",
+      "value_desc": "Refund of undisclosed tax-prep fees, amount set by DCWP ($28,000 of $36,000 still unclaimed as of Dec 2025; paid in order claims arrive, can run out before deadline)",
+      "effort": "20 min + receipts/fee statements or tax return copies or refund-deposit proof; affirmation under penalty of perjury; file by mail or email",
+      "deadline": "2026-10-29",
+      "eligibility": "Customer of Rocket Tax Brooklyn offices (Livonia Ave, Pitkin Ave, Crescent St, Linden Blvd, Church Ave) between 12/1/2023 and 5/1/2025, whose fees were not disclosed (not Rocket Money or Rocket Mortgage)",
+      "claim_url": "https://www.nyc.gov/site/dca/consumers/file-claim-rocket-tax.page",
+      "proof_required": "records",
+      "verified": "2026-10-13",
+      "verification": "primary",
+      "source_note": "NYC Dept of Consumer and Worker Protection settlement (April 2025); live DCWP claim page says Oct 29, 2026, older DCWP announcement said Oct 26, 2026 \u2014 file by Oct 26 to be safe; form emailed/mailed to DCWP; verified 2026-10-13 via nyc.gov + openclassactions.com"
+    },
+    {
+      "id": "extra-space-dcwp-2026",
+      "title": "Extra Space Storage $1M NYC DCWP restitution fund",
+      "category": "Government restitution",
+      "beat": "settlements-new",
+      "value_desc": "Share of $1M restitution fund for documented harms (refund of disputed amounts); amount set by DCWP",
+      "effort": "20 min + documentation of harm (receipts, billing records); file at nyc.gov/claim-funds",
+      "deadline": "2027-08-01",
+      "eligibility": "Rented an Extra Space self-storage unit in NYC between 3/24/2023 and 6/16/2026 and were harmed by deceptive pricing, junk fees, wrongful lockouts, or auctioning (documentation required)",
+      "claim_url": "https://www.nyc.gov/site/dca/consumers/consumer-complaint-topics.page",
+      "proof_required": "records",
+      "verified": "2026-10-13",
+      "verification": "primary",
+      "source_note": "DCWP announcement Aug 4, 2026 (news 057-26); claims at nyc.gov/claim-funds per announcement; deadline Aug 1, 2027 or until fund runs out; verified 2026-10-13 via nyc.gov"
     }
   ]
 }

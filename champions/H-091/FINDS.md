@@ -83,3 +83,14 @@
 | 2026-10-12 | Tenet Healthcare pixel settlement ($16 cash + 2 yrs monitoring, deadline Mar 15, 2027) | Paper form needs Login ID from notice only "if known" and "no receipts or explanation" for the $16 — no-proof route per standing directive; not listed |
 | 2026-10-12 | PARS $750K data breach settlement | No claim form required — payments automatic (mailed check default; electronic selection via notice LoginID/PIN); no claim deadline; nothing to file |
 | 2026-10-12 | Equity Residential "$1M Mill Creek Apartments Settlement" (claimdepot Breaking tile) | Unverifiable — no real program/deadline/claim URL found; search only surfaces closed Equity Residential fee cases; not listed |
+
+| 2026-10-13 | SeatGeek $7.75M Nevada ticket fee settlement | Pro rata share of $7.75M based on fees paid (no per-person estimate published) | 10 min + Login ID & PIN from notice | 2027-01-05 | Carbonell v. SeatGeek, 2:24-cv-02087-JCM-NJK (D. Nev.); admin Simpluris; verified 2026-10-13 via openclassactions.com; official site seatgeeknevadaclassaction.com; Nevada-event tickets 11/7/2020-5/12/2025; final hearing Jan 12, 2027 |
+| 2026-10-13 | Rocket Tax NYC DCWP restitution (undisclosed fee refunds) | Refund of undisclosed fees set by DCWP ($28K of $36K unclaimed; first-come) | 20 min + receipts/tax returns/bank proof, mail or email to DCWP | 2026-10-29 | NYC DCWP settlement (Apr 2025); verified 2026-10-13 via nyc.gov live claim page + openclassactions.com; Brooklyn offices 12/1/2023-5/1/2025; older DCWP note said Oct 26 — file by Oct 26 to be safe |
+| 2026-10-13 | Extra Space Storage $1M NYC DCWP restitution fund | Share of $1M fund for documented harms | 20 min + documentation of harm via nyc.gov/claim-funds | 2027-08-01 | DCWP announcement Aug 4, 2026 (news 057-26); verified 2026-10-13 via nyc.gov; NYC renters 3/24/2023-6/16/2026; deadline Aug 1, 2027 or until fund runs out |
+
+## Rejected candidates (2026-10-13)
+
+| Date | Candidate | Reason rejected |
+|------|-----------|-----------------|
+| 2026-10-13 | Sandoz $400M state AG settlement (AGGenericDrugs.com, claims Mar 8, 2027) | Not final — preliminary approval only requested Oct 1-2, 2026; no live claim process yet; not actionable |
+| 2026-10-13 | Citizens Bank up to $3,000 bonus (open by Nov 15, 2026) | Real offer but headline misleading (paid in monthly gas-rebate/savings pieces over a year; requires up to $40K parked) — bank-bonus overflow candidate, deferred for fuller terms verification |
