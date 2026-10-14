@@ -1172,6 +1172,21 @@
    "verified": "2026-10-14",
    "verification": "primary",
    "source_note": "Verified 2026-10-14 directly on official site riversidedatasettlement.com (Dapello v. Riverside Resort & Casino, No. 2026CV000097, Columbia County WI Circuit Court; claim deadline Jan 4, 2027 on official notice table) + openclassactions.com"
+  },
+  {
+   "id": "napco-securities-2026",
+   "title": "Napco $20M securities class action settlement",
+   "category": "Class action",
+   "beat": "settlements-new",
+   "value_desc": "Est. ~$1.23/share avg before deductions (~$0.78 after fees per openclassactions), pro-rata; no payment under $10; payment depends on shares held, trade timing, and number of valid claims",
+   "effort": "45 min + brokerage records",
+   "deadline": "2026-12-28",
+   "eligibility": "All persons who purchased or otherwise acquired Napco Security Technologies Inc. common stock between Nov 7, 2022 and Aug 18, 2023, inclusive, and were damaged thereby; excludes defendants, officers/directors during class period, immediate families, and controlling entities; actual beneficial owner or legal representative files",
+   "claim_url": "https://www.napcosecuritiessettlement.com",
+   "proof_required": "records",
+   "verified": "2026-10-14",
+   "verification": "primary",
+   "source_note": "Verified 2026-10-14: businesswire summary notice (Robbins Geller, Oct 6, 2026) names official site napcosecuritiessettlement.com, admin Verita Global (c/o Verita Global, PO Box 301170, Los Angeles CA 90030-1170, 1-888-808-1323), claim deadline Dec 28, 2026 (online or postmarked), prelim approval Sep 8, 2026 by Judge Brian M. Cogan (E.D.N.Y.), Zornberg v. NAPCO Security Technologies, Inc. No. 1:23-cv-06465-BMC; opt-out deadline Nov 26, 2026; fairness hearing Dec 17, 2026; claimdepot + openclassactions cross-check claim deadline and docs (broker confirmations/statements, last-four SSN/TIN)."
   }
  ]
 }

@@ -94,3 +94,14 @@
 |------|-----------|-----------------|
 | 2026-10-13 | Sandoz $400M state AG settlement (AGGenericDrugs.com, claims Mar 8, 2027) | Not final — preliminary approval only requested Oct 1-2, 2026; no live claim process yet; not actionable |
 | 2026-10-13 | Citizens Bank up to $3,000 bonus (open by Nov 15, 2026) | Real offer but headline misleading (paid in monthly gas-rebate/savings pieces over a year; requires up to $40K parked) — bank-bonus overflow candidate, deferred for fuller terms verification |
+
+| 2026-10-14 | Napco $20M securities class action settlement | Est. ~$1.23/share avg before deductions (~$0.78 after fees), pro-rata, no payment under $10 | 45 min + brokerage records | 2026-12-28 | Zornberg v. NAPCO Security Technologies, Inc., 1:23-cv-06465-BMC (E.D.N.Y.); admin Verita Global; verified 2026-10-14 via businesswire summary notice (Robbins Geller) + official site napcosecuritiessettlement.com + claimdepot + openclassactions; NAPCO stock 11/7/2022-8/18/2023; prelim approval Sep 8, 2026; fairness hearing Dec 17, 2026 |
+
+## Rejected candidates (2026-10-14)
+
+| Date | Candidate | Reason rejected |
+|------|-----------|-----------------|
+| 2026-10-14 | Perrigo $10M baby-formula price-fixing settlement (Reuters, announced Oct 14, 2026) | Proposed only — filed in E.D.N.Y. Oct 13, 2026, requires judge's approval; no live claim process yet; not actionable (watchlist) |
+| 2026-10-14 | Bestway $15M pool settlement ($40 no receipt, deadline Oct 30, 2026) | $40 without a receipt — no-proof route per standing directive; not listed |
+| 2026-10-14 | Flo $59.5M period-tracker privacy settlement (deadline Oct 15, 2026) | "No proof required — just a sworn attestation" — no-proof route; not listed |
+| 2026-10-14 | CVS $20.5M digital privacy settlement (deadline Nov 16, 2026) | No documentation required, attestation-only — no-proof route; not listed |
