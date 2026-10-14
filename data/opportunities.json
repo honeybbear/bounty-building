@@ -1127,6 +1127,51 @@
    "verified": "2026-10-13",
    "verification": "primary",
    "source_note": "DCWP announcement Aug 4, 2026 (news 057-26); claims at nyc.gov/claim-funds per announcement; deadline Aug 1, 2027 or until fund runs out; verified 2026-10-13 via nyc.gov"
+  },
+  {
+   "id": "highlands-oncology-2026",
+   "title": "Highlands Oncology Group data breach settlement",
+   "category": "Class action",
+   "beat": "settlements-breach",
+   "value_desc": "Up to $4,250 documented losses or $50 flat cash; 3-yr CyEx Medical Shield Complete",
+   "effort": "10 min",
+   "deadline": "2026-10-22",
+   "eligibility": "US individuals whose private info was compromised in the June 2025 Highlands Oncology Group breach (~131,000); login ID + PIN from notice required to file online",
+   "claim_url": "https://highlandsoncologysettlement.com",
+   "proof_required": "notice-id",
+   "verified": "2026-10-14",
+   "verification": "primary",
+   "source_note": "Verified 2026-10-14 directly on official site highlandsoncologysettlement.com (In re Highlands Oncology Group Data Breach Litig., No. 72CV-25-3420, Washington County AR Circuit Court; claim deadline Oct 22, 2026 on official notice table) + claimdepot.com"
+  },
+  {
+   "id": "muscatine-power-water-2026",
+   "title": "Muscatine Power and Water data breach settlement",
+   "category": "Class action",
+   "beat": "settlements-breach",
+   "value_desc": "Up to $500 out-of-pocket + up to $5,000 extraordinary losses + up to $100 lost time; $525K fund",
+   "effort": "10 min",
+   "deadline": "2026-10-26",
+   "eligibility": "Individuals Muscatine Power and Water identified as impacted by the January 2024 breach (~36,995); login ID + PIN from notice required to file online",
+   "claim_url": "https://muscatinedatabreach.com",
+   "proof_required": "notice-id",
+   "verified": "2026-10-14",
+   "verification": "primary",
+   "source_note": "Verified 2026-10-14 directly on official site muscatinedatabreach.com (Cox v. Muscatine Power and Water, No. 07701 CVCV027276, Muscatine County IA District Court; claim deadline Oct 26, 2026 on official notice table) + claimdepot.com"
+  },
+  {
+   "id": "riverside-casino-2026",
+   "title": "Riverside Resort & Casino data breach settlement",
+   "category": "Class action",
+   "beat": "settlements-breach",
+   "value_desc": "$50 flat cash ($75 CA) or up to $3,000 documented losses/lost time; 1-yr credit monitoring; $1M aggregate cap",
+   "effort": "10 min",
+   "deadline": "2027-01-04",
+   "eligibility": "US residents sent notice that their private info was compromised in the July 2024 Riverside Resort & Casino breach; login ID + PIN from notice required to file online",
+   "claim_url": "https://riversidedatasettlement.com",
+   "proof_required": "notice-id",
+   "verified": "2026-10-14",
+   "verification": "primary",
+   "source_note": "Verified 2026-10-14 directly on official site riversidedatasettlement.com (Dapello v. Riverside Resort & Casino, No. 2026CV000097, Columbia County WI Circuit Court; claim deadline Jan 4, 2027 on official notice table) + openclassactions.com"
   }
  ]
 }
