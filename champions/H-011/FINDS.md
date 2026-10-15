@@ -79,3 +79,17 @@
 | 2026-10-14 | Riverside Resort & Casino data breach | $50 flat cash ($75 CA) or up to $3,000 documented losses/lost time; 1-yr credit monitoring; $1M aggregate cap | 10 min | 2027-01-04, login ID + PIN from notice | official site riversidedatasettlement.com verified LIVE (Dapello v. Riverside Resort & Casino, No. 2026CV000097, Columbia County WI; Simpluris admin; claim deadline Jan 4, 2027 on official notice table) + openclassactions, verified 2026-10-14 |
 | 2026-10-14 | Arizona Labor Force $300K data breach | paper claim form asks Login ID only "if known" — no-proof filing route available, under standing no-proof ban (re-confirmed; also rejected 2026-10-10) |
 | 2026-10-14 | Jefferson County Health Center $2.25M data breach | $150 fixed cash via paper form with no ID field — effectively no-proof route available, under standing no-proof ban (re-confirmed; also rejected 2026-10-13) |
+
+## 2026-10-15 sweep — three new verified finds
+
+| 2026-10-15 | Community Dental Care data breach | up to $5,000 documented or $50 flat cash; 2-yr CyEx Medical Shield Complete | 10 min | 2026-10-19, LoginID + PIN from notice — URGENT, 4 days | claimdepot.com (names official site cddatabreach.com FAQ page + official class notice; Simpluris admin), verified 2026-10-15 |
+| 2026-10-15 | Washington Gastroenterology $4.6M data breach | est. $75 pro rata cash (no docs) or up to $4,000 documented; 2-yr medical monitoring | 10 min | 2027-01-10 (11:59pm PT online), Unique ID + PIN from postcard notice | openclassactions.com (official site WAGastroDataIncidentSettlement.com run by Epiq; In re Washington Gastroenterology, Lead Case No. 25-2-11194-1, Pierce County WA), verified 2026-10-15 |
+| 2026-10-15 | Pillsbury Winthrop Shaw Pittman $2.34M data breach | up to $3,000 documented + pro rata cash; 1-yr CyEx Medical Shield Complete | 10 min | 2026-12-07, login ID + PIN from notice (online filing) | classaction.org (court-authorized site PillsburyDataSettlement.com) + claimdepot.com (Simpluris admin), verified 2026-10-15 |
+
+## 2026-10-15 rejections
+
+| 2026-10-15 | Public Agency Retirement Services $750K data breach | class members do NOT need to submit a claim form for the pro rata cash payment (automatic) — no claim process a normal person completes; effectively no-claim/no-proof route, under standing no-proof ban |
+| 2026-10-15 | Crossroads Trading data breach | claim deadline Oct 13, 2026 — already closed |
+| 2026-10-15 | Doxim data breach | claim deadline Oct 13, 2026 — already closed |
+| 2026-10-15 | 700Credit $17.5M data breach | claims closed Sep 22, 2026; final approval granted Oct 9, 2026 |
+| 2026-10-15 | Jefferson County Health Center $2.25M data breach | $150 fixed cash "no proof required" — effectively no-proof route available, under standing no-proof ban (re-confirmed; also rejected 2026-10-13, 2026-10-14) |
