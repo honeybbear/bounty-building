@@ -1232,6 +1232,81 @@
       "verified": "2026-10-15",
       "verification": "secondary",
       "source_note": "Verified 2026-10-15 via classaction.org (court-authorized site PillsburyDataSettlement.com) + claimdepot.com (Simpluris admin; claim deadline Dec 7, 2026; pro rata cash tier needs no loss documentation but online filing needs notice ID + PIN)"
-    }
+    },
+{
+    "beat": "settlements-new",
+    "category": "Class action",
+    "claim_url": "https://www.cobranoticeclassaction.com",
+    "deadline": "2026-12-02",
+    "effort": "10 min + mail",
+    "eligibility": "Members of Starbucks' US Welfare Benefits Plan (health/vision) sent a COBRA election notice between Jul 21, 2016 and Jan 1, 2023 because of a qualifying event, who did not elect COBRA continuation coverage; plan participants must not be subject to Starbucks' arbitration agreement (beneficiaries included regardless)",
+    "id": "starbucks-cobra-2026",
+    "proof_required": "notice-id",
+    "source_note": "Verified 2026-10-15 via openclassactions.com (court-approved long-form notice, prelim approval order Doc. 117, admin American Legal Claims Services, LLC) + Bloomberg Tax/Bloomberg Law coverage of Lubin v. Starbucks Corp., 8:20-cv-01311 (M.D. Fla.); final hearing Jan 6, 2027",
+    "title": "Starbucks $325K COBRA notice settlement",
+    "value_desc": "Equal share of $325K fund (admin costs ~$75K deducted first); court notice estimates ~$30 (25% claim rate) or ~$74 (10% claim rate)",
+    "verified": "2026-10-15",
+    "verification": "primary"
+},
+{
+    "beat": "settlements-new",
+    "category": "Securities",
+    "claim_url": "https://www.eaglepharmasecuritiessettlement.com",
+    "deadline": "2026-10-16",
+    "effort": "45 min + brokerage records",
+    "eligibility": "Persons/entities who purchased Eagle Pharmaceuticals common stock (EGRX) between Aug 9, 2022 and Oct 1, 2024 and were damaged; common stock only, options excluded",
+    "id": "eagle-pharma-2026",
+    "proof_required": "records",
+    "source_note": "Verified 2026-10-15 via claimdepot.com (admin Epiq, PO Box 4790 Portland OR) + GlobeNewswire lead-counsel notice + openclassactions.com; Miller v. Eagle Pharmaceuticals, 2:23-cv-23011-MAH (D.N.J.); final judgment entered Aug 19, 2026",
+    "title": "Eagle Pharmaceuticals $9.5M securities settlement",
+    "value_desc": "Est. ~$0.76/share avg after fees (~$1.18 before deductions), pro rata; no payment under $10",
+    "verified": "2026-10-15",
+    "verification": "primary"
+},
+{
+    "beat": "settlements-new",
+    "category": "Securities",
+    "claim_url": "https://www.seagatesecuritieslitigation.com",
+    "deadline": "2026-10-19",
+    "effort": "45 min + brokerage records",
+    "eligibility": "Persons/entities who purchased or acquired Seagate common stock (STX) between Sep 14, 2020 and Apr 19, 2023 and were allegedly damaged; common stock only, options excluded",
+    "id": "seagate-2026",
+    "proof_required": "records",
+    "source_note": "Verified 2026-10-15 via openclassactions.com (official site; admin Strategic Claims Services; fairness hearing Nov 17, 2026) + OCA deadlines-this-week roundup; In re Seagate Technology Holdings plc Securities Litigation, 3:23-cv-03431-RFL (N.D. Cal., Judge Rita F. Lin)",
+    "title": "Seagate $175M securities settlement",
+    "value_desc": "Est. ~$1.03/share before fees (~$0.26/share est. deductions), pro rata; no payment under $10",
+    "verified": "2026-10-15",
+    "verification": "primary"
+},
+{
+    "beat": "settlements-new",
+    "category": "Class action",
+    "claim_url": "https://www.LivingstonDerailmentSettlement.com",
+    "deadline": "2026-10-19",
+    "effort": "20 min + proof of address",
+    "eligibility": "Individuals who resided or owned residential real property within a 3-mile radius of the Nov 22, 2023 CSX train derailment site in Rockcastle County, KY on that date",
+    "id": "csx-livingston-2026",
+    "proof_required": "records",
+    "source_note": "Verified 2026-10-15 via claimdepot.com + classactionchampion.com + court-filed Claim Form; Webb et al v. CSX Transportation, Inc., 6:23-cv-00211 (E.D. Ky.); admin phone 1-833-421-7340; paper forms must be RECEIVED by Oct 19, 2026; final hearing Dec 9, 2026",
+    "title": "CSX Livingston, KY derailment $1.5M settlement",
+    "value_desc": "Up to $4,000 per household/property (pro rata up to $6,000 max if residual funds); reduced if prior CSX compensation received",
+    "verified": "2026-10-15",
+    "verification": "primary"
+},
+{
+    "beat": "bank-bonuses",
+    "category": "Bank bonus",
+    "claim_url": "https://www.usbank.com/splash/checking/2026-all-market-checking-offer.html",
+    "deadline": "2026-11-10",
+    "effort": "30 min + direct deposits within 90 days",
+    "eligibility": "New customers (no existing U.S. Bank consumer checking, none in last 12 months, no bonus in past 12 months); offer may not be available outside the U.S. Bank footprint",
+    "id": "usbank-checking-2026",
+    "proof_required": "records",
+    "source_note": "Verified 2026-10-15 via official usbank.com offer disclosures + hustlermoneyblog.com + bankdealguy.com; Member FDIC",
+    "title": "U.S. Bank Smartly Checking up to $450 bonus",
+    "value_desc": "$250/$350/$450 tiers for 2+ direct deposits totaling $2,000-$4,999.99 / $5,000-$7,999.99 / $8,000+ within 90 days of account opening; fund $25 within 60 days, enroll in mobile/online banking; bonus within 30 days of meeting requirements",
+    "verified": "2026-10-15",
+    "verification": "primary"
+}
   ]
 }
