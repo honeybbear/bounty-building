@@ -1309,6 +1309,20 @@
    "value_desc": "$250/$350/$450 tiers for 2+ direct deposits totaling $2,000-$4,999.99 / $5,000-$7,999.99 / $8,000+ within 90 days of account opening; fund $25 within 60 days, enroll in mobile/online banking; bonus within 30 days of meeting requirements",
    "verified": "2026-10-15",
    "verification": "primary"
+  },
+  {
+   "id": "americold-2026",
+   "title": "Americold $5.25M data breach settlement",
+   "category": "Class action",
+   "beat": "settlements-breach",
+   "value_desc": "Up to $25,000 cash for documented unreimbursed losses OR residual cash payment (est. $200 if notified of both the 2020 and 2023 incidents, $100 if only one; amounts adjustable on claim volume) + 3 years free credit monitoring (electable)",
+   "effort": "10 min + Class Member ID from settlement notice",
+   "deadline": "2026-10-22",
+   "eligibility": "All persons in the US notified by Americold that their private information was impacted in the Nov 16, 2020 and/or Apr 26, 2023 data incidents (current/former employees and job applicants)",
+   "claim_url": "https://www.americoldbracysettlement.com/",
+   "proof_required": "notice-id",
+   "verified": "2026-10-16",
+   "source_note": "Verified 2026-10-16 via official Kroll claim portal forms.ksacms.com (live form: Class Member ID required field, deadline Oct 22, 2026) + eosguidehub + claimdepot.com + topclassactions.com; Bracy, et al. v. Americold Logistics LLC, No. 1:23-cv-05743-TWT, N.D. Ga.; final approval hearing Oct 6, 2026; exclusion/objection deadline Sep 22, 2026 (passed)"
   }
  ]
 }

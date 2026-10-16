@@ -93,3 +93,9 @@
 | 2026-10-15 | Doxim data breach | claim deadline Oct 13, 2026 — already closed |
 | 2026-10-15 | 700Credit $17.5M data breach | claims closed Sep 22, 2026; final approval granted Oct 9, 2026 |
 | 2026-10-15 | Jefferson County Health Center $2.25M data breach | $150 fixed cash "no proof required" — effectively no-proof route available, under standing no-proof ban (re-confirmed; also rejected 2026-10-13, 2026-10-14) |
+
+## 2026-10-16 sweep — one new verified find
+
+| 2026-10-16 | Americold $5.25M data breach | up to $25,000 documented losses OR est. $200/$100 residual cash (both/one incidents); 3-yr credit monitoring electable | 10 min | 2026-10-22, Class Member ID from notice (required online) — URGENT, 6 days | official Kroll claim portal (forms.ksacms.com live) + eosguidehub + claimdepot + topclassactions, verified 2026-10-16 |
+| 2026-10-16 | MCNA data breach (dedupe check) | already in opportunities.json as mcna-dental-2026, verified 2026-10-11 (settlements-new beat) — not re-added; deadline Oct 19, 2026 — URGENT, 3 days |
+| 2026-10-16 | Seattle Schools / Carruth data breach | paper form still allows name+address filing without notice ID — no-proof route stands, under standing no-proof ban (re-confirmed; rejected 2026-10-13, 2026-10-14) |
