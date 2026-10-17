@@ -1263,7 +1263,8 @@
    "title": "Eagle Pharmaceuticals $9.5M securities settlement",
    "value_desc": "Est. ~$0.76/share avg after fees (~$1.18 before deductions), pro rata; no payment under $10",
    "verified": "2026-10-15",
-   "verification": "primary"
+   "verification": "primary",
+   "status": "expired"
   },
   {
    "beat": "settlements-new",
