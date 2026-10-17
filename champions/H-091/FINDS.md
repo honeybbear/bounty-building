@@ -137,3 +137,14 @@
 | 2026-10-16 | GoodRx $32M privacy settlement (already rejected 2026-10-15) | Still "No Proof" (no receipts/documents/notice ID) — no-proof route; confirmed still open, still rejected |
 | 2026-10-16 | CVS $20.5M digital privacy settlement (already rejected 2026-10-14) | Still $5 with no documentation — no-proof route; confirmed still open, still rejected |
 | 2026-10-16 | Kelly Benefits $5M data breach settlement (deadline Dec 28, 2026) | ~$50 pro-rata alternative cash payment requires no proof of loss (classaction.org + eosguidehub.com) — no-proof route per standing directive (same pattern as AMCA rejection); not listed |
+
+## Rejected candidates (2026-10-17)
+
+| Date | Candidate | Reason rejected |
+|------|-----------|-----------------|
+| 2026-10-17 | AMN Healthcare $4.5M privacy settlement (Carrero v. AMN, deadline Oct 27, 2026) | Official page (amncipasettlement.com via classactionbuddy) advertises "No Proof Required" — sworn statement only, no documents — no-proof route per standing directive; not listed |
+| 2026-10-17 | Muscatine Power and Water $525K data breach settlement (deadline Oct 26, 2026) | $100 attested-time payment (5 hrs @ $20) with no receipts required — no-proof route; documented-expense tiers don't cure the no-proof cash option; not listed |
+| 2026-10-17 | GEICO $1.65M credit-reporting settlement (kohama2026settlement.com) | Payment automatic for class members, no claim to file — nothing to file; not listed |
+| 2026-10-17 | Mexican Government Bonds $86.4M antitrust settlement (deadline Jan 4, 2027) | Investor class (bond traders, Tax ID + trading records) — not actionable for a normal person; same precedent as beef/turkey business classes; not listed |
+| 2026-10-17 | Ontario Training Schools $60M CAD settlement (deadline Sep 22, 2027) | Canada/Ontario-only class — non-US focus per CAE precedent; not listed |
+| 2026-10-17 | Rhode Island Bioenergy $850K odor settlement (deadline Nov 3, 2026) | Already listed 2026-10-16 (rhode-island-bioenergy-2026); re-verified today, deadline and official site confirmed — no duplicate entry |
