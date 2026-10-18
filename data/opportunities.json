@@ -1579,6 +1579,21 @@
    "value_desc": "Pro-rata cash payment (no docs) or up to $3,000 documented out-of-pocket losses, from $1.75M fund",
    "verification": "secondary",
    "verified": "2026-10-18"
+  },
+  {
+   "beat": "settlements-new",
+   "category": "Class action",
+   "claim_url": "https://www.altruacrowntcpasettlement.com",
+   "deadline": "2026-10-20",
+   "effort": "10 min + Class Member ID from notice",
+   "eligibility": "US individuals to whom Crown/Health Admins placed a call via AIRudder on behalf of Altrua HealthShare, Dec 2-11, 2024 (class drawn from calling records)",
+   "id": "altrua-healthshare-tcpa-2026",
+   "proof_required": "notice-id",
+   "source_note": "Finley v. Altrua Ministries et al., Case No. 2026CH000018 (LaSalle County, IL Chancery). Verified 2026-10-18 on official site (Kroll admin): up to $700/claim, pro rata under $1.1M cap; claims due Oct 20, 2026 online or postmarked; login requires Class Member ID from postcard, no call logs/bills; final hearing Oct 22, 2026",
+   "title": "Altrua HealthShare prerecorded robocall TCPA settlement",
+   "value_desc": "Up to $700 per person (ceiling; may be reduced pro rata under $1.1M aggregate cap)",
+   "verification": "primary",
+   "verified": "2026-10-18"
   }
  ]
 }

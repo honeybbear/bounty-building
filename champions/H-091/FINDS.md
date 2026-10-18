@@ -148,3 +148,26 @@
 | 2026-10-17 | Mexican Government Bonds $86.4M antitrust settlement (deadline Jan 4, 2027) | Investor class (bond traders, Tax ID + trading records) — not actionable for a normal person; same precedent as beef/turkey business classes; not listed |
 | 2026-10-17 | Ontario Training Schools $60M CAD settlement (deadline Sep 22, 2027) | Canada/Ontario-only class — non-US focus per CAE precedent; not listed |
 | 2026-10-17 | Rhode Island Bioenergy $850K odor settlement (deadline Nov 3, 2026) | Already listed 2026-10-16 (rhode-island-bioenergy-2026); re-verified today, deadline and official site confirmed — no duplicate entry |
+
+| 2026-10-18 | Altrua HealthShare prerecorded robocall TCPA settlement | Up to $700 per person (ceiling; pro rata under $1.1M cap) | 10 min + Class Member ID from notice | 2026-10-20 | Finley v. Altrua Ministries et al., Case No. 2026CH000018 (LaSalle County, IL Chancery); verified 2026-10-18 on official site altruacrowntcpasettlement.com (Kroll admin) + openclassactions.com; Crown/Health Admins placed AIRudder prerecorded calls Dec 2-11, 2024; prelim approval Jul 22, 2026; final hearing Oct 22, 2026 — FILE BY OCT 20 |
+
+## Rejected candidates (2026-10-18)
+
+| Date | Candidate | Reason rejected |
+|------|-----------|-----------------|
+| 2026-10-18 | Bright Lending $15M high-interest loan settlement (OCA, announced ~Oct 17) | No claim form, no claim deadline — payments automatic to loan records; nothing to file (same precedent as GEICO/PARS); not listed |
+| 2026-10-18 | WPM Pathology $4.48M data breach settlement (deadline Oct 19, 2026) | $45 flat cash with no documentation — no-proof route per standing directive; not listed |
+| 2026-10-18 | Community Dental Care data breach settlement (deadline Oct 19, 2026) | $50 flat cash with no documentation — no-proof route; not listed |
+| 2026-10-18 | Anixter Center data breach settlement (deadline Oct 19, 2026) | $50 flat cash with no documentation — no-proof route; not listed |
+| 2026-10-18 | DAP Health data breach settlement (deadline Oct 21, 2026) | $25 pro-rata cash with no documentation (CA extra $75 likewise no-doc) — no-proof route; not listed |
+| 2026-10-18 | Palomar Health $3.1M data breach settlement (deadline Oct 22, 2026) | ~$60 cash with no documentation — no-proof route; not listed |
+| 2026-10-18 | Highlands Oncology data breach settlement (deadline Oct 22, 2026) | $50 flat cash with no documentation — no-proof route; not listed |
+| 2026-10-18 | EFS Advisors & Aviben data breach settlement (deadline Oct 22, 2026) | $50 flat cash with no documentation — no-proof route; not listed |
+| 2026-10-18 | Dartmouth Oracle EBS data breach settlement (deadline Oct 21, 2026) | $75 cash with no documentation — no-proof route; not listed |
+| 2026-10-18 | Equinox $685K data breach settlement (deadline Oct 23, 2026) | ~$100 pro-rata cash with no documentation (notice ID only) — same pattern as rejected Lake Compounce; no-proof route; not listed |
+| 2026-10-18 | Lands' End data breach settlement (deadline Oct 22, 2026) | ~$60 alternate cash with no receipts — no-proof route; not listed |
+| 2026-10-18 | Americold $5.25M data breach settlement (deadline Oct 22, 2026) | Class is Americold employees/job applicants (employment-narrow) + $200/$100 cash with no documentation — not listed |
+| 2026-10-18 | Ohio Nightclub Dancers $800K wage settlement (deadline Oct 20, 2026) | Narrow employment class (dancers at 6 named Ohio clubs) — not actionable for a normal person; not listed |
+| 2026-10-18 | Waste Connections $1.4M business trash settlement (deadline Oct 22, 2026) | Class is businesses/nonprofits/public bodies — not consumer; not listed |
+| 2026-10-18 | exo Train Delays settlement Québec (deadline Oct 20, 2026) | Canada/Québec-only — non-US focus per CAE precedent; not listed |
+| 2026-10-18 | Globe Life / AIL $3.4M data breach settlement (deadline Oct 19, 2026) | Already listed (ail-globe-life-2026, verified 2026-10-12); re-verified today on official aildatasettlement.com — deadline and terms confirmed, no duplicate entry |
