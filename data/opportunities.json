@@ -635,21 +635,6 @@
    "status": "expired"
   },
   {
-   "id": "ecsi-2026",
-   "title": "ECSI $6.5M data breach settlement",
-   "category": "Class action",
-   "beat": "settlements-breach",
-   "value_desc": "Up to $5,000 documented losses or est. $100 pro-rata cash; $6.5M fund",
-   "effort": "10 min",
-   "deadline": "2026-12-21",
-   "eligibility": "US residents whose personal info was potentially accessed in the Oct 2023-Feb 2024 ECSI breach (~2.58M); ID + confirmation code from settlement notice required to file online",
-   "claim_url": "https://www.datasettlementecsi.com",
-   "proof_required": "notice-id",
-   "verified": "2026-10-09",
-   "verification": "secondary",
-   "source_note": "Verified 2026-10-09 via classaction.org (preliminary approval Aug 5, 2026; links official site DataSettlementECSI.com)"
-  },
-  {
    "id": "landsend-2026",
    "title": "Lands' End data breach settlement",
    "category": "Class action",
@@ -1594,6 +1579,21 @@
    "value_desc": "Up to $700 per person (ceiling; may be reduced pro rata under $1.1M aggregate cap)",
    "verification": "primary",
    "verified": "2026-10-18"
+  },
+  {
+   "beat": "settlements-breach",
+   "id": "mullinax-ford-2026",
+   "title": "Mullinax Ford data breach settlement",
+   "category": "Class action",
+   "value_desc": "Up to $3,000 documented losses + up to $75 lost time (3 hrs @ $25) OR $50 flat alternative cash; 2yr 1-bureau credit monitoring",
+   "effort": "10 min",
+   "deadline": "2026-11-23",
+   "eligibility": "US citizens (~4,038) whose private info was potentially compromised in the Dec 4-25, 2025 Mullinax Ford data incident and who received a notice; Notice ID from notice required",
+   "claim_url": "https://www.mullinaxcardealershipsettlement.com/",
+   "proof_required": "notice-id",
+   "verified": "2026-10-19",
+   "verification": "primary",
+   "source_note": "Verified 2026-10-19 via official settlement site mullinaxcardealershipsettlement.com (Angeion admin; Marino, et al. v. Mullinax Ford of Central Florida Inc., No. 2026-CA-004289-O, Orange County FL) + court-approved Claim Form + dapeer.com + settlementwell.com; final approval hearing Dec 8, 2026; court-approved paper Claim Form requires Notice ID (no 'if known' bypass); no fixed fund — Mullinax pays approved claims directly"
   }
  ]
 }
