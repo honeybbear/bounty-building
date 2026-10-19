@@ -1609,6 +1609,21 @@
    "value_desc": "Up to $279.85 per claim: $79.85 unpaid title/tag transfer fees + up to $200 excess storage/towing repayment (cap $25/day, 8 days) + prejudgment interest",
    "verified": "2026-10-19",
    "verification": "primary"
+  },
+  {
+   "beat": "bank-bonuses",
+   "category": "Bank bonus",
+   "claim_url": "https://www.key.com/personal/promo/checking/earn-500-dollars.html?ppc=2610_CMPCON_DCTY1026_dm",
+   "deadline": "2026-12-11",
+   "effort": "30 min + direct deposits within 90 days",
+   "eligibility": "New KeyBank checking customers (no KeyBank personal checking in last 12 months) in AK, CO, CT, ID, IN, ME, MA, MI, NY, OH, OR, PA, UT, VT, WA; open Key Smart Checking or Key Select Checking by Dec 11, 2026; $2,000 (Smart) or $5,000 (Select) in eligible ACH direct deposits within 90 days; roundups cite offer code KDMA0526; official terms say a promotional offer code + reservation code from KeyBank are required",
+   "id": "keybank-checking-2026",
+   "proof_required": "records",
+   "source_note": "Verified 2026-10-19 via official key.com promo page (found in search results; direct open failed on network error) + hustlermoneyblog.com (updated 10/16/26) + bankbonus.com + walletgrower.com + moneycrashers.com + finder.com; $300 Smart (min $10 opening) / $500 Select (min $50 opening); bonus paid within 60 days of meeting requirements; account must not be closed at gift payment; Member FDIC",
+   "title": "KeyBank checking bonus $300 / $500",
+   "value_desc": "$300 (Key Smart Checking) or $500 (Key Select Checking) bonus",
+   "verified": "2026-10-19",
+   "verification": "secondary"
   }
  ]
 }

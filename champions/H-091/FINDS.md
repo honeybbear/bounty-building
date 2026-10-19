@@ -180,3 +180,21 @@
 |------|-----------|-----------------|
 | 2026-10-19 | Costa Del Mar $21.75M FL sunglasses settlement (claim by Jan 11, 2027) | No receipts needed for up to five purchases; Unique ID and PIN optional on claim form — no-proof route per standing directive; not listed (OCA + claimdepot + PR Newswire) |
 | 2026-10-19 | Equifax $100M credit-score error settlement (deadline Dec 28, 2026) | Already listed (equifax-fcra-100m-2026, verified 2026-10-16); re-verified today — deadline, official site, and $95–$280 estimate all confirmed on openclassactions.com + settlementinsight.com + ginsburglawgroup.com; no duplicate entry |
+
+| 2026-10-19 | KeyBank checking bonus $300 / $500 | $300 (Key Smart Checking) or $500 (Key Select Checking) | 30 min + direct deposits within 90 days | 2026-12-11 | Verified 2026-10-19 via official key.com promo page (via search; direct open failed) + hustlermoneyblog.com (updated 10/16/26) + bankbonus.com + walletgrower.com + moneycrashers.com + finder.com; new KeyBank checking customers (no KeyBank personal checking in last 12 months) in AK, CO, CT, ID, IN, ME, MA, MI, NY, OH, OR, PA, UT, VT, WA; open by Dec 11, 2026; $2,000 (Smart, min $10 opening) or $5,000 (Select, min $50 opening) eligible ACH direct deposits within 90 days; offer code KDMA0526 per roundups; official terms say promo offer code + reservation code from KeyBank required; bonus paid within 60 days; Member FDIC |
+
+## Rejected candidates (2026-10-19, continued)
+
+| Date | Candidate | Reason rejected |
+|------|-----------|-----------------|
+| 2026-10-19 | Forbes $10M website tracking settlement (Berman v. Forbes Media, deadline Nov 9, 2026) | Paper Proof of Claim route is attestation-only (no Class Member ID, signed perjury declaration alone) — no-proof route per standing directive; not listed (openclassactions.com full page) |
+| 2026-10-19 | Communications Data Group $500K data breach settlement (deadline Nov 10, 2026) | $45 alternative cash payment needs no documentation — no-proof route; documented-loss tiers don't cure it; not listed (claimdepot.com) |
+| 2026-10-19 | American Renal Management (IRC) $900K data breach settlement (deadline Dec 21, 2026) | Pro-rata cash payment needs no documentation (attestation only) — no-proof route; not listed (claimdepot.com, admin Kroll, ircsettlement.com) |
+| 2026-10-19 | AMN Healthcare $4.5M privacy settlement (Carrero v. AMN, deadline Oct 27, 2026) | "No proof of purchase needed — sworn statement suffices" — no-proof route per standing directive; not listed (classactionbuddy.com + PR notice) |
+| 2026-10-19 | CVS $20.5M digital privacy settlement (deadline Nov 16, 2026) | Already rejected 2026-10-14 — still $5 with no documentation; no-proof route; confirmed still open, still rejected |
+| 2026-10-19 | Neutrogena Skin360 $4.7M BIPA settlement (deadline Nov 25, 2026) | Already rejected 2026-10-09 — no-proof route; confirmed still open, still rejected |
+| 2026-10-19 | Visa/Mastercard $167.5M nonbank ATM fee settlement (deadline Feb 10, 2027) | Already rejected 2026-10-08 — no documents needed to file, estimate-based claim; no-proof route; confirmed still open, still rejected |
+| 2026-10-19 | Lake Compounce $500K ticket fee settlement (deadline Nov 24, 2026) | Already rejected 2026-10-10 — "No proof is required to submit a claim"; no-proof route; confirmed still open, still rejected |
+| 2026-10-19 | High 5 Games social casino settlement ($12M–$30M, WA, deadline Jan 4, 2027) | Claim computed from game records, no receipts, class-member-ID-free route effectively attestation-only — no-proof route per standing directive; not listed |
+| 2026-10-19 | Turkey $93.5M price-fixing settlements (deadline Oct 30, 2026) | Already rejected 2026-10-09 — U.S. businesses buying turkey direct; not consumer, not actionable |
+| 2026-10-19 | Conduent $80M data breach settlement (proposed, signed Oct 16, 2026) | Preliminary approval motion only, not approved — no claim form, no deadline, no settlement site; not actionable (watchlist) |
