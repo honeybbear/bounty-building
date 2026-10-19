@@ -1593,7 +1593,22 @@
    "proof_required": "notice-id",
    "verified": "2026-10-19",
    "verification": "primary",
-   "source_note": "Verified 2026-10-19 via official settlement site mullinaxcardealershipsettlement.com (Angeion admin; Marino, et al. v. Mullinax Ford of Central Florida Inc., No. 2026-CA-004289-O, Orange County FL) + court-approved Claim Form + dapeer.com + settlementwell.com; final approval hearing Dec 8, 2026; court-approved paper Claim Form requires Notice ID (no 'if known' bypass); no fixed fund — Mullinax pays approved claims directly"
+   "source_note": "Verified 2026-10-19 via official settlement site mullinaxcardealershipsettlement.com (Angeion admin; Marino, et al. v. Mullinax Ford of Central Florida Inc., No. 2026-CA-004289-O, Orange County FL) + court-approved Claim Form + dapeer.com + settlementwell.com; final approval hearing Dec 8, 2026; court-approved paper Claim Form requires Notice ID (no 'if known' bypass); no fixed fund \u2014 Mullinax pays approved claims directly"
+  },
+  {
+   "beat": "settlements-new",
+   "category": "Insurance",
+   "claim_url": "https://www.starcasualtytotallosssettlement.com",
+   "deadline": "2026-10-26",
+   "effort": "10 min + Claim ID & PIN from settlement notice",
+   "eligibility": "Florida drivers insured by Star Casualty under a Florida auto policy Mar 22, 2018-Jun 26, 2026 who had a first-party total-loss claim settled on ACV basis and did not receive the full $79.85 title/tag transfer fees and/or had excess storage/towing charges deducted",
+   "id": "star-casualty-total-loss-2026",
+   "proof_required": "notice-id",
+   "source_note": "Verified 2026-10-19 via claimdepot.com (linked official settlement site; admin contact info@StarCasualtyTotalLossSettlement.com; fairness hearing Oct 12, 2026) + openclassactions.com detail page + repairerdrivennews.com 2026-09-17; Maxim Kharevich v. Star Casualty Insurance Company, Case No. 2023-013380-CA-01 (11th Jud. Cir., Miami-Dade County FL)",
+   "title": "Star Casualty total-loss auto claims settlement",
+   "value_desc": "Up to $279.85 per claim: $79.85 unpaid title/tag transfer fees + up to $200 excess storage/towing repayment (cap $25/day, 8 days) + prejudgment interest",
+   "verified": "2026-10-19",
+   "verification": "primary"
   }
  ]
 }

@@ -171,3 +171,12 @@
 | 2026-10-18 | Waste Connections $1.4M business trash settlement (deadline Oct 22, 2026) | Class is businesses/nonprofits/public bodies — not consumer; not listed |
 | 2026-10-18 | exo Train Delays settlement Québec (deadline Oct 20, 2026) | Canada/Québec-only — non-US focus per CAE precedent; not listed |
 | 2026-10-18 | Globe Life / AIL $3.4M data breach settlement (deadline Oct 19, 2026) | Already listed (ail-globe-life-2026, verified 2026-10-12); re-verified today on official aildatasettlement.com — deadline and terms confirmed, no duplicate entry |
+
+| 2026-10-19 | Star Casualty total-loss auto claims settlement | Up to $279.85 per claim ($79.85 title/tag fees + up to $200 storage/towing + interest) | 10 min + Claim ID & PIN from notice | 2026-10-26 | Kharevich v. Star Casualty Ins. Co., 2023-013380-CA-01 (11th Jud. Cir. Miami-Dade FL); verified 2026-10-19 via claimdepot.com (linked official site starcasualtytotallosssettlement.com) + openclassactions.com + repairerdrivennews.com; FL Star Casualty auto policy holders 3/22/2018–6/26/2026 with total-loss ACV claim missing full title/tag fees or excess storage/towing deductions; prelim approval, fairness hearing Oct 12, 2026 |
+
+## Rejected candidates (2026-10-19)
+
+| Date | Candidate | Reason rejected |
+|------|-----------|-----------------|
+| 2026-10-19 | Costa Del Mar $21.75M FL sunglasses settlement (claim by Jan 11, 2027) | No receipts needed for up to five purchases; Unique ID and PIN optional on claim form — no-proof route per standing directive; not listed (OCA + claimdepot + PR Newswire) |
+| 2026-10-19 | Equifax $100M credit-score error settlement (deadline Dec 28, 2026) | Already listed (equifax-fcra-100m-2026, verified 2026-10-16); re-verified today — deadline, official site, and $95–$280 estimate all confirmed on openclassactions.com + settlementinsight.com + ginsburglawgroup.com; no duplicate entry |
