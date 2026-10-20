@@ -510,7 +510,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-08",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-08 via claimdepot.com (updated Oct 7, 2026; linked to official site anixterdatasettlement.com)"
+   "source_note": "Verified 2026-10-08 via claimdepot.com (updated Oct 7, 2026; linked to official site anixterdatasettlement.com)",
+   "status": "expired"
   },
   {
    "id": "dartmouth-2026",
@@ -585,7 +586,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-08",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-08 via claimdepot.com (updated Oct 7, 2026; linked to official site wpmpldatabreach.com)"
+   "source_note": "Verified 2026-10-08 via claimdepot.com (updated Oct 7, 2026; linked to official site wpmpldatabreach.com)",
+   "status": "expired"
   },
   {
    "id": "sansone-2026",
@@ -616,7 +618,8 @@
    "proof_required": "none",
    "verified": "2026-10-08",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-08 via openclassactions.com (linked official site centralbookingsettlement.com); administrator Angeion Group; preliminary approval granted; final hearing Oct 22, 2026"
+   "source_note": "Verified 2026-10-08 via openclassactions.com (linked official site centralbookingsettlement.com); administrator Angeion Group; preliminary approval granted; final hearing Oct 22, 2026",
+   "status": "expired"
   },
   {
    "id": "spectrum-pharm-2026",
@@ -827,7 +830,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-10",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-10 via classaction.org (linked official site SealsTCPASettlement.com) + topclassactions.com + eosguidehub.com; Seals v. Concora Credit, D. Or.; prelim approval Aug 5, 2026; final hearing Nov 24, 2026"
+   "source_note": "Verified 2026-10-10 via classaction.org (linked official site SealsTCPASettlement.com) + topclassactions.com + eosguidehub.com; Seals v. Concora Credit, D. Or.; prelim approval Aug 5, 2026; final hearing Nov 24, 2026",
+   "status": "expired"
   },
   {
    "id": "kelly-benefits-2026",
@@ -932,7 +936,8 @@
    "proof_required": "notice-id+records",
    "verified": "2026-10-11",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-11 via openclassactions.com (linked official site) + classaction.org + topclassactions.com + hipaajournal.com; Crowe v. MCNA, S.D. Fla. 0:23-cv-61065-AHS; NO flat no-proof cash alternative (explicit); final hearing Nov 16, 2026; losses must be post-breach, pre-Mar 7, 2026, third-party documented (affidavit alone rejected)"
+   "source_note": "Verified 2026-10-11 via openclassactions.com (linked official site) + classaction.org + topclassactions.com + hipaajournal.com; Crowe v. MCNA, S.D. Fla. 0:23-cv-61065-AHS; NO flat no-proof cash alternative (explicit); final hearing Nov 16, 2026; losses must be post-breach, pre-Mar 7, 2026, third-party documented (affidavit alone rejected)",
+   "status": "expired"
   },
   {
    "id": "state-farm-umpd-2026",
@@ -1008,7 +1013,8 @@
    "proof_required": "records",
    "verified": "2026-10-12",
    "verification": "primary",
-   "source_note": "Verified 2026-10-12 directly on official site aildatasettlement.com (court-authorized, Kroll admin): deadline Oct 19, 2026 11:59 p.m. CT; No. 6:25-cv-00262 (W.D. Tex.); phone (833) 930-0155. Official FAQs do not require a notice ID; Cash A requires reasonable third-party documentation."
+   "source_note": "Verified 2026-10-12 directly on official site aildatasettlement.com (court-authorized, Kroll admin): deadline Oct 19, 2026 11:59 p.m. CT; No. 6:25-cv-00262 (W.D. Tex.); phone (833) 930-0155. Official FAQs do not require a notice ID; Cash A requires reasonable third-party documentation.",
+   "status": "expired"
   },
   {
    "id": "coast-dental-tcpa-2026",
@@ -1188,7 +1194,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-15",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-15 via claimdepot.com (names official site cddatabreach.com FAQ page + official class notice; Simpluris admin; claim deadline Oct 19, 2026)"
+   "source_note": "Verified 2026-10-15 via claimdepot.com (names official site cddatabreach.com FAQ page + official class notice; Simpluris admin; claim deadline Oct 19, 2026)",
+   "status": "expired"
   },
   {
    "id": "washington-gastro-2026",
@@ -1264,7 +1271,8 @@
    "title": "Seagate $175M securities settlement",
    "value_desc": "Est. ~$1.03/share before fees (~$0.26/share est. deductions), pro rata; no payment under $10",
    "verified": "2026-10-15",
-   "verification": "primary"
+   "verification": "primary",
+   "status": "expired"
   },
   {
    "beat": "settlements-new",
@@ -1279,7 +1287,8 @@
    "title": "CSX Livingston, KY derailment $1.5M settlement",
    "value_desc": "Up to $4,000 per household/property (pro rata up to $6,000 max if residual funds); reduced if prior CSX compensation received",
    "verified": "2026-10-15",
-   "verification": "primary"
+   "verification": "primary",
+   "status": "expired"
   },
   {
    "beat": "bank-bonuses",
