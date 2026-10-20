@@ -1647,7 +1647,66 @@
     "proof_required": "notice-id",
     "verified": "2026-10-20",
     "verification": "primary",
-    "source_note": "Verified 2026-10-20 via official settlement site dvacyberattacksettlement.com (Epiq admin; Jenkins v. DaVita, No. 1:25-cv-01358, D. Colo.) + Epiq press release on PR Newswire 2026-10-20 + openclassactions.com + claimdepot.com; notice date Oct 20, 2026; opt-out/objection Dec 21, 2026; final approval hearing Feb 18, 2027; $10M fund (non-reversionary) + $5M supplemental out-of-pocket pool, total cap $15M; all claimants must provide unique ID from notice (claimdepot), paper form not an 'if known' bypass - passes no-proof gate"
+    "source_note": "Verified 2026-10-20 via official settlement site dvacyberattacksettlement.com (Epiq admin; Jenkins v. DaVita, No. 1:25-cv-01358, D. Colo.) + Epiq press release on PR Newswire 2026-10-20 + openclassactions.com + claimdepot.com; notice date Oct 20, 2026; opt-out/objection Dec 21, 2026; final approval hearing Feb 18, 2027; $10M fund (non-reversionary) + $5M supplemental out-of-pocket pool, total cap $15M; all claimants must provide unique ID from notice (claimdepot), paper form not an 'if known' bypass - passes no-proof gate"   },
+   {
+    "beat": "settlements-new",
+    "category": "Class action",
+    "claim_url": "https://livehealthonlinesettlement.com/form/claim",
+    "deadline": "2026-10-30",
+    "effort": "10 min + LoginID & PIN from settlement notice",
+    "eligibility": "US individuals who used the appointment booking tool on the LiveHealth Online website, iOS app, or Android app between October 2024 and August 2025 (class of ~252,478 identified from Amwell records)",
+    "id": "livehealth-online-2026",
+    "proof_required": "notice-id",
+    "source_note": "Polk v. American Well Corp., No. 25CV026746 (Sacramento Superior Court, CA). Verified 2026-10-20: official claim page livehealthonlinesettlement.com/form/claim opened live (Simpluris admin) - online filing requires LoginID + PIN from the mailed/emailed notice; claims due Oct 30, 2026 online or postmarked; prelim approval Jul 31, 2026; final hearing Jan 15, 2027; $2,037,751.46 fund; ~75 days to payment after final approval. Cross-checked via classaction.org + claimdepot.com + topclassactions.com + moneypilot.com. Caveat: paper PDF form could not be opened (403) so its credential requirements are unverified; Simpluris paper forms sometimes allow an 'if known' no-ID route - listed as secondary verification for that reason.",
+    "title": "LiveHealth Online $2.03M privacy settlement",
+    "value_desc": "Est. $51.14-$102.29 pro-rata cash per valid claim (varies with claim volume; no receipts required, notice LoginID + PIN required to file)",
+    "verification": "secondary",
+    "verified": "2026-10-20"
+   },
+   {
+    "beat": "bank-bonuses",
+    "category": "Bank bonus",
+    "claim_url": "https://www.cfsbky.com/personal-checking/community-classic-checking",
+    "deadline": "2026-11-01",
+    "effort": "30 min + 25 debit card purchases by Nov 30, 2026",
+    "eligibility": "New Community Classic Checking customers; per doctorofcredit, accounts only opened for residents of KY, TN, IL, IN, MO; $100 minimum deposit to open; one bonus per SSN",
+    "id": "cfsb-checking-2026",
+    "proof_required": "records",
+    "source_note": "Verified 2026-10-20 on official cfsbky.com Community Classic Checking page (live): $100 incentive for new accounts opened Oct 1-Nov 1, 2026 with 25+ debit card purchase transactions by Nov 30, 2026; no monthly fees; bonus credited by Dec 31, 2026; account must be open and in good standing. Cross-checked via doctorofcredit.com roundup.",
+    "title": "CFSB $100 checking bonus",
+    "value_desc": "$100 bonus (no direct deposit required; 25 debit purchases)",
+    "verification": "primary",
+    "verified": "2026-10-20"
+   },
+   {
+    "beat": "bank-bonuses",
+    "category": "Bank bonus",
+    "claim_url": "https://www.unionsavings.com/personal-checking/400-checking-bonus/",
+    "deadline": "2026-12-15",
+    "effort": "30 min + 1 direct deposit + 10 debit purchases within 60 days (+ $500 avg savings balance 60 days for savings piece)",
+    "eligibility": "New Union Savings Bank customers (no existing personal checking, no checking/savings closed within 12 months); employees/household ineligible; one offer per customer; Access ($50+ opening) or Essential/Core Checking",
+    "id": "union-savings-checking-2026",
+    "proof_required": "records",
+    "source_note": "Verified 2026-10-20 on official unionsavings.com offer page (live): offer valid Oct 15-Dec 15, 2026; $150 for one qualifying direct deposit within 60 days + $100 for 10 debit card purchases within 60 days + $150 for Essential/Access Savings opened same day with $500+ average balance for 60 days (new USB savings customers only); P2P/bank transfers do not count as direct deposit; bonus credited Jan 1-Mar 31, 2027; account must be open and in good standing; Member FDIC; bank is Danbury, CT-based - geographic restrictions not stated on offer page.",
+    "title": "Union Savings Bank up to $400 checking + savings bonus",
+    "value_desc": "Up to $400 ($150 direct deposit + $100 debit purchases + $150 savings)",
+    "verification": "primary",
+    "verified": "2026-10-20"
+   },
+   {
+    "beat": "bank-bonuses",
+    "category": "Bank bonus",
+    "claim_url": "https://www.citizensbank.com/promo/checking/move-money-branch.aspx",
+    "deadline": "2026-11-15",
+    "effort": "Year-long: $1,000+/mo direct deposits + gas purchases monthly for checking half; $15K-$40K+ parked 12 months for savings half",
+    "eligibility": "New Citizens checking + savings customers opening both accounts the same day Oct 1-Nov 15, 2026; per doctorofcredit available in CT, DC, DE, FL, MA, MD, MI, NH, NJ, NY, OH, PA, RI, VT, VA",
+    "id": "citizens-bank-2026",
+    "proof_required": "records",
+    "source_note": "Deferred 2026-10-13 as headline-misleading; fully verified 2026-10-20 via official citizensbank.com promo page (live) + thepointsparty.com + doctorofcredit.com breakdown: up to $3,000 paid in 12 MONTHLY pieces - checking half up to $1,200 = monthly gas-purchase rebate ($50/mo One Deposit/EverValue/Student, $100/mo Quest/Private Client) only in months with $1,000+ direct deposits; savings half up to $1,800 = $150/mo for $40,000+ new money ($50/mo up to $600 for $15,000-$39,999), single deposit within 10 business days of opening; P2P (Zelle/Venmo/PayPal) does not count as direct deposit; Member FDIC",
+    "title": "Citizens Bank up to $3,000 checking + savings bonus (12-month drip)",
+    "value_desc": "Up to $3,000 over 12 months: up to $1,200 checking (monthly gas rebates w/ $1K/mo direct deposit) + up to $1,800 savings ($40K+ new money parked; $600 tier at $15K+)",
+    "verification": "primary",
+    "verified": "2026-10-20"
    }
  ]
 }
