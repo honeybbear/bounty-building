@@ -217,3 +217,17 @@
 | 2026-10-20 | Covenant Health $2M data breach (deadline Dec 30, 2026) | Rejected 2026-10-20 by H-011 (paper form "Class Member ID if known" — no-proof route); not listed |
 | 2026-10-20 | Fairchild Medical Center $25 pixel privacy (deadline Nov 2, 2026) | Rejected 2026-10-20 by H-031 (proof gate; CA-only, ~1,000 class); not listed |
 | 2026-10-20 | Coastal Financial Corp (CCB) securities lawsuit | Newly FILED suit (Kaplan Fox lead-plaintiff solicitation, Dec 1, 2026 lead-plaintiff deadline) — not a settlement, no claim process; not actionable |
+
+| 2026-10-21 | LHNH LaVista $8.45M apartment fire settlement | Equal share of $1.3M displacement pool per adult (reported ≥$4,500) + $2,500 per minor child + pro-rata documented property loss | 15 min + LoginID & PIN from notice (+ docs for property loss) | 2026-11-22 | Class certified Nov 19, 2025 (Chief Judge Leigh Martin May, N.D. Ga.); verified 2026-10-21 via official claim login page lavistafiresettlement.com/form/claim (live) — deadline Nov 22, 2026 confirmed on official site; cross-checked via claimdepot.com + settlementwell.com + fox5atlanta.com (deal reported ~Jul 2026) + openclassactions.com directory; residents of The Reserve at LaVista Walk, 1155 LaVista Road NE, Atlanta, GA, on Nov 10, 2023; residency proof required if not in leasing records; final approval hearing Jan 5, 2027; admin Simpluris |
+| 2026-10-21 | PeoplesBank $350 checking bonus (MA & CT) | $350 | 30 min + $1,500 qualifying direct deposits within 60 days | 2026-10-26 (open by) | Verified 2026-10-21 via official offer page bankatpeoples.com/home/standalone/checking350 (full terms: Free Checking, open Sep 14–Oct 26, 2026, promo code Fall26, $10 min deposit, third-party ACH salary/pension/govt benefits DD, paid within 60 days after qualification) + doctorofcredit.com + moneysmylife.com; new customers in Hampden/Hampshire/Franklin counties MA or former Hartford/Tolland/Litchfield/Middlesex counties CT; $15 early termination fee within 90 days; regional bank, not nationwide |
+
+## Rejected candidates (2026-10-21)
+
+| Date | Candidate | Reason rejected |
+|------|-----------|-----------------|
+| 2026-10-21 | NaturaLawn of America $500K TCPA text message settlement | Claim deadline was Jan 6, 2026 (published Nov 2025) — window closed; stale sighting; nothing to file |
+| 2026-10-21 | Schnucks $7 Missouri sales-tax settlement (deadline Nov 3, 2026) | Paper claim route is attestation-only (Rewards phone number, no receipts/docs; eosguidehub titles it "(No proof)") — no-proof route per standing directive; not listed |
+| 2026-10-21 | Humboldt Merchant Services $12M FTC settlement | No user-facing claim process — FTC-administered redress from transaction records, no verifiable claim URL/deadline; nothing a normal person can file |
+| 2026-10-21 | SELA Realty Florida security deposit settlement (deadline Nov 22, 2026) | Paper form requires no documentation ("attest... but do not need to proactively provide documentation") — no-proof route per standing directive; not listed |
+| 2026-10-21 | Hearthside $4.5M Illinois child-labor settlement (deadline Nov 20, 2026) | Narrow employment class (people who worked at IL Hearthside food plants while under age 16) — not actionable for a normal person per precedent |
+| 2026-10-21 | Bank of America $4.28M unused vacation settlement | Automatic payments, no claim form — nothing to file (same precedent as GEICO/PARS/Bright Lending) |

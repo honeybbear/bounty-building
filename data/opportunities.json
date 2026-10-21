@@ -1816,5 +1816,36 @@
    "verification": "primary",
    "source_note": "Verified 2026-10-21 via classaction.org (court-approved site EFSDataSettlement.com) + openclassactions + claimdepot; case Kennedy et al. v. EFS Advisors LLC et al., No. 30-cv-24-649 (Isanti Dist. Ct., MN); prelim approval Jun 5, 2026"
   }
+ ,
+  {
+   "beat": "settlements-new",
+   "category": "Class action",
+   "claim_url": "https://www.lavistafiresettlement.com/form/claim/",
+   "deadline": "2026-11-22",
+   "effort": "15 min + LoginID & PIN from settlement notice (+ documentation for property-loss claims)",
+   "eligibility": "Individuals who lived at The Reserve at LaVista Walk apartments, 1155 LaVista Road NE, Atlanta, GA, on Nov 10, 2023 - adults 18+ file their own claim; parents/guardians claim for minor children; insurers with subrogation rights",
+   "id": "lavista-fire-2026",
+   "proof_required": "notice-id",
+   "source_note": "Verified 2026-10-21: official claim login page lavistafiresettlement.com/form/claim opened live - claim deadline Nov 22, 2026 (online or postmarked), online filing requires LoginID + PIN from mailed notice (lost IDs via info@lavistafiresettlement.com); $8.45M fund: $1.3M displacement pool split equally among qualifying adults, $2,500 flat per minor child, remainder to documented property-loss claims pro rata; residency proof (rent receipts/utility bills) required if not in leasing records; property-loss documentation required (receipts, invoices, photos, estimates); final approval hearing Jan 5, 2027; admin Simpluris. Cross-checked via claimdepot.com + settlementwell.com + fox5atlanta.com (deal reported ~Jul 2026) + openclassactions.com directory. Case: class certified Nov 19, 2025 by Chief Judge Leigh Martin May, N.D. Ga.",
+   "title": "LHNH LaVista $8.45M apartment fire settlement",
+   "value_desc": "Equal share of $1.3M displacement pool per qualifying adult (public reporting: at least $4,500/adult expected) + $2,500 flat per minor child + pro-rata share of remaining net fund for documented property loss",
+   "verification": "primary",
+   "verified": "2026-10-21"
+  },
+  {
+   "beat": "bank-bonuses",
+   "category": "Bank bonus",
+   "claim_url": "https://www.bankatpeoples.com/home/standalone/checking350",
+   "deadline": "2026-10-26",
+   "effort": "30 min + $1,500 in qualifying direct deposits within 60 days of opening",
+   "eligibility": "New PeoplesBank consumer checking customers in Hampden/Hampshire/Franklin counties (MA) or former Hartford/Tolland/Litchfield/Middlesex counties (CT); no PeoplesBank consumer checking in the past 12 months; no prior PeoplesBank promotional payout; personal accounts only; limit one per TIN",
+   "id": "peoplesbank-350-2026",
+   "proof_required": "records",
+   "source_note": "Verified 2026-10-21: official offer page bankatpeoples.com/home/standalone/checking350 shows full terms - open Free Checking online or in-branch Sep 14-Oct 26, 2026 with promo code Fall26, $10 min opening deposit, $1,500+ qualifying direct deposits (third-party ACH salary/pension/govt benefits; no P2P/mobile/cash deposits) within 60 days; $350 credited within 60 days after qualification period; Free Checking has no monthly fee; early account termination fee $15 within 90 days per doctorofcredit. Cross-checked via doctorofcredit.com + moneysmylife.com. Regional bank; not nationwide.",
+   "title": "PeoplesBank $350 checking bonus (MA & CT)",
+   "value_desc": "$350 cash bonus",
+   "verification": "primary",
+   "verified": "2026-10-21"
+  }
  ]
 }
