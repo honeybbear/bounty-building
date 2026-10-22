@@ -527,7 +527,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-08",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-08 via claimdepot.com (linked to official site oracledartmouthdatasettlement.com)"
+   "source_note": "Verified 2026-10-08 via claimdepot.com (linked to official site oracledartmouthdatasettlement.com)",
+   "status": "expired"
   },
   {
    "id": "mclean-2026",
@@ -696,7 +697,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-09",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-09 via classaction.org + newsnet5.com: preliminary approval June 30, 2026; official site gamingappsettlement.com; election/claim form online (gamingappsettlement.pnclassaction.com) or mailed; final hearing Nov 10, 2026."
+   "source_note": "Verified 2026-10-09 via classaction.org + newsnet5.com: preliminary approval June 30, 2026; official site gamingappsettlement.com; election/claim form online (gamingappsettlement.pnclassaction.com) or mailed; final hearing Nov 10, 2026.",
+   "status": "expired"
   },
   {
    "id": "ftac-ii-2026",
@@ -862,7 +864,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-11",
    "verification": "primary",
-   "source_note": "Verified 2026-10-11 via official settlement site (dapdatasettlement.com) + claimdepot; admin Epiq; final approval hearing held Oct 1, 2026"
+   "source_note": "Verified 2026-10-11 via official settlement site (dapdatasettlement.com) + claimdepot; admin Epiq; final approval hearing held Oct 1, 2026",
+   "status": "expired"
   },
   {
    "id": "antigo-2026",
@@ -1815,8 +1818,7 @@
    "verified": "2026-10-21",
    "verification": "primary",
    "source_note": "Verified 2026-10-21 via classaction.org (court-approved site EFSDataSettlement.com) + openclassactions + claimdepot; case Kennedy et al. v. EFS Advisors LLC et al., No. 30-cv-24-649 (Isanti Dist. Ct., MN); prelim approval Jun 5, 2026"
-  }
- ,
+  },
   {
    "beat": "settlements-new",
    "category": "Class action",
