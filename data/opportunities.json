@@ -104,7 +104,7 @@
    "source_note": "Verified 2026-10-07 via PR Newswire settlement notice + topclassactions.com (Tuccori v. NAR, $120.3M fund)",
    "title": "NAR homebuyer $120.3M settlement",
    "value_desc": "Pro rata share of $120.3M fund (est. $40\u2013$100 per claimant)",
-   "verified": "2026-10-07",
+   "verified": "2026-10-23",
    "verification": "primary"
   },
   {
@@ -119,7 +119,7 @@
    "source_note": "Verified 2026-10-07 via thecollegeinvestor.com Oct 2026 roundup + commercebank.com official disclosures",
    "title": "Commerce Bank checking bonus up to $1,000",
    "value_desc": "Up to $1,000 bonus",
-   "verified": "2026-10-07",
+   "verified": "2026-10-23",
    "verification": "primary"
   },
   {
@@ -802,7 +802,7 @@
    "eligibility": "US TED account holders who watched a prerecorded video on TED.com or TED's iOS/Android apps 10/19/2021-7/14/2026; 8-digit Claim ID + 4-digit PIN from settlement notice required to file",
    "claim_url": "https://www.tedvppasettlement.com/",
    "proof_required": "notice-id",
-   "verified": "2026-10-10",
+   "verified": "2026-10-23",
    "verification": "secondary",
    "source_note": "Verified 2026-10-10 via topclassactions.com + classaction.org + openclassactions.com (linked official site tedvppasettlement.com); Sutton v. TED Foundation, S.D.N.Y.; final hearing Nov 12, 2026"
   },
@@ -817,7 +817,7 @@
    "eligibility": "US/territories residents for whom TransUnion sold a report to a third party 1/6/2020-1/31/2023 with a bankruptcy remark on a tradeline but no bankruptcy in the report's public-record section, and no government-held bankruptcy record within 10 years before the report; Claim Number + PIN from notice required; group printed on notice",
    "claim_url": "https://www.brooksbankruptcyclassaction.com",
    "proof_required": "notice-id",
-   "verified": "2026-10-10",
+   "verified": "2026-10-23",
    "verification": "secondary",
    "source_note": "Verified 2026-10-10 via openclassactions.com detail page (linked official site brooksbankruptcyclassaction.com) + topclassactions.com + badcredit.org; Brooks v. Trans Union, E.D. Pa.; final hearing Dec 2, 2026"
   },
@@ -1107,7 +1107,7 @@
    "eligibility": "Customer of Rocket Tax Brooklyn offices (Livonia Ave, Pitkin Ave, Crescent St, Linden Blvd, Church Ave) between 12/1/2023 and 5/1/2025, whose fees were not disclosed (not Rocket Money or Rocket Mortgage)",
    "claim_url": "https://www.nyc.gov/site/dca/consumers/file-claim-rocket-tax.page",
    "proof_required": "records",
-   "verified": "2026-10-13",
+   "verified": "2026-10-23",
    "verification": "primary",
    "source_note": "NYC Dept of Consumer and Worker Protection settlement (April 2025); live DCWP claim page says Oct 29, 2026, older DCWP announcement said Oct 26, 2026 \u2014 file by Oct 26 to be safe; form emailed/mailed to DCWP; verified 2026-10-13 via nyc.gov + openclassactions.com"
   },
@@ -1624,7 +1624,7 @@
    "source_note": "Verified 2026-10-19 via claimdepot.com (linked official settlement site; admin contact info@StarCasualtyTotalLossSettlement.com; fairness hearing Oct 12, 2026) + openclassactions.com detail page + repairerdrivennews.com 2026-09-17; Maxim Kharevich v. Star Casualty Insurance Company, Case No. 2023-013380-CA-01 (11th Jud. Cir., Miami-Dade County FL)",
    "title": "Star Casualty total-loss auto claims settlement",
    "value_desc": "Up to $279.85 per claim: $79.85 unpaid title/tag transfer fees + up to $200 excess storage/towing repayment (cap $25/day, 8 days) + prejudgment interest",
-   "verified": "2026-10-19",
+   "verified": "2026-10-23",
    "verification": "primary"
   },
   {
@@ -1670,7 +1670,7 @@
    "title": "LiveHealth Online $2.03M privacy settlement",
    "value_desc": "Est. $51.14-$102.29 pro-rata cash per valid claim (varies with claim volume; no receipts required, notice LoginID + PIN required to file)",
    "verification": "secondary",
-   "verified": "2026-10-20"
+   "verified": "2026-10-23"
   },
   {
    "beat": "bank-bonuses",
@@ -1807,7 +1807,7 @@
    "title": "PeoplesBank $350 checking bonus (MA & CT)",
    "value_desc": "$350 cash bonus",
    "verification": "primary",
-   "verified": "2026-10-21"
+   "verified": "2026-10-23"
   },
   {
    "beat": "settlements-new",
@@ -1883,6 +1883,111 @@
    "value_desc": "Equal share, est. $1,292.77 each (fund $1.1M-$1.65M by participation)",
    "verification": "secondary",
    "verified": "2026-10-22"
+  },
+  {
+   "beat": "settlements-new",
+   "category": "Class action",
+   "claim_url": "https://90washingtonclassaction.com",
+   "deadline": "2026-11-02",
+   "effort": "15 min + mail (paper form, no online filing; unit/lease details sworn under penalty of perjury)",
+   "eligibility": "Signed a lease for a deregulated unit at 90 Washington Street, New York, NY and resided there after June 14, 2015 and before June 30, 2018 (421-g tax-benefit period)",
+   "id": "90-washington-rent-overcharge-2026",
+   "proof_required": "records",
+   "source_note": "Verified 2026-10-23 by opening official site 90washingtonclassaction.com (live) - deadline Nov 2, 2026 confirmed; Vignola v. JDM Washington Street LLC, Index No. 152025/2020 (NY Supreme Court, New York County); prelim approval; final hearing Nov 16, 2026 (Justice Lisa S. Headley); admin Epiq; cross-checked via openclassactions.com + claimdepot.com + moneypilot.com. No receipts or notice ID required; form requires unit number, lease start/end dates, co-tenant names, sworn under perjury (admin verifies against records).",
+   "title": "90 Washington Street $1.74M rent overcharge settlement",
+   "value_desc": "Pro-rata overcharge refund + 9% simple interest from $1,739,811 fund (no per-person estimate; co-tenants split equally)",
+   "verification": "primary",
+   "verified": "2026-10-23"
+  },
+  {
+   "beat": "bank-bonuses",
+   "category": "Bank bonus",
+   "claim_url": "https://us.etrade.com/bank/max-rate-checking",
+   "deadline": "2027-01-10",
+   "effort": "30 min + two $1,500+ direct deposits within 90 days",
+   "eligibility": "New individual/joint Max-Rate Checking opened online by Jan 10, 2027 with promo code MAXRATE26; no Max-Rate/Checking account in last 12 months; US residents only; 2 direct deposits of $1,500+ each within 90 days of opening (employer/government ACH; PayPal/Venmo/Zelle/bank transfers excluded); one checking offer at a time",
+   "id": "etrade-max-rate-400-2026",
+   "proof_required": "records",
+   "source_note": "Verified 2026-10-23 via official us.etrade.com Max-Rate Checking page (live) - 'Get $400 for a limited time... by 1/10/27... promo code MAXRATE26'; account held at Morgan Stanley Private Bank, N.A., Member FDIC; cross-checked via planensimple.boardingarea.com + doctorofcredit.com + milestomemories.com + uscreditcardguide.com. Caveat: terms state code must come from an authorized affiliate marketing partner (single use, non-transferable), though the official page publishes it openly.",
+   "title": "E*TRADE Max-Rate Checking $400 bonus",
+   "value_desc": "$400 cash, deposited on/about the 120th day after account opening",
+   "verification": "primary",
+   "verified": "2026-10-23"
+  },
+  {
+   "beat": "settlements-new",
+   "category": "Class action",
+   "claim_url": "https://knottsgreatamericasettlement.com",
+   "deadline": "2026-12-22",
+   "effort": "10 min + Notice ID & Confirmation Code from emailed notice",
+   "eligibility": "California citizens who bought non-season tickets to Knott's Berry Farm/Soak City (knotts.com) or California's Great America (cagreatamerica.com) June 28, 2020-Jul 1, 2024 and were charged a processing fee (CA billing ZIP; ~1,405,235 class members from sales records; season passes and park-bought tickets excluded)",
+   "id": "knotts-great-america-fee-2026",
+   "proof_required": "notice-id",
+   "source_note": "Verified 2026-10-23 via openclassactions.com claims-open page (links official site knottsgreatamericasettlement.com, prelim approval order, settlement agreement): Isayan v. Cedar Fair, L.P., et al., No. 24STCV16212 (L.A. County Superior Court); prelim approval Sept 17, 2026 (Judge Elaine Lu); admin Angeion Group; online claim requires Notice ID + Confirmation Code from emailed notice (paper form cannot be submitted without Notice ID); doing nothing gets $8 Six Flags credit automatically; final hearing Mar 30, 2027.",
+   "title": "Knott's Berry Farm / Great America $11.24M ticket fee settlement",
+   "value_desc": "$8 per person (not per ticket); $8 cash by claim or $8 Six Flags credit automatically",
+   "verification": "secondary",
+   "verified": "2026-10-23"
+  },
+  {
+   "beat": "settlements-new",
+   "category": "Class action",
+   "claim_url": "https://SyndicateSettlement.com",
+   "deadline": "2026-10-30",
+   "effort": "30 min + policy records (syndicate/policy number, face amount, premiums, dates)",
+   "eligibility": "US individuals/entities who bought or renewed an insurance policy (not reinsurance) with Lloyd's syndicates 727, 1003, 2003, 2020, or 2791, coverage Jan 1, 1997-Apr 15, 2025 (prior 2019/2023 filers need not re-file for those policies)",
+   "id": "lloyds-syndicate-2026",
+   "proof_required": "records",
+   "source_note": "Verified 2026-10-23 via claimdepot.com + eosguidehub.com + topclassactions.com + claimowedmoney.com: Lincoln Adventures LLC et al. v. Those Certain Underwriters at Lloyd's, et al., No. 2:08-cv-00235-CCC-ESK (D.N.J.); settling syndicates 727/1003/2003/2020/2791; admin A.B. Data; claim form asks policy details (syndicate number, policy number, face amount, annual premium, dates) signed under penalty of perjury; claims auditable; fairness hearing Oct 23, 2026; official site SyndicateSettlement.com.",
+   "title": "Lloyd's of London $3.57M syndicate insurance settlement",
+   "value_desc": "Pro-rata share of $3.57M fund based on premiums paid (no per-person estimate; smallest first-round payment $10)",
+   "verification": "secondary",
+   "verified": "2026-10-23"
+  },
+  {
+   "beat": "settlements-new",
+   "category": "Class action",
+   "claim_url": "https://www.SeniorCareCopaySettlement.com",
+   "deadline": "2026-10-30",
+   "effort": "15 min + customized claim form from notice + supporting documents",
+   "eligibility": "Medicare-eligible retired NYC municipal workers (and dependents) enrolled in EmblemHealth GHI Senior Care plan charged $15 co-pays for medical visits Jan 1, 2022-Jan 31, 2023; customized claim form mailed with notice (~250,000 retirees)",
+   "id": "emblemhealth-ghi-senior-care-2026",
+   "proof_required": "notice-id",
+   "source_note": "Verified 2026-10-23 via nycmea.org (NYC Managerial Employees Association: retirees with >=1 co-pay exposure Jan 1, 2022-Jan 31, 2023 get customized Claim Form with Notice; claim + supporting docs due Oct 30, 2026; official site www.SeniorCareCopaySettlement.com) + themoneyoverview.com + insurancebusinessmag.com + pollockcohen.com; NY state-court class action by NYC Organization of Public Service Retirees; settlement agreed July 31, 2026; admin Atticus Administration LLC; $15 co-pay frozen through Dec 31, 2027.",
+   "title": "EmblemHealth GHI Senior Care $53M co-pay settlement",
+   "value_desc": "Full or partial reimbursement of $15 medical-visit co-pays charged Jan 2022-Jan 2023 (fund = 100% of disputed co-pays)",
+   "verification": "secondary",
+   "verified": "2026-10-23"
+  },
+  {
+   "beat": "settlements-new",
+   "category": "Class action",
+   "claim_url": "https://www.strategicclaims.net/WMTechnology/",
+   "deadline": "2026-10-30",
+   "effort": "45 min + brokerage records",
+   "eligibility": "Purchased publicly traded WM Technology common stock and/or warrants June 16, 2021-Sept 24, 2024, and/or Silver Spike Acquisition Corp. stock/warrants May 25, 2021-June 15, 2021",
+   "id": "wm-technology-maps-2026",
+   "proof_required": "records",
+   "source_note": "Verified 2026-10-23 via Rosen Law Firm court-authorized settlement announcement (Stipulation of Settlement dated May 14, 2026; claim form electronically or postmarked by Oct 30, 2026; admin Strategic Claims Services) + Law360 (prelim approval granted July 20, 2026, C.D. Cal.) + openclassactions.com securities page (brokerage records required; est. ~$0.072/security before fees).",
+   "title": "WM Technology (Weedmaps/MAPS) $7.5M securities settlement",
+   "value_desc": "Pro-rata share of $7.5M net fund (est. ~$0.072/security before fees)",
+   "verification": "secondary",
+   "verified": "2026-10-23"
+  },
+  {
+   "beat": "settlements-new",
+   "category": "Class action",
+   "claim_url": "https://uscarcadiahospitalsettlement.com",
+   "deadline": "2026-12-07",
+   "effort": "10 min + login ID & PIN from settlement notice",
+   "eligibility": "Individuals who completed a form on the USC Arcadia Hospital website to sign up for email notifications or event updates Feb 1, 2022-Jan 31, 2023",
+   "id": "usc-arcadia-pixel-2026",
+   "proof_required": "notice-id",
+   "source_note": "Verified 2026-10-23 via claimdepot.com (citing class notice, settlement website FAQ, claim form, settlement agreement): Merle v. USC Arcadia Hospital; online claim requires login ID + PIN from settlement notice; paper form via cw.simpluris.com; admin Simpluris; mail to P.O. Box 25226, Santa Ana, CA 92799; fairness hearing Dec 14, 2026; ~582 estimated class members; CyEx Privacy Shield Pro (1 yr) enrolls separately, no claim needed, activation by Mar 15, 2027.",
+   "title": "USC Arcadia Hospital $200K pixel tracking settlement",
+   "value_desc": "Pro-rata share of $200K net fund (no per-person estimate) + 1 yr CyEx Privacy Shield Pro (no claim needed)",
+   "verification": "secondary",
+   "verified": "2026-10-23"
   }
  ]
 }
