@@ -652,7 +652,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-09",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-09 via classaction.org + openclassactions.com (preliminary approval May 13, 2026; official site LandsEndDataSettlement.com, admin Simpluris)"
+   "source_note": "Verified 2026-10-09 via classaction.org + openclassactions.com (preliminary approval May 13, 2026; official site LandsEndDataSettlement.com, admin Simpluris)",
+   "status": "expired"
   },
   {
    "id": "harvard-morgue-2026",
@@ -1138,7 +1139,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-14",
    "verification": "primary",
-   "source_note": "Verified 2026-10-14 directly on official site highlandsoncologysettlement.com (In re Highlands Oncology Group Data Breach Litig., No. 72CV-25-3420, Washington County AR Circuit Court; claim deadline Oct 22, 2026 on official notice table) + claimdepot.com"
+   "source_note": "Verified 2026-10-14 directly on official site highlandsoncologysettlement.com (In re Highlands Oncology Group Data Breach Litig., No. 72CV-25-3420, Washington County AR Circuit Court; claim deadline Oct 22, 2026 on official notice table) + claimdepot.com",
+   "status": "expired"
   },
   {
    "id": "muscatine-power-water-2026",
@@ -1321,7 +1323,8 @@
    "claim_url": "https://www.americoldbracysettlement.com/",
    "proof_required": "notice-id",
    "verified": "2026-10-16",
-   "source_note": "Verified 2026-10-16 via official Kroll claim portal forms.ksacms.com (live form: Class Member ID required field, deadline Oct 22, 2026) + eosguidehub + claimdepot.com + topclassactions.com; Bracy, et al. v. Americold Logistics LLC, No. 1:23-cv-05743-TWT, N.D. Ga.; final approval hearing Oct 6, 2026; exclusion/objection deadline Sep 22, 2026 (passed)"
+   "source_note": "Verified 2026-10-16 via official Kroll claim portal forms.ksacms.com (live form: Class Member ID required field, deadline Oct 22, 2026) + eosguidehub + claimdepot.com + topclassactions.com; Bracy, et al. v. Americold Logistics LLC, No. 1:23-cv-05743-TWT, N.D. Ga.; final approval hearing Oct 6, 2026; exclusion/objection deadline Sep 22, 2026 (passed)",
+   "status": "expired"
   },
   {
    "beat": "settlements-new",
@@ -1727,7 +1730,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-21",
    "verification": "primary",
-   "source_note": "Verified 2026-10-21 via official site phmgdatasettlement.com (admin Angeion) + classaction.org + topclassactions + official claim form; case Castro et al. v. Arch Health Partners Inc. d/b/a Palomar Health Medical Group, No. 37-2024-00024339-CU-NP-CTL (Super. Ct., San Diego); final approval hearing Nov 6, 2026"
+   "source_note": "Verified 2026-10-21 via official site phmgdatasettlement.com (admin Angeion) + classaction.org + topclassactions + official claim form; case Castro et al. v. Arch Health Partners Inc. d/b/a Palomar Health Medical Group, No. 37-2024-00024339-CU-NP-CTL (Super. Ct., San Diego); final approval hearing Nov 6, 2026",
+   "status": "expired"
   },
   {
    "id": "university-hawaii-2026",
@@ -1772,7 +1776,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-21",
    "verification": "primary",
-   "source_note": "Verified 2026-10-21 via classaction.org (court-approved site EFSDataSettlement.com) + openclassactions + claimdepot; case Kennedy et al. v. EFS Advisors LLC et al., No. 30-cv-24-649 (Isanti Dist. Ct., MN); prelim approval Jun 5, 2026"
+   "source_note": "Verified 2026-10-21 via classaction.org (court-approved site EFSDataSettlement.com) + openclassactions + claimdepot; case Kennedy et al. v. EFS Advisors LLC et al., No. 30-cv-24-649 (Isanti Dist. Ct., MN); prelim approval Jun 5, 2026",
+   "status": "expired"
   },
   {
    "beat": "settlements-new",
