@@ -290,3 +290,27 @@
 | 2026-10-23 | Equinox $685K data breach settlement (deadline TODAY Oct 23, 2026) | Already rejected 2026-10-18 — ~$100 with no documentation (notice ID only); no-proof route; closes today; H-011's beat in any case; not listed |
 | 2026-10-23 | State AG generic drug consumer program (AGGenericDrugs.com, claims Mar 8, 2027, ~$96.5M + $400M Sandoz pending) | JUDGMENT CALL: the default Option 1 filing path requires no receipts, records, or spend estimate (attestation only); the documented-spend Option 2 does not cure the no-proof option (Muscatine/Highland Health precedent). Real program, live claims, real deadline — but the no-proof route is banned on this beat. Flagged for main-agent review: if the policy should carve out state-AG-run programs, this one qualifies on every other box. |
 | 2026-10-23 | GEICO/Kohama $1.65M CLUE settlement (sighting) | Payment automatic, no claim to file — nothing to file (same precedent); not listed (was already rejected 2026-10-17 as automatic) |
+
+| 2026-10-24 | SoFi Checking and Savings up to $400 bonus | $50 ($1,000-$4,999.99 DD) or $400 ($5,000+ DD) | 30 min + direct deposits within 25 days | 2027-12-31 (first eligible DD must be received by this date) | Verified 2026-10-24 on official sofi.com/banking terms (live, primary): promo 5/15/2026-12/31/2027; new and existing members who never set up DD with SoFi; one bonus per member; bonus within 7 business days; no account fees; P2P/wires/tax refunds excluded; cross-checked via financebuzz.com + fool.com + money.com (older roundups quoted 12/31/2026 end — official page now says 12/31/2027) |
+| 2026-10-24 | Metropolitan Bank $188 checking/savings bonus | $188 | 30 min in person + $8,888 deposit held 6 months | 2026-11-07 (open by) | Verified 2026-10-24 on official met.bank current-promotion page (live, primary): new customers only, open in person at a Metropolitan Bank branch, $8,888+ new money held 6 consecutive months, bonus within 30 days; offer Oct 19-Nov 7, 2026 only |
+
+## Rejected candidates (2026-10-24)
+
+| Date | Candidate | Reason rejected |
+|------|-----------|-----------------|
+| 2026-10-24 | GoodRx $32M privacy settlement (claim site now live, deadline Dec 29, 2026) | Re-confirmed 2026-10-24: live claim form asks for no receipts/documents and Unique ID/PIN optional — no-proof route per standing directive; still not listed |
+| 2026-10-24 | Tenet Healthcare $16 pixel settlement (deadline Mar 15, 2027) | Re-confirmed: paper form needs Login ID only "if known" and "no receipts or explanation" for $16 — no-proof route; not listed |
+| 2026-10-24 | BMW $800K shark-fin antenna settlement | Claim deadline Oct 16, 2026 — passed; nothing to file |
+| 2026-10-24 | Stockpile $600K data breach settlement | Claim deadline Oct 6, 2026 — passed; nothing to file |
+| 2026-10-24 | Stitch Fix $32M securities settlement | Claim deadline Oct 7, 2026 — passed; nothing to file |
+| 2026-10-24 | Toyota Forklift $299.5M emissions settlement | Claim deadline Oct 7, 2026 (extended) — passed; nothing to file |
+| 2026-10-24 | Doxim $5.5M data breach settlement | Claim deadline Oct 13, 2026 — passed; nothing to file |
+| 2026-10-24 | Lands' End data breach settlement | Claim deadline Oct 22, 2026 — passed; already rejected as no-proof alternate cash option |
+| 2026-10-24 | Chase Total Checking $400 bonus | Promo expired Oct 14, 2026 — passed; nothing to file |
+| 2026-10-24 | NAR homebuyer $120.3M settlement (deadline Oct 27, 2026) | Already listed (nar-2026); re-verified today via wrenews.com — deadline confirmed, no duplicate entry |
+| 2026-10-24 | Kroger $17M prescription copay settlement (deadline Dec 21, 2026) | Already listed (kroger-2026); re-verified today via topclassactions.com — no duplicate entry |
+| 2026-10-24 | Equifax $30M hard inquiry settlement (deadline Nov 29, 2026) | Already listed (equifax-hard-inquiry-2026); re-verified today via topclassactions.com — no duplicate entry |
+| 2026-10-24 | University of Phoenix $8.75M pixel settlement (deadline Nov 5, 2026) | Already listed (uop-pixel-2026); re-verified today via topclassactions.com — no duplicate entry |
+| 2026-10-24 | Marqeta $13M securities settlement (deadline Dec 31, 2026) | Already listed (marqeta-securities-2026); re-verified today via openclassactions.com — no duplicate entry |
+| 2026-10-24 | Adams Toyota $4.25M ResistAll settlement (deadline Feb 11, 2027) | Already listed (adams-toyota-resistall-2026); re-verified today via claimdepot.com — no duplicate entry |
+| 2026-10-24 | TransUnion $8.31M bankruptcy-reporting settlement (deadline Oct 30, 2026) | Already listed (transunion-bankruptcy-2026); re-verified today via classactionbuddy.com — deadline Oct 30 confirmed, no duplicate entry |

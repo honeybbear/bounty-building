@@ -2004,6 +2004,36 @@
    "value_desc": "Est. $50 pro rata cash ($100 for California subclass members); $1.25M non-reversionary fund",
    "verified": "2026-10-24",
    "verification": "primary"
+  },
+  {
+   "beat": "bank-bonuses",
+   "category": "Bank bonus",
+   "claim_url": "https://www.sofi.com/banking/",
+   "deadline": "2027-12-31",
+   "effort": "30 min + direct deposits within 25 days",
+   "eligibility": "New and existing SoFi Checking and Savings members who have never set up direct deposit with SoFi; one bonus per member; nationwide online; SoFi Bank, N.A., Member FDIC",
+   "id": "sofi-checking-2026",
+   "proof_required": "records",
+   "source_note": "Verified 2026-10-24 on official sofi.com/banking terms (live): $50 for $1,000-$4,999.99 or $400 for $5,000+ total eligible direct deposits within 25 calendar days of first eligible direct deposit of $1+; first eligible direct deposit must be received by 12/31/2027; bonus paid within 7 business days; no account/maintenance fees. Cross-checked via financebuzz.com, fool.com, money.com (older roundups quoted 12/31/2026 end; official page now says 12/31/2027).",
+   "title": "SoFi Checking and Savings up to $400 bonus",
+   "value_desc": "$50 or $400 cash bonus based on eligible direct deposits within 25 days (P2P, wires, tax refunds excluded); plus optional 1.10% APY boost on savings up to 6 months for new members",
+   "verified": "2026-10-24",
+   "verification": "primary"
+  },
+  {
+   "beat": "bank-bonuses",
+   "category": "Bank bonus",
+   "claim_url": "https://www.met.bank/current-promotion-2026/",
+   "deadline": "2026-11-07",
+   "effort": "30 min in person + $8,888 deposit held 6 months",
+   "eligibility": "New Metropolitan Bank checking or savings customers (not existing, no account closed within 90 days, none closed with negative balance in last 3 years); account opened in person at a Metropolitan Bank branch; one bonus per person",
+   "id": "metropolitan-bank-188-2026",
+   "proof_required": "records",
+   "source_note": "Verified 2026-10-24 on official met.bank current-promotion page (live): $188 cashback for opening a qualifying checking or savings account in person and depositing $8,888+ in new money, held 6 consecutive months; bonus deposited within 30 days; offer Oct 19-Nov 7, 2026 only.",
+   "title": "Metropolitan Bank $188 checking/savings bonus",
+   "value_desc": "$188 cash bonus for $8,888+ new-money deposit held 6 months; in-person branch opening required",
+   "verified": "2026-10-24",
+   "verification": "primary"
   }
  ]
 }
