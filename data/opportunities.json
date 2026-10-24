@@ -1989,6 +1989,21 @@
    "value_desc": "Pro-rata share of $200K net fund (no per-person estimate) + 1 yr CyEx Privacy Shield Pro (no claim needed)",
    "verification": "secondary",
    "verified": "2026-10-23"
+  },
+  {
+   "beat": "settlements-breach",
+   "category": "Class action",
+   "claim_url": "https://www.wmgdatasettlement.com",
+   "deadline": "2027-01-22",
+   "effort": "10 min",
+   "eligibility": "US residents who made payment card purchases on e-commerce websites operated by or on behalf of Warner Music Group subsidiaries between April 25 and August 5, 2020",
+   "id": "warner-music-group-2026",
+   "proof_required": "notice-id",
+   "source_note": "Verified 2026-10-24 via official paper Claim Form (wmgdatasettlement.com; EisnerAmper admin; In re Warner Music Group Data Breach, No. 1:20-cv-07473, S.D.N.Y.) + openclassactions.com; paper form asks Settlement Claim/Notice ID with no 'if known' language",
+   "title": "Warner Music Group $1.25M data breach settlement",
+   "value_desc": "Est. $50 pro rata cash ($100 for California subclass members); $1.25M non-reversionary fund",
+   "verified": "2026-10-24",
+   "verification": "primary"
   }
  ]
 }
