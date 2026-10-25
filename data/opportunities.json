@@ -2034,6 +2034,21 @@
    "value_desc": "$188 cash bonus for $8,888+ new-money deposit held 6 months; in-person branch opening required",
    "verified": "2026-10-24",
    "verification": "primary"
+  },
+  {
+   "beat": "settlements-breach",
+   "category": "Class action",
+   "claim_url": "https://www.hrmcdatasettlement.com",
+   "deadline": "2027-01-11",
+   "effort": "10 min",
+   "eligibility": "US residents whose private information was impacted in the June 18-July 16, 2025 Hampton Regional Medical Center data incident, including those who received a notice letter",
+   "id": "hampton-regional-2026",
+   "proof_required": "notice-id",
+   "source_note": "Verified 2026-10-25 via official paper Claim Form (hrmcdatasettlement.com; Kroll admin; In re Hampton Regional Medical Center Data Incident Litig., No. 2025CP2500280, Hampton County SC) + openclassactions.com + claimdepot.com; paper form Section II 'Class Member ID:' field carries no 'if known'/optional qualifier; online login requires Class Member ID; deadline Jan 11, 2027 per form; opt-out Dec 24, 2026; final approval hearing Jan 25, 2027; $250K non-reversionary fund",
+   "title": "Hampton Regional Medical Center $250K data breach settlement",
+   "value_desc": "Est. $20 pro rata cash OR up to $5,000 documented losses; 1yr 1-bureau credit monitoring + medical identity monitoring + $1M insurance",
+   "verified": "2026-10-25",
+   "verification": "primary"
   }
  ]
 }
