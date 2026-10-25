@@ -2050,5 +2050,81 @@
    "verified": "2026-10-25",
    "verification": "primary"
   }
+,
+  {
+   "beat": "settlements-new",
+   "category": "Class action",
+   "claim_url": "https://www.fordtransittrailsettlement.com",
+   "deadline": "2027-01-15",
+   "effort": "30 min + purchase/lease documents",
+   "eligibility": "Original owners/lessees who bought or leased a new 2023-2024 Ford Transit Trail for personal, family or household use before June 1, 2024, and who have not already received compensation from Ford for the van or the alleged defect; business/commercial buyers excluded; one claim per van",
+   "id": "ford-transit-trail-2026",
+   "proof_required": "records",
+   "source_note": "Verified 2026-10-25 via openclassactions.com (court-authorized long-form notice, Epiq admin) + claimdepot.com; Provo v. Ford Motor Co., No. 1:25-cv-00569-RGA (D. Del.); prelim approval; final hearing Mar 16, 2027; exclusion/objection Jan 13, 2027; official site fordtransittrailsettlement.com; $6,000 fixed per Class Vehicle, fees/service awards paid separately by Ford; free recall remedies unaffected; online filing needs Unique ID + PIN from Postcard Notice + VIN + purchase/lease docs + W-9",
+   "title": "Ford Transit Trail $6,000-per-van settlement",
+   "value_desc": "$6,000 fixed cash payment per qualifying Class Vehicle",
+   "verified": "2026-10-25",
+   "verification": "secondary"
+  },
+  {
+   "beat": "settlements-new",
+   "category": "Class action",
+   "claim_url": "https://epoasettlementqtl.com",
+   "deadline": "2026-12-14",
+   "effort": "10 min + LoginID & PIN from notice",
+   "eligibility": "Individuals who applied for a Quadrant Technologies job opening in Washington Jan 1, 2023-Jul 26, 2025 where the posting did not disclose a wage scale/salary range and/or a general description of benefits and other compensation",
+   "id": "quadrant-technologies-2026",
+   "proof_required": "notice-id",
+   "source_note": "Verified 2026-10-25 via openclassactions.com (court-authorized notice, prelim approval Aug 28, 2026, Judge Ken Schubert, King County) + claimdepot.com; Floyd v. Quadrant Technologies LLC, No. 25-2-03238-8 SEA; admin Simpluris; notice mailed Oct 13, 2026; final hearing Jan 14, 2027; $900K fund less $225K fees/costs, $15K service award, up to $80K admin; net fund split equally, capped at $5,000/person",
+   "title": "Quadrant Technologies $900K WA job postings settlement",
+   "value_desc": "Est. $17.93 per claimant (notice estimate; equal share of net fund, capped at $5,000)",
+   "verified": "2026-10-25",
+   "verification": "secondary"
+  },
+  {
+   "beat": "settlements-new",
+   "category": "Class action",
+   "claim_url": "https://www.healthportpitsettlementpa.com",
+   "deadline": "2026-12-31",
+   "effort": "15 min + Class Member ID from notice",
+   "eligibility": "Patients, patient designees and patient representatives who requested Pennsylvania medical records from a PA provider/facility in connection with life and/or health insurance applications (HealthPort 'underwriting' requests) Dec 17, 2009-Jul 23, 2026 and paid HealthPort more than the PA Medical Records Act fee maximums",
+   "id": "healthport-pit-2026",
+   "proof_required": "notice-id",
+   "source_note": "Verified 2026-10-25 via openclassactions.com (long-form notice + settlement agreement posted on official site); P.I.T. Retrievals, LLC v. HealthPort Technologies, LLC, No. GD-13-023729 (Allegheny County Court of Common Pleas); admin American Legal Claims Services; ~2,056 class members identified from HealthPort records; fairness hearing Dec 1, 2026; online-only filing via official site; exclusion Nov 16, 2026; distinct from the Landay v. Datavant HealthPort settlement",
+   "title": "HealthPort underwriting records fee settlement",
+   "value_desc": "67.5% of alleged overcharge per covered request (from HealthPort invoice records; up to $197,720.39 total, pro rata if claims exceed it)",
+   "verified": "2026-10-25",
+   "verification": "secondary"
+  },
+  {
+   "beat": "bank-bonuses",
+   "category": "Bank bonus",
+   "claim_url": "https://www.pnc.com",
+   "deadline": "2027-01-07",
+   "effort": "30 min + direct deposits within 60 days",
+   "eligibility": "New PNC Virtual Wallet customers; no existing PNC consumer checking, none closed within 12 months, no PNC promotional premium within 24 months; apply via PNC's Virtual Wallet promo page or in branch with the emailed offer code; availability varies by ZIP code",
+   "id": "pnc-virtual-wallet-2026",
+   "proof_required": "records",
+   "source_note": "Verified 2026-10-25 via milesandpointsguru.com (updated 10/20/26, links PNC offer) + bankbonus.com + finder.com + moneycrashers.com + dannydealguru.com; $100 for Virtual Wallet with $500+ qualifying direct deposits to Spend within 60 days, or $400 for Virtual Wallet with Performance Select with $5,000+ within 60 days; bonus credited 60-90 days after qualifying; Performance Select $25/mo fee waivable; Member FDIC; roundups link the PNC site generally (promo application link varies by ZIP), so claim_url is pnc.com",
+   "title": "PNC Virtual Wallet up to $400 bonus",
+   "value_desc": "$100 (Virtual Wallet, $500+ DD) or $400 (Virtual Wallet with Performance Select, $5,000+ DD) within 60 days",
+   "verified": "2026-10-25",
+   "verification": "secondary"
+  },
+  {
+   "beat": "bank-bonuses",
+   "category": "Bank bonus",
+   "claim_url": "https://www.raisin.com/en-us/savings-accounts-a/",
+   "deadline": "2026-10-31",
+   "effort": "30 min + deposits held 90 days",
+   "eligibility": "New Raisin customers; first deposit initiated Sep 1-Oct 31, 2026 by 11:59 PM ET with promo code STACK; funds deposited within 14 days of initial deposit and maintained with Raisin partner banks for 90 days",
+   "id": "raisin-stack-2026",
+   "proof_required": "records",
+   "source_note": "Verified 2026-10-25 via official raisin.com savings page (promo terms) + bankcheckingsavings.com + hustlermoneyblog.com + bankdealguy.com + mymillennialguide.com; tiers: $10K-$24,999=$50, $25K-$49,999=$125, $50K-$99,999=$250, $100K-$199,999=$500, $200K+=$1,000 (welcome + Savings+CD boost for split savings/CD balances); bonus credited to Cash Account within 30 days of meeting terms; Raisin is a marketplace across 40+ FDIC/NCUA partner banks, not itself a bank",
+   "title": "Raisin up to $1,000 savings bonus (promo STACK)",
+   "value_desc": "$50-$1,000 welcome bonus by deposit tier ($10K-$200K+), plus $10-$100 Savings+CD boost",
+   "verified": "2026-10-25",
+   "verification": "secondary"
+  }
  ]
 }
