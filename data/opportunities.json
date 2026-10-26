@@ -2124,6 +2124,21 @@
    "value_desc": "$50-$1,000 welcome bonus by deposit tier ($10K-$200K+), plus $10-$100 Savings+CD boost",
    "verified": "2026-10-25",
    "verification": "secondary"
-  }
+  },
+ {
+  "beat": "settlements-breach",
+  "category": "Class action",
+  "claim_url": "https://www.kiscosettlement.com",
+  "deadline": "2027-01-19",
+  "effort": "10 min",
+  "eligibility": "US residents to whom Kisco Senior Living sent written notification of the June 1-6, 2023 data incident (~26,663 notified)",
+  "id": "kisco-senior-living-2026",
+  "proof_required": "notice-id",
+  "source_note": "Verified 2026-10-26 via official paper Claim Form (kiscosettlement.com/Content/Docs/Claim Form.pdf; CPT Group admin; Gois, et al. v. Kisco Senior Living, LLC, No. 3:24-cv-00751, S.D. Cal.) + openclassactions.com + claimdepot.com; paper form states claimant must have received notice with a unique CPT ID and Section A says without one you do not qualify to file \u2014 no 'if known'/optional language; online portal requires CPT ID + Passcode; deadline Jan 19, 2027 (claims must be received); opt-out Dec 18, 2026; final approval hearing Mar 18, 2027",
+  "title": "Kisco Senior Living $1.8M data breach settlement",
+  "value_desc": "Pro rata residual cash share + $250 California statutory payment (CA residents at time of incident); up to $1,000 ordinary + up to $10,000 extraordinary documented losses incl. attested time; 3yr 3-bureau credit monitoring; $1.8M non-reversionary fund",
+  "verification": "primary",
+  "verified": "2026-10-26"
+ }
  ]
 }
