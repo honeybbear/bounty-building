@@ -2203,6 +2203,36 @@
    "value_desc": "50% of net withheld nonmaterial depreciation plus 10%/yr simple interest (if not fully paid), or $10-$360 one-time payment (if fully recovered through the claim process)",
    "verification": "primary",
    "verified": "2026-10-26"
+  },
+  {
+   "beat": "settlements-new",
+   "category": "Class action",
+   "claim_url": "https://www.overlandspecialdeterrentfeesettlement.com/",
+   "deadline": "2026-11-24",
+   "effort": "10 min + Claimant ID from notice + last name",
+   "eligibility": "Individuals who paid a special deterrent fee to the City of Overland, MO (Overland Municipal Court) on or after Aug 4, 2012 (class period through Sep 10, 2021); approx. 344 class members per final approval order; searchable class list on official site",
+   "id": "overland-deterrent-fee-2026",
+   "proof_required": "notice-id",
+   "source_note": "Verified 2026-10-27 by opening official site overlandspecialdeterrentfeesettlement.com (live: final approval granted May 27, 2026, claim deadline Nov 24, 2026, $80 flat per valid claim) + openclassactions.com (Claimant ID + last name proof gate, ~344 class members, admin Atticus Administration) + claimdepot.com; Brimmer v. City of Overland, No. 17SL-CC02740 (St. Louis County Circuit Court, MO); $80 paid by check, not pro rata",
+   "title": "City of Overland $80 special deterrent fee settlement",
+   "value_desc": "$80 flat per valid claim (paid by check; not pro rata)",
+   "verification": "primary",
+   "verified": "2026-10-27"
+  },
+  {
+   "beat": "settlements-new",
+   "category": "Class action",
+   "claim_url": "https://www.strategicclaims.net/Marex/",
+   "deadline": "2027-01-11",
+   "effort": "45 min + brokerage records",
+   "eligibility": "Investors who bought Marex Group plc ordinary shares Nov 7, 2024-Aug 4, 2025 (alleged inflation $2.33/share); shares sold before Aug 5, 2025 receive nothing; FIFO matching; no payment under $10; overall market gain disqualifies",
+   "id": "marex-group-securities-2026",
+   "proof_required": "records",
+   "source_note": "Verified 2026-10-27 via official admin page strategicclaims.net/Marex/ (Strategic Claims Services, live with notice + claim form + prelim approval order Sep 3, 2026) + admin postcard notice (claim with supporting docs online or postmarked by Jan 11, 2027) + openclassactions.com (brokerage records required: trade confirmations/statements, account number, last 4 SSN/TIN, full purchase/sale schedule Nov 7, 2024-Oct 31, 2025); Shahsavanpour v. Marex Group plc, No. 1:25-cv-08393-SDA (S.D.N.Y.); final hearing Feb 2, 2027; $950K fund, ~half to investors after fees",
+   "title": "Marex Group $950K securities settlement",
+   "value_desc": "Pro-rata share of $950K net fund (est. ~$0.03/share before fees per OCA; no payment under $10)",
+   "verification": "secondary",
+   "verified": "2026-10-27"
   }
  ]
 }

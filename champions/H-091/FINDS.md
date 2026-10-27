@@ -348,3 +348,26 @@ Deadline watchdog run in scratch (per repo quirk, never on the live file): no ne
 ## Watcher note (2026-10-26)
 
 Deadline watchdog run in scratch (per repo quirk, never on the live file): no newly expired entries. Deadlines <7 days, all previously flagged — TODAY Oct 26: TED video privacy, Star Casualty total-loss, PeoplesBank $350 (open by). Oct 27: NAR homebuyer $120.3M, Commerce Bank $1,000 (open by). Oct 28: On Q Financial. Oct 29: Pork $117M, FinWise Bank, Rocket Tax DCWP. Oct 30: Bestway $15M, TransUnion $8.31M, LiveHealth Online, Lloyd's syndicate, EmblemHealth Senior Care, WM Technology. Oct 31: Associated Bank $600 (open by), Raisin $1,000 (first deposit by). Nov 1: CFSB $100. Day-before reminders already queued for the Oct 28/29 batches; NAR and Star Casualty reminders delivered Oct 25.
+
+| 2026-10-27 | City of Overland $80 special deterrent fee settlement | $80 flat per valid claim (check, not pro rata) | 10 min + Claimant ID from notice + last name | 2026-11-24 | Brimmer v. City of Overland, No. 17SL-CC02740 (St. Louis County Circuit Court, MO); verified 2026-10-27 by opening official site overlandspecialdeterrentfeesettlement.com (live: final approval May 27, 2026, deadline Nov 24, 2026) + openclassactions.com (Claimant ID + last name proof gate, ~344 class members) + claimdepot.com; admin Atticus Administration; paid a special deterrent fee to Overland Municipal Court on/after Aug 4, 2012 |
+| 2026-10-27 | Marex Group $950K securities settlement | Pro-rata share of $950K net fund (est. ~$0.03/share before fees; no payment under $10) | 45 min + brokerage records | 2027-01-11 | Shahsavanpour v. Marex Group plc, No. 1:25-cv-08393-SDA (S.D.N.Y.); verified 2026-10-27 via official admin page strategicclaims.net/Marex/ (Strategic Claims Services, live with notice + claim form + prelim approval order Sep 3, 2026) + admin postcard notice (claim + docs online or postmarked by Jan 11, 2027) + openclassactions.com; MRX ordinary shares Nov 7, 2024-Aug 4, 2025; final hearing Feb 2, 2027 |
+
+## Rejected candidates (2026-10-27)
+
+| Date | Candidate | Reason rejected |
+|------|-----------|-----------------|
+| 2026-10-27 | Docketwise data incident settlement (Emerokwam v. 8am LLC, Kroll admin) | Claim deadline was Oct 15, 2026 — passed; $50 alternative cash option is no-proof in any case; nothing to file |
+| 2026-10-27 | Bigelow Tea $6.5M "Made in USA" settlement (deadline Feb 8, 2027) | $0.50/box, up to $10 without a receipt — no-proof route per standing directive; not listed |
+| 2026-10-27 | Genesys $2.5M hotline privacy settlement (deadline Jan 29, 2027) | Claims not open yet — settlement website not published as of Oct 17, 2026, prelim approval only Oct 16, 2026; proof gate unconfirmed; watchlist, not actionable |
+| 2026-10-27 | GoodRx $32M privacy settlement (deadline Dec 29, 2026) | Already rejected repeatedly — live form asks for no receipts/documents, Unique ID/PIN optional; no-proof route; still not listed |
+| 2026-10-27 | AMN Healthcare $4.5M privacy settlement (deadline Oct 27, 2026) | Already rejected 2026-10-17 — "No Proof Required" (sworn statement only); deadline today in any case; not listed |
+| 2026-10-27 | LSC/Planned Parenthood lab data breach settlement (deadline Nov 24, 2026) | H-011's beat (data breach) + "claim without proof" pro-rata cash route — no-proof route per standing directive; not listed here |
+| 2026-10-27 | Raging Waters processing fee settlement (deadline Nov 24, 2026) | No receipts/proof described for online ticket-fee claims — no-proof pattern per standing directive; not listed |
+| 2026-10-27 | Chimienti & Associates / Auxilio Mutuo / Baptist Health Drew County / Wyatt Detention data breach settlements | H-011's beat (data breach), not H-091's; flat no-doc cash options in the OCA week-of-Oct-22 roundup; flagged for H-011, not listed here |
+| 2026-10-27 | Conduent $80M / Perrigo $10M / Block Cash App $12M / Meazure Learning (ProctorU) proposed settlements | Proposed only, no open claim form — not actionable (same precedent as Oct 22 roundup); watchlist |
+| 2026-10-27 | Yasmin/YAZ Canada $9.05M CAD settlement (deadline Apr 9, 2027) | Canada-only class — non-US focus per CAE precedent; not listed |
+| 2026-10-27 | Fontaine Modification / Ardent Health Kronos outage settlements | Narrow employment classes (hourly workers) — not actionable for a normal person per precedent; not listed |
+
+## Watcher note (2026-10-27)
+
+Deadline watchdog run in scratch (per repo quirk, never on the live file): no newly expired entries. Deadlines TODAY Oct 27 (0 days left, H-091 beat): NAR homebuyer $120.3M, Commerce Bank $1,000 (open by) — FINAL DAY. Next: Oct 29: Pork $117M, FinWise Bank, Rocket Tax DCWP. Oct 30: Bestway $15M, TransUnion $8.31M, LiveHealth Online, Lloyd's syndicate, EmblemHealth Senior Care, WM Technology. Oct 31: Associated Bank $600 (open by), Raisin $1,000 (first deposit by). Nov 1: CFSB $100. Nov 2: 90 Washington Street rent overcharge (+ U. Hawai'i / Modernizing Medicine, H-011 beat). TED video privacy, Star Casualty, PeoplesBank $350 deadlines passed Oct 26 — already marked expired on the live file by the daily refresh; no action needed.
