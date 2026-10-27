@@ -211,3 +211,17 @@ Pattern note: 15+ of today's rejections are Simpluris's "(if known)" paper-form 
 | 2026-10-26 | Hospital Español Auxilio Mutuo $500K data breach | REJECTED — openclassactions.com 2026-10-26: "The paper claim form, which can be printed from the settlement website and mailed, asks for the Class Member ID if known" — paper-form bypass route, under standing ban. Deadline Dec 21, 2026; $25 flat or up to $2,500 documented |
 | 2026-10-26 | Baptist Health Drew County data breach | REJECTED (re-confirmed) — paper form still lists Notice ID "if known" per openclassactions.com 2026-10-26; no-proof route stands, under standing ban (also rejected 2026-10-18) |
 | 2026-10-26 | Watcher | check_deadlines.py run in scratch on a copy (no file changes): NO new expiries. Beat urgents <7d: Muscatine Power and Water DUE TODAY (Oct 26, 0d), On Q Financial 2d (Oct 28), FinWise Bank 3d (Oct 29). Cross-beat urgents noted in other teams' lanes. |
+
+## 2026-10-27 sweep — zero new verified finds; beat urgents <7d confirmed live
+
+| 2026-10-27 | California Casualty data breach | REJECTED (re-confirmed) — paper-form "(if known)" pattern stands; already rejected 2026-10-18; no new evidence |
+| 2026-10-27 | Safe Fleet / Clarience data breach | REJECTED (re-confirmed) — paper-form "(if known)" pattern stands; already rejected 2026-10-18; deadline Dec 2, 2026 |
+| 2026-10-27 | Auxilio Mutuo / Hospital Español data breach | REJECTED (re-confirmed) — paper form asks Class Member ID "if known" per openclassactions 2026-10-27; already rejected 2026-10-26 |
+| 2026-10-27 | Etairos Health data breach | REJECTED (re-confirmed) — ID explicitly optional on paper; already rejected 2026-10-18 |
+| 2026-10-27 | EFI (Electronics for Imaging) data breach | REJECTED (re-confirmed) — paper form "Login ID (if known)"; already rejected 2026-10-18 |
+| 2026-10-27 | Chimienti & Associates $650K data breach | REJECTED (re-confirmed) — paper form asks Login ID "if known"; already rejected 2026-10-18 |
+| 2026-10-27 | ARcare $3.9M data breach | REJECTED (re-confirmed) — online form opens on name/address, no ID/PIN; already rejected 2026-10-26 |
+| 2026-10-27 | Conduent $80M data breach | WATCH ONLY — still no claim form: judge held off preliminary approval Oct 22, 2026; plaintiffs' supplemental materials due Nov 5, 2026 (recordinglaw.com, verified Oct 25, 2026) |
+| 2026-10-27 | Bath Fitter employee data breach (Malaterre v. National Bath Systems, 2:25-cv-00543) | WATCH ONLY — preliminary approval granted Sept 15, 2026 (Justia order), but no settlement claim site, claim form, or deadline surfaced in today's search; keep watching |
+| 2026-10-27 | Wyatt Detention Facility data breach | WATCH ONLY — Epiq claim site ordered to launch ~Oct 31, 2026; re-check after that date |
+| 2026-10-27 | Watcher | check_deadlines.py run in scratch on a copy (no file changes): NO new expiries. Beat urgents <7d, deadlines re-confirmed live today: On Q Financial 1d (Oct 28 — classaction.org + openclassactions weekly roundup), FinWise Bank 2d (Oct 29 — claimdepot + The Sun), University of Hawai'i 6d (Nov 2), Modernizing Medicine 6d (Nov 2). Muscatine Power and Water (Oct 26) already marked expired in opportunities.json. Cross-beat urgents noted in other teams' lanes (NAR + Commerce Bank due TODAY Oct 27; Pork 2d, Bestway 3d, TransUnion 3d, Rocket Tax 2d). |
