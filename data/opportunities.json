@@ -805,7 +805,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-23",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-10 via topclassactions.com + classaction.org + openclassactions.com (linked official site tedvppasettlement.com); Sutton v. TED Foundation, S.D.N.Y.; final hearing Nov 12, 2026"
+   "source_note": "Verified 2026-10-10 via topclassactions.com + classaction.org + openclassactions.com (linked official site tedvppasettlement.com); Sutton v. TED Foundation, S.D.N.Y.; final hearing Nov 12, 2026",
+   "status": "expired"
   },
   {
    "id": "transunion-bankruptcy-2026",
@@ -1156,7 +1157,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-14",
    "verification": "primary",
-   "source_note": "Verified 2026-10-14 directly on official site muscatinedatabreach.com (Cox v. Muscatine Power and Water, No. 07701 CVCV027276, Muscatine County IA District Court; claim deadline Oct 26, 2026 on official notice table) + claimdepot.com"
+   "source_note": "Verified 2026-10-14 directly on official site muscatinedatabreach.com (Cox v. Muscatine Power and Water, No. 07701 CVCV027276, Muscatine County IA District Court; claim deadline Oct 26, 2026 on official notice table) + claimdepot.com",
+   "status": "expired"
   },
   {
    "id": "riverside-casino-2026",
@@ -1626,7 +1628,8 @@
    "title": "Star Casualty total-loss auto claims settlement",
    "value_desc": "Up to $279.85 per claim: $79.85 unpaid title/tag transfer fees + up to $200 excess storage/towing repayment (cap $25/day, 8 days) + prejudgment interest",
    "verified": "2026-10-23",
-   "verification": "primary"
+   "verification": "primary",
+   "status": "expired"
   },
   {
    "beat": "bank-bonuses",
@@ -1808,7 +1811,8 @@
    "title": "PeoplesBank $350 checking bonus (MA & CT)",
    "value_desc": "$350 cash bonus",
    "verification": "primary",
-   "verified": "2026-10-23"
+   "verified": "2026-10-23",
+   "status": "expired"
   },
   {
    "beat": "settlements-new",
@@ -2125,80 +2129,80 @@
    "verified": "2026-10-25",
    "verification": "secondary"
   },
- {
-  "beat": "settlements-breach",
-  "category": "Class action",
-  "claim_url": "https://www.kiscosettlement.com",
-  "deadline": "2027-01-19",
-  "effort": "10 min",
-  "eligibility": "US residents to whom Kisco Senior Living sent written notification of the June 1-6, 2023 data incident (~26,663 notified)",
-  "id": "kisco-senior-living-2026",
-  "proof_required": "notice-id",
-  "source_note": "Verified 2026-10-26 via official paper Claim Form (kiscosettlement.com/Content/Docs/Claim Form.pdf; CPT Group admin; Gois, et al. v. Kisco Senior Living, LLC, No. 3:24-cv-00751, S.D. Cal.) + openclassactions.com + claimdepot.com; paper form states claimant must have received notice with a unique CPT ID and Section A says without one you do not qualify to file \u2014 no 'if known'/optional language; online portal requires CPT ID + Passcode; deadline Jan 19, 2027 (claims must be received); opt-out Dec 18, 2026; final approval hearing Mar 18, 2027",
-  "title": "Kisco Senior Living $1.8M data breach settlement",
-  "value_desc": "Pro rata residual cash share + $250 California statutory payment (CA residents at time of incident); up to $1,000 ordinary + up to $10,000 extraordinary documented losses incl. attested time; 3yr 3-bureau credit monitoring; $1.8M non-reversionary fund",
-  "verification": "primary",
-  "verified": "2026-10-26"
- },
- {
-  "beat": "settlements-new",
-  "category": "Securities",
-  "claim_url": "https://www.safemoonsettlement.com",
-  "deadline": "2026-11-09",
-  "effort": "45 min + wallet records + W-9",
-  "eligibility": "Investors who purchased, or were solicited to purchase, SFM tokens directly from SafeMoon between March 8, 2021 and November 1, 2023; those who filed a bankruptcy proof of claim by July 22, 2024 need not file a new Class Claim form",
-  "id": "safemoon-2026",
-  "proof_required": "records",
-  "source_note": "Verified 2026-10-26: openclassactions.com SafeMoon settlement page (claim forms due Nov 9, 2026; wallet address/account + W-9 + perjury-signed release; administrator verifies wallet) + Stretto court-filed claim documents (Case 2:22-cv-00642-DBB-JCB, proof of claim due Nov 9, 2026, SafeMoonSettlement.com, c/o Stretto, Irvine CA) + Scott+Scott businesswire announcement (prelim approval, $12M trustee settlement, ~$10M net, FIFO loss formula); opt-out/objection passed Oct 1, 2026; separate small Jake Paul and Daniel Keem funds; no payment under $10",
-  "title": "SafeMoon $12M trustee fund settlement",
-  "value_desc": "Pro-rata share of ~$10M net trustee fund by FIFO-calculated loss (of $12M total); separate small Paul/Keem funds; no payment under $10; claimants with overall market gain receive nothing",
-  "verification": "primary",
-  "verified": "2026-10-26"
- },
- {
-  "beat": "settlements-new",
-  "category": "Securities",
-  "claim_url": "https://www.dmyivstockholdersettlement.com",
-  "deadline": "2027-01-09",
-  "effort": "45 min + brokerage records",
-  "eligibility": "Record and beneficial holders of dMY Technology Group, Inc. IV (dMY IV) Class A common stock between December 1, 2021 and December 7, 2021 who held prior to the redemption deadline and did not exercise redemption rights",
-  "id": "dmy-iv-2026",
-  "proof_required": "records",
-  "source_note": "Verified 2026-10-26: court-authorized Notice of Pendency (PR Newswire Oct 23, 2026; Delaware Court of Chancery; admin JND Legal Administration, PO Box 91242, Seattle WA, 1-844-924-0856) + claimdepot.com; claim deadline Jan 9, 2027 (online by, or mailed received by); objections due Nov 17, 2026; fairness hearing Dec 10, 2026; non-opt-out class",
-  "title": "Planet Labs dMY IV $11M stockholder settlement",
-  "value_desc": "Pro-rata share of $11M fund after fees (up to $2.2M fees, up to $10K service awards); no payment under $10",
-  "verification": "primary",
-  "verified": "2026-10-26"
- },
- {
-  "beat": "settlements-new",
-  "category": "Class action",
-  "claim_url": "https://www.lanetaxforeclosuresettlement.com",
-  "deadline": "2027-02-22",
-  "effort": "30 min + ownership/lien documents",
-  "eligibility": "Persons/entities who owned an interest in, or held a valid lien on, Lane County OR real property foreclosed for unpaid property taxes with the statutory redemption period expired between October 12, 2017 and December 30, 2025, plus heirs/successors",
-  "id": "lane-tax-foreclosure-2026",
-  "proof_required": "records",
-  "source_note": "Verified 2026-10-26: court-authorized PR Newswire notice Oct 16, 2026 (Lynch v. Multnomah County, Lane County; D. Or., Judge Karin J. Immergut; admin Kroll Settlement Administration, PO Box 225391, New York NY) + claimdepot.com + openclassactions.com; fund $1,348,311.60; 100% of surplus proceeds from most eligible sold properties plus interest; opt-out Nov 24, 2026; final hearing Dec 2, 2026; claim deadline 11:59 p.m. PT Feb 22, 2027",
-  "title": "Lane County $1.35M tax foreclosure settlement",
-  "value_desc": "Surplus proceeds from the foreclosed property (100% of surplus from most eligible sold properties, plus interest); fund $1,348,311.60",
-  "verification": "primary",
-  "verified": "2026-10-26"
- },
- {
-  "beat": "settlements-new",
-  "category": "Insurance",
-  "claim_url": "https://www.hernandezdepreciationsettlement.com",
-  "deadline": "2027-01-29",
-  "effort": "20 min + claim information",
-  "eligibility": "Arizona property owners insured under Allstate Vehicle and Property Insurance Co. or listed affiliates who made a structural damage claim April 25, 2017-October 1, 2026, paid on a Xactimate estimate that deducted nonmaterial depreciation from the actual cash value payment",
-  "id": "allstate-az-depreciation-2026",
-  "proof_required": "records",
-  "source_note": "Verified 2026-10-26: court-approved claim form (Hernandez v. Allstate Vehicle and Property Ins. Co., No. CV-2026 00048, Mohave County Superior Court AZ; admin Angeion; claim form due online or postmarked Jan 29, 2027) + claimdepot.com + settlementwell.com; opt-out/objection Nov 16, 2026; final hearing Dec 15, 2026",
-  "title": "Allstate Arizona property depreciation settlement",
-  "value_desc": "50% of net withheld nonmaterial depreciation plus 10%/yr simple interest (if not fully paid), or $10-$360 one-time payment (if fully recovered through the claim process)",
-  "verification": "primary",
-  "verified": "2026-10-26"
- }
+  {
+   "beat": "settlements-breach",
+   "category": "Class action",
+   "claim_url": "https://www.kiscosettlement.com",
+   "deadline": "2027-01-19",
+   "effort": "10 min",
+   "eligibility": "US residents to whom Kisco Senior Living sent written notification of the June 1-6, 2023 data incident (~26,663 notified)",
+   "id": "kisco-senior-living-2026",
+   "proof_required": "notice-id",
+   "source_note": "Verified 2026-10-26 via official paper Claim Form (kiscosettlement.com/Content/Docs/Claim Form.pdf; CPT Group admin; Gois, et al. v. Kisco Senior Living, LLC, No. 3:24-cv-00751, S.D. Cal.) + openclassactions.com + claimdepot.com; paper form states claimant must have received notice with a unique CPT ID and Section A says without one you do not qualify to file \u2014 no 'if known'/optional language; online portal requires CPT ID + Passcode; deadline Jan 19, 2027 (claims must be received); opt-out Dec 18, 2026; final approval hearing Mar 18, 2027",
+   "title": "Kisco Senior Living $1.8M data breach settlement",
+   "value_desc": "Pro rata residual cash share + $250 California statutory payment (CA residents at time of incident); up to $1,000 ordinary + up to $10,000 extraordinary documented losses incl. attested time; 3yr 3-bureau credit monitoring; $1.8M non-reversionary fund",
+   "verification": "primary",
+   "verified": "2026-10-26"
+  },
+  {
+   "beat": "settlements-new",
+   "category": "Securities",
+   "claim_url": "https://www.safemoonsettlement.com",
+   "deadline": "2026-11-09",
+   "effort": "45 min + wallet records + W-9",
+   "eligibility": "Investors who purchased, or were solicited to purchase, SFM tokens directly from SafeMoon between March 8, 2021 and November 1, 2023; those who filed a bankruptcy proof of claim by July 22, 2024 need not file a new Class Claim form",
+   "id": "safemoon-2026",
+   "proof_required": "records",
+   "source_note": "Verified 2026-10-26: openclassactions.com SafeMoon settlement page (claim forms due Nov 9, 2026; wallet address/account + W-9 + perjury-signed release; administrator verifies wallet) + Stretto court-filed claim documents (Case 2:22-cv-00642-DBB-JCB, proof of claim due Nov 9, 2026, SafeMoonSettlement.com, c/o Stretto, Irvine CA) + Scott+Scott businesswire announcement (prelim approval, $12M trustee settlement, ~$10M net, FIFO loss formula); opt-out/objection passed Oct 1, 2026; separate small Jake Paul and Daniel Keem funds; no payment under $10",
+   "title": "SafeMoon $12M trustee fund settlement",
+   "value_desc": "Pro-rata share of ~$10M net trustee fund by FIFO-calculated loss (of $12M total); separate small Paul/Keem funds; no payment under $10; claimants with overall market gain receive nothing",
+   "verification": "primary",
+   "verified": "2026-10-26"
+  },
+  {
+   "beat": "settlements-new",
+   "category": "Securities",
+   "claim_url": "https://www.dmyivstockholdersettlement.com",
+   "deadline": "2027-01-09",
+   "effort": "45 min + brokerage records",
+   "eligibility": "Record and beneficial holders of dMY Technology Group, Inc. IV (dMY IV) Class A common stock between December 1, 2021 and December 7, 2021 who held prior to the redemption deadline and did not exercise redemption rights",
+   "id": "dmy-iv-2026",
+   "proof_required": "records",
+   "source_note": "Verified 2026-10-26: court-authorized Notice of Pendency (PR Newswire Oct 23, 2026; Delaware Court of Chancery; admin JND Legal Administration, PO Box 91242, Seattle WA, 1-844-924-0856) + claimdepot.com; claim deadline Jan 9, 2027 (online by, or mailed received by); objections due Nov 17, 2026; fairness hearing Dec 10, 2026; non-opt-out class",
+   "title": "Planet Labs dMY IV $11M stockholder settlement",
+   "value_desc": "Pro-rata share of $11M fund after fees (up to $2.2M fees, up to $10K service awards); no payment under $10",
+   "verification": "primary",
+   "verified": "2026-10-26"
+  },
+  {
+   "beat": "settlements-new",
+   "category": "Class action",
+   "claim_url": "https://www.lanetaxforeclosuresettlement.com",
+   "deadline": "2027-02-22",
+   "effort": "30 min + ownership/lien documents",
+   "eligibility": "Persons/entities who owned an interest in, or held a valid lien on, Lane County OR real property foreclosed for unpaid property taxes with the statutory redemption period expired between October 12, 2017 and December 30, 2025, plus heirs/successors",
+   "id": "lane-tax-foreclosure-2026",
+   "proof_required": "records",
+   "source_note": "Verified 2026-10-26: court-authorized PR Newswire notice Oct 16, 2026 (Lynch v. Multnomah County, Lane County; D. Or., Judge Karin J. Immergut; admin Kroll Settlement Administration, PO Box 225391, New York NY) + claimdepot.com + openclassactions.com; fund $1,348,311.60; 100% of surplus proceeds from most eligible sold properties plus interest; opt-out Nov 24, 2026; final hearing Dec 2, 2026; claim deadline 11:59 p.m. PT Feb 22, 2027",
+   "title": "Lane County $1.35M tax foreclosure settlement",
+   "value_desc": "Surplus proceeds from the foreclosed property (100% of surplus from most eligible sold properties, plus interest); fund $1,348,311.60",
+   "verification": "primary",
+   "verified": "2026-10-26"
+  },
+  {
+   "beat": "settlements-new",
+   "category": "Insurance",
+   "claim_url": "https://www.hernandezdepreciationsettlement.com",
+   "deadline": "2027-01-29",
+   "effort": "20 min + claim information",
+   "eligibility": "Arizona property owners insured under Allstate Vehicle and Property Insurance Co. or listed affiliates who made a structural damage claim April 25, 2017-October 1, 2026, paid on a Xactimate estimate that deducted nonmaterial depreciation from the actual cash value payment",
+   "id": "allstate-az-depreciation-2026",
+   "proof_required": "records",
+   "source_note": "Verified 2026-10-26: court-approved claim form (Hernandez v. Allstate Vehicle and Property Ins. Co., No. CV-2026 00048, Mohave County Superior Court AZ; admin Angeion; claim form due online or postmarked Jan 29, 2027) + claimdepot.com + settlementwell.com; opt-out/objection Nov 16, 2026; final hearing Dec 15, 2026",
+   "title": "Allstate Arizona property depreciation settlement",
+   "value_desc": "50% of net withheld nonmaterial depreciation plus 10%/yr simple interest (if not fully paid), or $10-$360 one-time payment (if fully recovered through the claim process)",
+   "verification": "primary",
+   "verified": "2026-10-26"
+  }
  ]
 }
