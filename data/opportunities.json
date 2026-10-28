@@ -1058,21 +1058,6 @@
   {
    "beat": "settlements-breach",
    "category": "Class action",
-   "claim_url": "https://www.benworthdatasettlement.com",
-   "deadline": "2026-12-21",
-   "effort": "10 min",
-   "eligibility": "Living US residents who were sent notice by Benworth Capital Partners LLC that their personal information may have been affected in the data incident on or about May 18, 2025",
-   "id": "benworth-2026",
-   "proof_required": "notice-id",
-   "source_note": "Verified 2026-10-13 via openclassactions.com (updated 2026-10-11; names official site, case Arreola v. Benworth Capital Partners LLC, No. CACE-26-012064, Broward County FL, Simpluris admin)",
-   "title": "Benworth Capital $50 est. data breach settlement",
-   "value_desc": "Est. $50 cash or up to $5,000 documented losses; 1yr credit monitoring automatic",
-   "verification": "secondary",
-   "verified": "2026-10-13"
-  },
-  {
-   "beat": "settlements-breach",
-   "category": "Class action",
    "claim_url": "https://www.vasindasdatasettlement.com",
    "deadline": "2026-11-23",
    "effort": "10 min",
