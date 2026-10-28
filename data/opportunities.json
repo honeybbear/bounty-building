@@ -105,7 +105,8 @@
    "title": "NAR homebuyer $120.3M settlement",
    "value_desc": "Pro rata share of $120.3M fund (est. $40\u2013$100 per claimant)",
    "verified": "2026-10-23",
-   "verification": "primary"
+   "verification": "primary",
+   "status": "expired"
   },
   {
    "beat": "bank-bonuses",
@@ -120,7 +121,8 @@
    "title": "Commerce Bank checking bonus up to $1,000",
    "value_desc": "Up to $1,000 bonus",
    "verified": "2026-10-23",
-   "verification": "primary"
+   "verification": "primary",
+   "status": "expired"
   },
   {
    "beat": "settlements-breach",
