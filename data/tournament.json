@@ -1,12 +1,12 @@
 {
- "run_date": "2026-10-28",
+ "run_date": "2026-10-29",
  "seed": 42,
  "banned_beats": [
   "settlements-no-proof"
  ],
- "opportunity_count": 147,
- "scorable_opportunity_count": 142,
- "active_opportunity_count": 115,
+ "opportunity_count": 153,
+ "scorable_opportunity_count": 148,
+ "active_opportunity_count": 120,
  "rounds": [
   {
    "round": 1,

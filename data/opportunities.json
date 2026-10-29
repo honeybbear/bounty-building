@@ -1464,7 +1464,8 @@
    "title": "On Q Financial $1.25M data breach settlement",
    "value_desc": "Est. $50 alternative cash (no docs; stacks with documented losses) or up to $5,000 documented losses; 1-yr expanded identity theft/fraud monitoring",
    "verification": "secondary",
-   "verified": "2026-10-18"
+   "verified": "2026-10-18",
+   "status": "expired"
   },
   {
    "beat": "settlements-breach",
