@@ -45,7 +45,8 @@
    "title": "Pork price-fixing $117M settlement",
    "value_desc": "Pro rata share of $117M fund",
    "verified": "2026-10-07",
-   "verification": "primary"
+   "verification": "primary",
+   "status": "expired"
   },
   {
    "beat": "settlements-no-proof",
@@ -731,7 +732,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-10",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-10 via openclassactions (links official site finwisedatasettlement.com; Epiq admin; prelim approval Jul 1, 2026) + classaction.org"
+   "source_note": "Verified 2026-10-10 via openclassactions (links official site finwisedatasettlement.com; Epiq admin; prelim approval Jul 1, 2026) + classaction.org",
+   "status": "expired"
   },
   {
    "id": "cuso-2026",
@@ -1098,7 +1100,8 @@
    "proof_required": "records",
    "verified": "2026-10-23",
    "verification": "primary",
-   "source_note": "NYC Dept of Consumer and Worker Protection settlement (April 2025); live DCWP claim page says Oct 29, 2026, older DCWP announcement said Oct 26, 2026 \u2014 file by Oct 26 to be safe; form emailed/mailed to DCWP; verified 2026-10-13 via nyc.gov + openclassactions.com"
+   "source_note": "NYC Dept of Consumer and Worker Protection settlement (April 2025); live DCWP claim page says Oct 29, 2026, older DCWP announcement said Oct 26, 2026 \u2014 file by Oct 26 to be safe; form emailed/mailed to DCWP; verified 2026-10-13 via nyc.gov + openclassactions.com",
+   "status": "expired"
   },
   {
    "id": "extra-space-dcwp-2026",
