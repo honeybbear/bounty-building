@@ -61,7 +61,8 @@
    "title": "Bestway above-ground pools $15M settlement",
    "value_desc": "$40 without receipt, or 10% of price",
    "verified": "2026-10-07",
-   "verification": "primary"
+   "verification": "primary",
+   "status": "expired"
   },
   {
    "beat": "settlements-no-proof",
@@ -825,7 +826,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-23",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-10 via openclassactions.com detail page (linked official site brooksbankruptcyclassaction.com) + topclassactions.com + badcredit.org; Brooks v. Trans Union, E.D. Pa.; final hearing Dec 2, 2026"
+   "source_note": "Verified 2026-10-10 via openclassactions.com detail page (linked official site brooksbankruptcyclassaction.com) + topclassactions.com + badcredit.org; Brooks v. Trans Union, E.D. Pa.; final hearing Dec 2, 2026",
+   "status": "expired"
   },
   {
    "id": "concora-tcpa-2026",
@@ -1665,7 +1667,8 @@
    "title": "LiveHealth Online $2.03M privacy settlement",
    "value_desc": "Est. $51.14-$102.29 pro-rata cash per valid claim (varies with claim volume; no receipts required, notice LoginID + PIN required to file)",
    "verification": "secondary",
-   "verified": "2026-10-23"
+   "verified": "2026-10-23",
+   "status": "expired"
   },
   {
    "beat": "bank-bonuses",
@@ -1938,7 +1941,8 @@
    "title": "Lloyd's of London $3.57M syndicate insurance settlement",
    "value_desc": "Pro-rata share of $3.57M fund based on premiums paid (no per-person estimate; smallest first-round payment $10)",
    "verification": "secondary",
-   "verified": "2026-10-23"
+   "verified": "2026-10-23",
+   "status": "expired"
   },
   {
    "beat": "settlements-new",
@@ -1953,7 +1957,8 @@
    "title": "EmblemHealth GHI Senior Care $53M co-pay settlement",
    "value_desc": "Full or partial reimbursement of $15 medical-visit co-pays charged Jan 2022-Jan 2023 (fund = 100% of disputed co-pays)",
    "verification": "secondary",
-   "verified": "2026-10-23"
+   "verified": "2026-10-23",
+   "status": "expired"
   },
   {
    "beat": "settlements-new",
@@ -1968,7 +1973,8 @@
    "title": "WM Technology (Weedmaps/MAPS) $7.5M securities settlement",
    "value_desc": "Pro-rata share of $7.5M net fund (est. ~$0.072/security before fees)",
    "verification": "secondary",
-   "verified": "2026-10-23"
+   "verified": "2026-10-23",
+   "status": "expired"
   },
   {
    "beat": "settlements-new",
