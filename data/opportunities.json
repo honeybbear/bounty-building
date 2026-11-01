@@ -1394,7 +1394,8 @@
    "title": "Associated Bank checking bonus up to $600",
    "value_desc": "$300/$400/$600 tiers based on total avg daily balance of Associated Bank deposit accounts (days 31-90): $1,000-$4,999.99 / $5,000-$9,999.99 / $10,000+; bonus paid within 120 days of opening",
    "verification": "primary",
-   "verified": "2026-10-16"
+   "verified": "2026-10-16",
+   "status": "expired"
   },
   {
    "beat": "settlements-new",
@@ -2124,7 +2125,8 @@
    "title": "Raisin up to $1,000 savings bonus (promo STACK)",
    "value_desc": "$50-$1,000 welcome bonus by deposit tier ($10K-$200K+), plus $10-$100 Savings+CD boost",
    "verified": "2026-10-25",
-   "verification": "secondary"
+   "verification": "secondary",
+   "status": "expired"
   },
   {
    "beat": "settlements-breach",
