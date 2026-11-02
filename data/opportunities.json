@@ -1684,7 +1684,8 @@
    "title": "CFSB $100 checking bonus",
    "value_desc": "$100 bonus (no direct deposit required; 25 debit purchases)",
    "verification": "primary",
-   "verified": "2026-10-20"
+   "verified": "2026-10-20",
+   "status": "expired"
   },
   {
    "beat": "bank-bonuses",
