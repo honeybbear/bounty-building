@@ -1746,7 +1746,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-21",
    "verification": "primary",
-   "source_note": "Verified 2026-10-21 via official Epiq site uhdatasettlement.com + classaction.org (court-approved) + official claim form PDF; case In re University of Hawai'i Data Breach Litigation, Civil No. 1CCV-26-0000280 (1st Cir. Ct. Haw.); final approval hearing Nov 4, 2026"
+   "source_note": "Verified 2026-10-21 via official Epiq site uhdatasettlement.com + classaction.org (court-approved) + official claim form PDF; case In re University of Hawai'i Data Breach Litigation, Civil No. 1CCV-26-0000280 (1st Cir. Ct. Haw.); final approval hearing Nov 4, 2026",
+   "status": "expired"
   },
   {
    "id": "modernizing-medicine-2026",
@@ -1761,7 +1762,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-21",
    "verification": "primary",
-   "source_note": "Verified 2026-10-21 via official claim portal modernizingmedicinedatasettlement.com (admin Simpluris) + classaction.org + official claim form; case Cavallaro-Kearins v. Modernizing Medicine Inc., No. 9:25-cv-81443-EA (S.D. Fla.); final approval hearing Nov 17, 2026"
+   "source_note": "Verified 2026-10-21 via official claim portal modernizingmedicinedatasettlement.com (admin Simpluris) + classaction.org + official claim form; case Cavallaro-Kearins v. Modernizing Medicine Inc., No. 9:25-cv-81443-EA (S.D. Fla.); final approval hearing Nov 17, 2026",
+   "status": "expired"
   },
   {
    "id": "efs-advisors-2026",
@@ -1898,7 +1900,8 @@
    "title": "90 Washington Street $1.74M rent overcharge settlement",
    "value_desc": "Pro-rata overcharge refund + 9% simple interest from $1,739,811 fund (no per-person estimate; co-tenants split equally)",
    "verification": "primary",
-   "verified": "2026-10-23"
+   "verified": "2026-10-23",
+   "status": "expired"
   },
   {
    "beat": "bank-bonuses",
