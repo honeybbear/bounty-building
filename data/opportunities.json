@@ -687,7 +687,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-09",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-09 via official site uoppixelsettlement.com (claim form login page states Nov 5, 2026 deadline) + openclassactions.com + claimdepot.com; alleged Meta pixel video/data sharing; online claim needs LoginID/PIN from notice, mailed declaration form also accepted."
+   "source_note": "Verified 2026-10-09 via official site uoppixelsettlement.com (claim form login page states Nov 5, 2026 deadline) + openclassactions.com + claimdepot.com; alleged Meta pixel video/data sharing; online claim needs LoginID/PIN from notice, mailed declaration form also accepted.",
+   "status": "expired"
   },
   {
    "id": "playstudios-2026",
@@ -1487,7 +1488,8 @@
    "title": "YES Communities data breach settlement",
    "value_desc": "Fixed $50 alt cash (no docs) or up to $2,500 documented losses + up to $80 lost time; 3-yr IDX monitoring; no shared fund",
    "verification": "secondary",
-   "verified": "2026-10-18"
+   "verified": "2026-10-18",
+   "status": "expired"
   },
   {
    "beat": "settlements-breach",
