@@ -1457,7 +1457,8 @@
    "title": "SitusAMC $5.3M data breach settlement",
    "value_desc": "Est. $75 flat cash (no docs; stacks with documented losses) or up to $5,000 documented losses; $50 CA statutory payment; 1yr credit monitoring automatic",
    "verification": "secondary",
-   "verified": "2026-10-18"
+   "verified": "2026-10-18",
+   "status": "expired"
   },
   {
    "beat": "settlements-breach",
