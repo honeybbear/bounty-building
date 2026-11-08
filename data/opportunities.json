@@ -2043,7 +2043,8 @@
    "title": "Metropolitan Bank $188 checking/savings bonus",
    "value_desc": "$188 cash bonus for $8,888+ new-money deposit held 6 months; in-person branch opening required",
    "verified": "2026-10-24",
-   "verification": "primary"
+   "verification": "primary",
+   "status": "expired"
   },
   {
    "beat": "settlements-breach",
