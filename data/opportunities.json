@@ -454,7 +454,8 @@
    "title": "Generic drug end-payer $533M settlements",
    "value_desc": "Pro rata share of ~$533M funds based on amount spent on listed drugs",
    "verified": "2026-10-07",
-   "verification": "secondary"
+   "verification": "secondary",
+   "status": "expired"
   },
   {
    "beat": "bank-bonuses",
@@ -2165,7 +2166,8 @@
    "title": "SafeMoon $12M trustee fund settlement",
    "value_desc": "Pro-rata share of ~$10M net trustee fund by FIFO-calculated loss (of $12M total); separate small Paul/Keem funds; no payment under $10; claimants with overall market gain receive nothing",
    "verification": "primary",
-   "verified": "2026-10-26"
+   "verified": "2026-10-26",
+   "status": "expired"
   },
   {
    "beat": "settlements-new",
