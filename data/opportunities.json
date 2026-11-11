@@ -501,7 +501,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-08",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-08 via claimdepot.com (linked to official settlement site communicationsdatagroupsettlement.com)"
+   "source_note": "Verified 2026-10-08 via claimdepot.com (linked to official settlement site communicationsdatagroupsettlement.com)",
+   "status": "expired"
   },
   {
    "id": "anixter-2026",
@@ -1306,7 +1307,8 @@
    "title": "U.S. Bank Smartly Checking up to $450 bonus",
    "value_desc": "$250/$350/$450 tiers for 2+ direct deposits totaling $2,000-$4,999.99 / $5,000-$7,999.99 / $8,000+ within 90 days of account opening; fund $25 within 60 days, enroll in mobile/online banking; bonus within 30 days of meeting requirements",
    "verified": "2026-10-15",
-   "verification": "primary"
+   "verification": "primary",
+   "status": "expired"
   },
   {
    "id": "americold-2026",
