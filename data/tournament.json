@@ -1,5 +1,5 @@
 {
- "run_date": "2026-11-14",
+ "run_date": "2026-11-15",
  "seed": 42,
  "banned_beats": [
   "settlements-no-proof"
@@ -2913,7 +2913,7 @@
     "id": "T2-028",
     "name": "Apex Slick Beaver",
     "beat": "bank-bonuses",
-    "score": 1.1793,
+    "score": 1.2044,
     "kind": "elite",
     "rank": 38
    },
@@ -2921,7 +2921,7 @@
     "id": "T2-100",
     "name": "Apex Calm Marmot",
     "beat": "bank-bonuses",
-    "score": 1.1168,
+    "score": 1.1406,
     "kind": "elite",
     "rank": 39
    },
@@ -2929,7 +2929,7 @@
     "id": "T2-016",
     "name": "Apex Dusty Otter",
     "beat": "bank-bonuses",
-    "score": 1.0795,
+    "score": 1.1024,
     "kind": "elite",
     "rank": 40
    },
@@ -2937,7 +2937,7 @@
     "id": "T2-064",
     "name": "Apex Sharp Hawk",
     "beat": "bank-bonuses",
-    "score": 1.0738,
+    "score": 1.0967,
     "kind": "elite",
     "rank": 41
    },
@@ -2945,7 +2945,7 @@
     "id": "T2-004",
     "name": "Apex Lucky Hawk",
     "beat": "bank-bonuses",
-    "score": 1.0712,
+    "score": 1.094,
     "kind": "elite",
     "rank": 42
    },
@@ -2953,7 +2953,7 @@
     "id": "T2-088",
     "name": "Apex Bold Beaver",
     "beat": "bank-bonuses",
-    "score": 1.0458,
+    "score": 1.068,
     "kind": "elite",
     "rank": 43
    },
@@ -2961,7 +2961,7 @@
     "id": "T2-052",
     "name": "Apex Frugal Badger",
     "beat": "bank-bonuses",
-    "score": 0.9996,
+    "score": 1.0209,
     "kind": "elite",
     "rank": 44
    },
@@ -2969,7 +2969,7 @@
     "id": "T2-076",
     "name": "Apex Wily Otter",
     "beat": "bank-bonuses",
-    "score": 0.9806,
+    "score": 1.0015,
     "kind": "elite",
     "rank": 45
    },
@@ -2977,7 +2977,7 @@
     "id": "T2-040",
     "name": "Apex Rusty Marmot",
     "beat": "bank-bonuses",
-    "score": 0.9769,
+    "score": 0.9977,
     "kind": "elite",
     "rank": 46
    },
