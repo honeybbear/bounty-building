@@ -1,47 +1,47 @@
 {
- "run_date": "2026-11-15",
+ "run_date": "2026-11-16",
  "seed": 42,
  "banned_beats": [
   "settlements-no-proof"
  ],
  "opportunity_count": 153,
  "scorable_opportunity_count": 148,
- "active_opportunity_count": 95,
+ "active_opportunity_count": 94,
  "rounds": [
   {
    "round": 1,
    "size": 100,
    "survivors": [
     "H-050",
+    "H-098",
     "H-027",
     "H-003",
     "H-087",
-    "H-098",
-    "H-015",
     "H-074",
+    "H-015",
     "H-086",
-    "H-039",
     "H-062",
+    "H-039",
     "H-051",
     "H-038",
     "H-058",
     "H-100",
-    "H-016",
-    "H-076",
     "H-075",
     "H-036",
     "H-072",
     "H-082",
     "H-063",
-    "H-028",
-    "H-064",
-    "H-052",
+    "H-016",
+    "H-076",
     "H-026",
     "H-002",
     "H-084",
     "H-065",
     "H-017",
+    "H-028",
+    "H-064",
     "H-046",
+    "H-052",
     "H-011",
     "H-032",
     "H-020",
@@ -60,16 +60,16 @@
     "H-096",
     "H-055",
     "H-022",
-    "H-031",
-    "H-088",
     "H-014",
+    "H-031",
     "H-024",
     "H-091",
-    "H-040",
     "H-019",
     "H-095",
     "H-068",
     "H-089",
+    "H-088",
+    "H-040",
     "H-099",
     "H-018",
     "H-060",
@@ -83,11 +83,11 @@
     "H-006",
     "H-035",
     "H-054",
-    "H-004",
     "H-030",
     "H-023",
     "H-069",
     "H-080",
+    "H-004",
     "H-009",
     "H-081",
     "H-092",
@@ -120,35 +120,35 @@
    "size": 50,
    "survivors": [
     "H-050",
+    "H-098",
     "H-027",
     "H-003",
     "H-087",
-    "H-098",
-    "H-015",
     "H-074",
+    "H-015",
     "H-086",
-    "H-039",
     "H-062",
+    "H-039",
     "H-051",
     "H-038",
     "H-058",
     "H-100",
-    "H-016",
-    "H-076",
     "H-075",
     "H-036",
     "H-072",
     "H-082",
     "H-063",
-    "H-028",
-    "H-064",
-    "H-052",
+    "H-016",
+    "H-076",
     "H-026",
     "H-002",
     "H-084",
     "H-065",
     "H-017",
+    "H-028",
+    "H-064",
     "H-046",
+    "H-052",
     "H-011",
     "H-032",
     "H-020",
@@ -167,18 +167,18 @@
     "H-096",
     "H-055",
     "H-022",
-    "H-031",
-    "H-088"
+    "H-014",
+    "H-031"
    ],
    "eliminated": [
-    "H-014",
     "H-024",
     "H-091",
-    "H-040",
     "H-019",
     "H-095",
     "H-068",
     "H-089",
+    "H-088",
+    "H-040",
     "H-099",
     "H-018",
     "H-060",
@@ -192,11 +192,11 @@
     "H-006",
     "H-035",
     "H-054",
-    "H-004",
     "H-030",
     "H-023",
     "H-069",
     "H-080",
+    "H-004",
     "H-009",
     "H-081",
     "H-092",
@@ -228,37 +228,37 @@
    "size": 25,
    "survivors": [
     "H-050",
+    "H-098",
     "H-027",
     "H-003",
     "H-087",
-    "H-098",
-    "H-015",
     "H-074",
+    "H-015",
     "H-086",
-    "H-039",
     "H-062",
+    "H-039",
     "H-051",
     "H-038",
     "H-058",
     "H-100",
-    "H-016",
-    "H-076",
     "H-075",
     "H-036",
     "H-072",
     "H-082",
     "H-063",
-    "H-028",
-    "H-064",
-    "H-052",
-    "H-026"
-   ],
-   "eliminated": [
+    "H-016",
+    "H-076",
+    "H-026",
     "H-002",
     "H-084",
-    "H-065",
+    "H-065"
+   ],
+   "eliminated": [
     "H-017",
+    "H-028",
+    "H-064",
     "H-046",
+    "H-052",
     "H-011",
     "H-032",
     "H-020",
@@ -277,8 +277,8 @@
     "H-096",
     "H-055",
     "H-022",
-    "H-031",
-    "H-088"
+    "H-014",
+    "H-031"
    ]
   },
   {
@@ -286,32 +286,32 @@
    "size": 12,
    "survivors": [
     "H-050",
+    "H-098",
     "H-027",
     "H-003",
     "H-087",
-    "H-098",
-    "H-015",
     "H-074",
+    "H-015",
     "H-086",
-    "H-039",
     "H-062",
+    "H-039",
     "H-051",
     "H-038"
    ],
    "eliminated": [
     "H-058",
     "H-100",
-    "H-016",
-    "H-076",
     "H-075",
     "H-036",
     "H-072",
     "H-082",
     "H-063",
-    "H-028",
-    "H-064",
-    "H-052",
-    "H-026"
+    "H-016",
+    "H-076",
+    "H-026",
+    "H-002",
+    "H-084",
+    "H-065"
    ]
   },
   {
@@ -319,17 +319,17 @@
    "size": 6,
    "survivors": [
     "H-050",
+    "H-098",
     "H-027",
     "H-003",
     "H-087",
-    "H-098",
-    "H-015"
+    "H-074"
    ],
    "eliminated": [
-    "H-074",
+    "H-015",
     "H-086",
-    "H-039",
     "H-062",
+    "H-039",
     "H-051",
     "H-038"
    ]
@@ -339,13 +339,13 @@
    "size": 3,
    "survivors": [
     "H-050",
-    "H-027",
-    "H-003"
+    "H-098",
+    "H-027"
    ],
    "eliminated": [
+    "H-003",
     "H-087",
-    "H-098",
-    "H-015"
+    "H-074"
    ]
   }
  ],
@@ -354,7 +354,14 @@
    "id": "H-050",
    "name": "Peppy Marmot",
    "beat": "settlements-breach",
-   "score": 3.9755,
+   "score": 4.3068,
+   "kind": "hunter"
+  },
+  {
+   "id": "H-098",
+   "name": "Calm Beaver",
+   "beat": "settlements-breach",
+   "score": 3.2431,
    "kind": "hunter"
   },
   {
@@ -362,13 +369,6 @@
    "name": "Slick Raccoon",
    "beat": "settlements-new",
    "score": 3.1434,
-   "kind": "hunter"
-  },
-  {
-   "id": "H-003",
-   "name": "Lucky Mole",
-   "beat": "settlements-new",
-   "score": 3.0142,
    "kind": "hunter"
   }
  ],
@@ -377,9 +377,17 @@
    "id": "H-050",
    "name": "Peppy Marmot",
    "beat": "settlements-breach",
-   "score": 3.9755,
+   "score": 4.3068,
    "kind": "hunter",
    "rank": 1
+  },
+  {
+   "id": "H-098",
+   "name": "Calm Beaver",
+   "beat": "settlements-breach",
+   "score": 3.2431,
+   "kind": "hunter",
+   "rank": 2
   },
   {
    "id": "H-027",
@@ -387,7 +395,7 @@
    "beat": "settlements-new",
    "score": 3.1434,
    "kind": "hunter",
-   "rank": 2
+   "rank": 3
   },
   {
    "id": "H-003",
@@ -395,7 +403,7 @@
    "beat": "settlements-new",
    "score": 3.0142,
    "kind": "hunter",
-   "rank": 3
+   "rank": 4
   },
   {
    "id": "H-087",
@@ -403,15 +411,15 @@
    "beat": "settlements-new",
    "score": 3.0119,
    "kind": "hunter",
-   "rank": 4
+   "rank": 5
   },
   {
-   "id": "H-098",
-   "name": "Calm Beaver",
+   "id": "H-074",
+   "name": "Wily Hawk",
    "beat": "settlements-breach",
-   "score": 2.9936,
+   "score": 2.9136,
    "kind": "hunter",
-   "rank": 5
+   "rank": 6
   },
   {
    "id": "H-015",
@@ -419,37 +427,29 @@
    "beat": "settlements-new",
    "score": 2.846,
    "kind": "hunter",
-   "rank": 6
-  },
-  {
-   "id": "H-074",
-   "name": "Wily Hawk",
-   "beat": "settlements-breach",
-   "score": 2.6895,
-   "kind": "hunter",
    "rank": 7
   },
   {
    "id": "H-086",
    "name": "Bold Otter",
    "beat": "settlements-breach",
-   "score": 2.5933,
+   "score": 2.8095,
    "kind": "hunter",
    "rank": 8
+  },
+  {
+   "id": "H-062",
+   "name": "Sharp Badger",
+   "beat": "settlements-breach",
+   "score": 2.413,
+   "kind": "hunter",
+   "rank": 9
   },
   {
    "id": "H-039",
    "name": "Rusty Coyote",
    "beat": "settlements-new",
    "score": 2.2358,
-   "kind": "hunter",
-   "rank": 9
-  },
-  {
-   "id": "H-062",
-   "name": "Sharp Badger",
-   "beat": "settlements-breach",
-   "score": 2.2274,
    "kind": "hunter",
    "rank": 10
   },
@@ -465,7 +465,7 @@
    "id": "H-038",
    "name": "Rusty Beaver",
    "beat": "settlements-breach",
-   "score": 1.5582,
+   "score": 1.688,
    "kind": "hunter",
    "rank": 12
   },
@@ -481,25 +481,9 @@
    "id": "H-100",
    "name": "Calm Marmot",
    "beat": "bank-bonuses",
-   "score": 1.2963,
+   "score": 1.0501,
    "kind": "hunter",
    "rank": 14
-  },
-  {
-   "id": "H-016",
-   "name": "Dusty Otter",
-   "beat": "bank-bonuses",
-   "score": 1.0316,
-   "kind": "hunter",
-   "rank": 15
-  },
-  {
-   "id": "H-076",
-   "name": "Wily Otter",
-   "beat": "bank-bonuses",
-   "score": 1.006,
-   "kind": "hunter",
-   "rank": 16
   },
   {
    "id": "H-075",
@@ -507,7 +491,7 @@
    "beat": "settlements-new",
    "score": 0.9985,
    "kind": "hunter",
-   "rank": 17
+   "rank": 15
   },
   {
    "id": "H-036",
@@ -515,7 +499,7 @@
    "beat": "state-programs",
    "score": 0.9484,
    "kind": "hunter",
-   "rank": 18
+   "rank": 16
   },
   {
    "id": "H-072",
@@ -523,7 +507,7 @@
    "beat": "state-programs",
    "score": 0.9113,
    "kind": "hunter",
-   "rank": 19
+   "rank": 17
   },
   {
    "id": "H-082",
@@ -531,7 +515,7 @@
    "beat": "warranty-claims",
    "score": 0.9094,
    "kind": "hunter",
-   "rank": 20
+   "rank": 18
   },
   {
    "id": "H-063",
@@ -539,47 +523,39 @@
    "beat": "settlements-new",
    "score": 0.8853,
    "kind": "hunter",
+   "rank": 19
+  },
+  {
+   "id": "H-016",
+   "name": "Dusty Otter",
+   "beat": "bank-bonuses",
+   "score": 0.8357,
+   "kind": "hunter",
+   "rank": 20
+  },
+  {
+   "id": "H-076",
+   "name": "Wily Otter",
+   "beat": "bank-bonuses",
+   "score": 0.8149,
+   "kind": "hunter",
    "rank": 21
-  },
-  {
-   "id": "H-028",
-   "name": "Slick Beaver",
-   "beat": "bank-bonuses",
-   "score": 0.7913,
-   "kind": "hunter",
-   "rank": 22
-  },
-  {
-   "id": "H-064",
-   "name": "Sharp Hawk",
-   "beat": "bank-bonuses",
-   "score": 0.7887,
-   "kind": "hunter",
-   "rank": 23
-  },
-  {
-   "id": "H-052",
-   "name": "Frugal Badger",
-   "beat": "bank-bonuses",
-   "score": 0.7108,
-   "kind": "hunter",
-   "rank": 24
   },
   {
    "id": "H-026",
    "name": "Slick Otter",
    "beat": "settlements-breach",
-   "score": 0.697,
+   "score": 0.7551,
    "kind": "hunter",
-   "rank": 25
+   "rank": 22
   },
   {
    "id": "H-002",
    "name": "Lucky Badger",
    "beat": "settlements-breach",
-   "score": 0.6944,
+   "score": 0.7523,
    "kind": "hunter",
-   "rank": 26
+   "rank": 23
   },
   {
    "id": "H-084",
@@ -587,7 +563,7 @@
    "beat": "state-programs",
    "score": 0.686,
    "kind": "hunter",
-   "rank": 27
+   "rank": 24
   },
   {
    "id": "H-065",
@@ -595,7 +571,7 @@
    "beat": "unclaimed-property",
    "score": 0.6808,
    "kind": "hunter",
-   "rank": 28
+   "rank": 25
   },
   {
    "id": "H-017",
@@ -603,13 +579,37 @@
    "beat": "unclaimed-property",
    "score": 0.6627,
    "kind": "hunter",
-   "rank": 29
+   "rank": 26
+  },
+  {
+   "id": "H-028",
+   "name": "Slick Beaver",
+   "beat": "bank-bonuses",
+   "score": 0.641,
+   "kind": "hunter",
+   "rank": 27
+  },
+  {
+   "id": "H-064",
+   "name": "Sharp Hawk",
+   "beat": "bank-bonuses",
+   "score": 0.6389,
+   "kind": "hunter",
+   "rank": 28
   },
   {
    "id": "H-046",
    "name": "Peppy Otter",
    "beat": "warranty-claims",
    "score": 0.5763,
+   "kind": "hunter",
+   "rank": 29
+  },
+  {
+   "id": "H-052",
+   "name": "Frugal Badger",
+   "beat": "bank-bonuses",
+   "score": 0.5758,
    "kind": "hunter",
    "rank": 30
   },
@@ -758,28 +758,20 @@
    "rank": 48
   },
   {
+   "id": "H-014",
+   "name": "Dusty Hawk",
+   "beat": "settlements-breach",
+   "score": 0.2859,
+   "kind": "hunter",
+   "rank": 49
+  },
+  {
    "id": "H-031",
    "name": "Rusty Ferret",
    "beat": "tax-credits",
    "score": 0.2761,
    "kind": "hunter",
-   "rank": 49
-  },
-  {
-   "id": "H-088",
-   "name": "Bold Beaver",
-   "beat": "bank-bonuses",
-   "score": 0.2685,
-   "kind": "hunter",
    "rank": 50
-  },
-  {
-   "id": "H-014",
-   "name": "Dusty Hawk",
-   "beat": "settlements-breach",
-   "score": 0.2639,
-   "kind": "hunter",
-   "rank": 51
   },
   {
    "id": "H-024",
@@ -787,7 +779,7 @@
    "beat": "state-programs",
    "score": 0.2573,
    "kind": "hunter",
-   "rank": 52
+   "rank": 51
   },
   {
    "id": "H-091",
@@ -795,15 +787,7 @@
    "beat": "tax-credits",
    "score": 0.2552,
    "kind": "hunter",
-   "rank": 53
-  },
-  {
-   "id": "H-040",
-   "name": "Rusty Marmot",
-   "beat": "bank-bonuses",
-   "score": 0.2532,
-   "kind": "hunter",
-   "rank": 54
+   "rank": 52
   },
   {
    "id": "H-019",
@@ -811,7 +795,7 @@
    "beat": "tax-credits",
    "score": 0.2471,
    "kind": "hunter",
-   "rank": 55
+   "rank": 53
   },
   {
    "id": "H-095",
@@ -819,7 +803,7 @@
    "beat": "employer-benefits",
    "score": 0.2437,
    "kind": "hunter",
-   "rank": 56
+   "rank": 54
   },
   {
    "id": "H-068",
@@ -827,13 +811,29 @@
    "beat": "grocery-cashback-apps",
    "score": 0.2192,
    "kind": "hunter",
-   "rank": 57
+   "rank": 55
   },
   {
    "id": "H-089",
    "name": "Bold Coyote",
    "beat": "unclaimed-property",
    "score": 0.2179,
+   "kind": "hunter",
+   "rank": 56
+  },
+  {
+   "id": "H-088",
+   "name": "Bold Beaver",
+   "beat": "bank-bonuses",
+   "score": 0.2175,
+   "kind": "hunter",
+   "rank": 57
+  },
+  {
+   "id": "H-040",
+   "name": "Rusty Marmot",
+   "beat": "bank-bonuses",
+   "score": 0.2051,
    "kind": "hunter",
    "rank": 58
   },
@@ -942,20 +942,12 @@
    "rank": 71
   },
   {
-   "id": "H-004",
-   "name": "Lucky Hawk",
-   "beat": "bank-bonuses",
-   "score": 0.1282,
-   "kind": "hunter",
-   "rank": 72
-  },
-  {
    "id": "H-030",
    "name": "Slick Marmot",
    "beat": "utility-rebates",
    "score": 0.1209,
    "kind": "hunter",
-   "rank": 73
+   "rank": 72
   },
   {
    "id": "H-023",
@@ -963,7 +955,7 @@
    "beat": "employer-benefits",
    "score": 0.1162,
    "kind": "hunter",
-   "rank": 74
+   "rank": 73
   },
   {
    "id": "H-069",
@@ -971,13 +963,21 @@
    "beat": "telecom-refunds",
    "score": 0.1128,
    "kind": "hunter",
-   "rank": 75
+   "rank": 74
   },
   {
    "id": "H-080",
    "name": "Wily Marmot",
    "beat": "grocery-cashback-apps",
    "score": 0.1106,
+   "kind": "hunter",
+   "rank": 75
+  },
+  {
+   "id": "H-004",
+   "name": "Lucky Hawk",
+   "beat": "bank-bonuses",
+   "score": 0.1039,
    "kind": "hunter",
    "rank": 76
   },
@@ -1182,35 +1182,35 @@
     "size": 100,
     "survivors": [
      "H-050",
+     "H-098",
      "H-027",
      "H-003",
      "H-087",
-     "H-098",
-     "H-015",
      "H-074",
+     "H-015",
      "H-086",
-     "H-039",
      "H-062",
+     "H-039",
      "H-051",
      "H-038",
      "H-058",
      "H-100",
-     "H-016",
-     "H-076",
      "H-075",
      "H-036",
      "H-072",
      "H-082",
      "H-063",
-     "H-028",
-     "H-064",
-     "H-052",
+     "H-016",
+     "H-076",
      "H-026",
      "H-002",
      "H-084",
      "H-065",
      "H-017",
+     "H-028",
+     "H-064",
      "H-046",
+     "H-052",
      "H-011",
      "H-032",
      "H-020",
@@ -1229,16 +1229,16 @@
      "H-096",
      "H-055",
      "H-022",
-     "H-031",
-     "H-088",
      "H-014",
+     "H-031",
      "H-024",
      "H-091",
-     "H-040",
      "H-019",
      "H-095",
      "H-068",
      "H-089",
+     "H-088",
+     "H-040",
      "H-099",
      "H-018",
      "H-060",
@@ -1252,11 +1252,11 @@
      "H-006",
      "H-035",
      "H-054",
-     "H-004",
      "H-030",
      "H-023",
      "H-069",
      "H-080",
+     "H-004",
      "H-009",
      "H-081",
      "H-092",
@@ -1289,35 +1289,35 @@
     "size": 50,
     "survivors": [
      "H-050",
+     "H-098",
      "H-027",
      "H-003",
      "H-087",
-     "H-098",
-     "H-015",
      "H-074",
+     "H-015",
      "H-086",
-     "H-039",
      "H-062",
+     "H-039",
      "H-051",
      "H-038",
      "H-058",
      "H-100",
-     "H-016",
-     "H-076",
      "H-075",
      "H-036",
      "H-072",
      "H-082",
      "H-063",
-     "H-028",
-     "H-064",
-     "H-052",
+     "H-016",
+     "H-076",
      "H-026",
      "H-002",
      "H-084",
      "H-065",
      "H-017",
+     "H-028",
+     "H-064",
      "H-046",
+     "H-052",
      "H-011",
      "H-032",
      "H-020",
@@ -1336,18 +1336,18 @@
      "H-096",
      "H-055",
      "H-022",
-     "H-031",
-     "H-088"
+     "H-014",
+     "H-031"
     ],
     "eliminated": [
-     "H-014",
      "H-024",
      "H-091",
-     "H-040",
      "H-019",
      "H-095",
      "H-068",
      "H-089",
+     "H-088",
+     "H-040",
      "H-099",
      "H-018",
      "H-060",
@@ -1361,11 +1361,11 @@
      "H-006",
      "H-035",
      "H-054",
-     "H-004",
      "H-030",
      "H-023",
      "H-069",
      "H-080",
+     "H-004",
      "H-009",
      "H-081",
      "H-092",
@@ -1397,37 +1397,37 @@
     "size": 25,
     "survivors": [
      "H-050",
+     "H-098",
      "H-027",
      "H-003",
      "H-087",
-     "H-098",
-     "H-015",
      "H-074",
+     "H-015",
      "H-086",
-     "H-039",
      "H-062",
+     "H-039",
      "H-051",
      "H-038",
      "H-058",
      "H-100",
-     "H-016",
-     "H-076",
      "H-075",
      "H-036",
      "H-072",
      "H-082",
      "H-063",
-     "H-028",
-     "H-064",
-     "H-052",
-     "H-026"
-    ],
-    "eliminated": [
+     "H-016",
+     "H-076",
+     "H-026",
      "H-002",
      "H-084",
-     "H-065",
+     "H-065"
+    ],
+    "eliminated": [
      "H-017",
+     "H-028",
+     "H-064",
      "H-046",
+     "H-052",
      "H-011",
      "H-032",
      "H-020",
@@ -1446,8 +1446,8 @@
      "H-096",
      "H-055",
      "H-022",
-     "H-031",
-     "H-088"
+     "H-014",
+     "H-031"
     ]
    },
    {
@@ -1455,32 +1455,32 @@
     "size": 12,
     "survivors": [
      "H-050",
+     "H-098",
      "H-027",
      "H-003",
      "H-087",
-     "H-098",
-     "H-015",
      "H-074",
+     "H-015",
      "H-086",
-     "H-039",
      "H-062",
+     "H-039",
      "H-051",
      "H-038"
     ],
     "eliminated": [
      "H-058",
      "H-100",
-     "H-016",
-     "H-076",
      "H-075",
      "H-036",
      "H-072",
      "H-082",
      "H-063",
-     "H-028",
-     "H-064",
-     "H-052",
-     "H-026"
+     "H-016",
+     "H-076",
+     "H-026",
+     "H-002",
+     "H-084",
+     "H-065"
     ]
    },
    {
@@ -1488,17 +1488,17 @@
     "size": 6,
     "survivors": [
      "H-050",
+     "H-098",
      "H-027",
      "H-003",
      "H-087",
-     "H-098",
-     "H-015"
+     "H-074"
     ],
     "eliminated": [
-     "H-074",
+     "H-015",
      "H-086",
-     "H-039",
      "H-062",
+     "H-039",
      "H-051",
      "H-038"
     ]
@@ -1508,13 +1508,13 @@
     "size": 3,
     "survivors": [
      "H-050",
-     "H-027",
-     "H-003"
+     "H-098",
+     "H-027"
     ],
     "eliminated": [
+     "H-003",
      "H-087",
-     "H-098",
-     "H-015"
+     "H-074"
     ]
    }
   ],
@@ -1523,7 +1523,14 @@
     "id": "H-050",
     "name": "Peppy Marmot",
     "beat": "settlements-breach",
-    "score": 3.9755,
+    "score": 4.3068,
+    "kind": "hunter"
+   },
+   {
+    "id": "H-098",
+    "name": "Calm Beaver",
+    "beat": "settlements-breach",
+    "score": 3.2431,
     "kind": "hunter"
    },
    {
@@ -1531,13 +1538,6 @@
     "name": "Slick Raccoon",
     "beat": "settlements-new",
     "score": 3.1434,
-    "kind": "hunter"
-   },
-   {
-    "id": "H-003",
-    "name": "Lucky Mole",
-    "beat": "settlements-new",
-    "score": 3.0142,
     "kind": "hunter"
    }
   ],
@@ -1546,9 +1546,17 @@
     "id": "H-050",
     "name": "Peppy Marmot",
     "beat": "settlements-breach",
-    "score": 3.9755,
+    "score": 4.3068,
     "kind": "hunter",
     "rank": 1
+   },
+   {
+    "id": "H-098",
+    "name": "Calm Beaver",
+    "beat": "settlements-breach",
+    "score": 3.2431,
+    "kind": "hunter",
+    "rank": 2
    },
    {
     "id": "H-027",
@@ -1556,7 +1564,7 @@
     "beat": "settlements-new",
     "score": 3.1434,
     "kind": "hunter",
-    "rank": 2
+    "rank": 3
    },
    {
     "id": "H-003",
@@ -1564,7 +1572,7 @@
     "beat": "settlements-new",
     "score": 3.0142,
     "kind": "hunter",
-    "rank": 3
+    "rank": 4
    },
    {
     "id": "H-087",
@@ -1572,15 +1580,15 @@
     "beat": "settlements-new",
     "score": 3.0119,
     "kind": "hunter",
-    "rank": 4
+    "rank": 5
    },
    {
-    "id": "H-098",
-    "name": "Calm Beaver",
+    "id": "H-074",
+    "name": "Wily Hawk",
     "beat": "settlements-breach",
-    "score": 2.9936,
+    "score": 2.9136,
     "kind": "hunter",
-    "rank": 5
+    "rank": 6
    },
    {
     "id": "H-015",
@@ -1588,37 +1596,29 @@
     "beat": "settlements-new",
     "score": 2.846,
     "kind": "hunter",
-    "rank": 6
-   },
-   {
-    "id": "H-074",
-    "name": "Wily Hawk",
-    "beat": "settlements-breach",
-    "score": 2.6895,
-    "kind": "hunter",
     "rank": 7
    },
    {
     "id": "H-086",
     "name": "Bold Otter",
     "beat": "settlements-breach",
-    "score": 2.5933,
+    "score": 2.8095,
     "kind": "hunter",
     "rank": 8
+   },
+   {
+    "id": "H-062",
+    "name": "Sharp Badger",
+    "beat": "settlements-breach",
+    "score": 2.413,
+    "kind": "hunter",
+    "rank": 9
    },
    {
     "id": "H-039",
     "name": "Rusty Coyote",
     "beat": "settlements-new",
     "score": 2.2358,
-    "kind": "hunter",
-    "rank": 9
-   },
-   {
-    "id": "H-062",
-    "name": "Sharp Badger",
-    "beat": "settlements-breach",
-    "score": 2.2274,
     "kind": "hunter",
     "rank": 10
    },
@@ -1634,7 +1634,7 @@
     "id": "H-038",
     "name": "Rusty Beaver",
     "beat": "settlements-breach",
-    "score": 1.5582,
+    "score": 1.688,
     "kind": "hunter",
     "rank": 12
    },
@@ -1650,25 +1650,9 @@
     "id": "H-100",
     "name": "Calm Marmot",
     "beat": "bank-bonuses",
-    "score": 1.2963,
+    "score": 1.0501,
     "kind": "hunter",
     "rank": 14
-   },
-   {
-    "id": "H-016",
-    "name": "Dusty Otter",
-    "beat": "bank-bonuses",
-    "score": 1.0316,
-    "kind": "hunter",
-    "rank": 15
-   },
-   {
-    "id": "H-076",
-    "name": "Wily Otter",
-    "beat": "bank-bonuses",
-    "score": 1.006,
-    "kind": "hunter",
-    "rank": 16
    },
    {
     "id": "H-075",
@@ -1676,7 +1660,7 @@
     "beat": "settlements-new",
     "score": 0.9985,
     "kind": "hunter",
-    "rank": 17
+    "rank": 15
    },
    {
     "id": "H-036",
@@ -1684,7 +1668,7 @@
     "beat": "state-programs",
     "score": 0.9484,
     "kind": "hunter",
-    "rank": 18
+    "rank": 16
    },
    {
     "id": "H-072",
@@ -1692,7 +1676,7 @@
     "beat": "state-programs",
     "score": 0.9113,
     "kind": "hunter",
-    "rank": 19
+    "rank": 17
    },
    {
     "id": "H-082",
@@ -1700,7 +1684,7 @@
     "beat": "warranty-claims",
     "score": 0.9094,
     "kind": "hunter",
-    "rank": 20
+    "rank": 18
    },
    {
     "id": "H-063",
@@ -1708,47 +1692,39 @@
     "beat": "settlements-new",
     "score": 0.8853,
     "kind": "hunter",
+    "rank": 19
+   },
+   {
+    "id": "H-016",
+    "name": "Dusty Otter",
+    "beat": "bank-bonuses",
+    "score": 0.8357,
+    "kind": "hunter",
+    "rank": 20
+   },
+   {
+    "id": "H-076",
+    "name": "Wily Otter",
+    "beat": "bank-bonuses",
+    "score": 0.8149,
+    "kind": "hunter",
     "rank": 21
-   },
-   {
-    "id": "H-028",
-    "name": "Slick Beaver",
-    "beat": "bank-bonuses",
-    "score": 0.7913,
-    "kind": "hunter",
-    "rank": 22
-   },
-   {
-    "id": "H-064",
-    "name": "Sharp Hawk",
-    "beat": "bank-bonuses",
-    "score": 0.7887,
-    "kind": "hunter",
-    "rank": 23
-   },
-   {
-    "id": "H-052",
-    "name": "Frugal Badger",
-    "beat": "bank-bonuses",
-    "score": 0.7108,
-    "kind": "hunter",
-    "rank": 24
    },
    {
     "id": "H-026",
     "name": "Slick Otter",
     "beat": "settlements-breach",
-    "score": 0.697,
+    "score": 0.7551,
     "kind": "hunter",
-    "rank": 25
+    "rank": 22
    },
    {
     "id": "H-002",
     "name": "Lucky Badger",
     "beat": "settlements-breach",
-    "score": 0.6944,
+    "score": 0.7523,
     "kind": "hunter",
-    "rank": 26
+    "rank": 23
    },
    {
     "id": "H-084",
@@ -1756,7 +1732,7 @@
     "beat": "state-programs",
     "score": 0.686,
     "kind": "hunter",
-    "rank": 27
+    "rank": 24
    },
    {
     "id": "H-065",
@@ -1764,7 +1740,7 @@
     "beat": "unclaimed-property",
     "score": 0.6808,
     "kind": "hunter",
-    "rank": 28
+    "rank": 25
    },
    {
     "id": "H-017",
@@ -1772,13 +1748,37 @@
     "beat": "unclaimed-property",
     "score": 0.6627,
     "kind": "hunter",
-    "rank": 29
+    "rank": 26
+   },
+   {
+    "id": "H-028",
+    "name": "Slick Beaver",
+    "beat": "bank-bonuses",
+    "score": 0.641,
+    "kind": "hunter",
+    "rank": 27
+   },
+   {
+    "id": "H-064",
+    "name": "Sharp Hawk",
+    "beat": "bank-bonuses",
+    "score": 0.6389,
+    "kind": "hunter",
+    "rank": 28
    },
    {
     "id": "H-046",
     "name": "Peppy Otter",
     "beat": "warranty-claims",
     "score": 0.5763,
+    "kind": "hunter",
+    "rank": 29
+   },
+   {
+    "id": "H-052",
+    "name": "Frugal Badger",
+    "beat": "bank-bonuses",
+    "score": 0.5758,
     "kind": "hunter",
     "rank": 30
    },
@@ -1927,28 +1927,20 @@
     "rank": 48
    },
    {
+    "id": "H-014",
+    "name": "Dusty Hawk",
+    "beat": "settlements-breach",
+    "score": 0.2859,
+    "kind": "hunter",
+    "rank": 49
+   },
+   {
     "id": "H-031",
     "name": "Rusty Ferret",
     "beat": "tax-credits",
     "score": 0.2761,
     "kind": "hunter",
-    "rank": 49
-   },
-   {
-    "id": "H-088",
-    "name": "Bold Beaver",
-    "beat": "bank-bonuses",
-    "score": 0.2685,
-    "kind": "hunter",
     "rank": 50
-   },
-   {
-    "id": "H-014",
-    "name": "Dusty Hawk",
-    "beat": "settlements-breach",
-    "score": 0.2639,
-    "kind": "hunter",
-    "rank": 51
    },
    {
     "id": "H-024",
@@ -1956,7 +1948,7 @@
     "beat": "state-programs",
     "score": 0.2573,
     "kind": "hunter",
-    "rank": 52
+    "rank": 51
    },
    {
     "id": "H-091",
@@ -1964,15 +1956,7 @@
     "beat": "tax-credits",
     "score": 0.2552,
     "kind": "hunter",
-    "rank": 53
-   },
-   {
-    "id": "H-040",
-    "name": "Rusty Marmot",
-    "beat": "bank-bonuses",
-    "score": 0.2532,
-    "kind": "hunter",
-    "rank": 54
+    "rank": 52
    },
    {
     "id": "H-019",
@@ -1980,7 +1964,7 @@
     "beat": "tax-credits",
     "score": 0.2471,
     "kind": "hunter",
-    "rank": 55
+    "rank": 53
    },
    {
     "id": "H-095",
@@ -1988,7 +1972,7 @@
     "beat": "employer-benefits",
     "score": 0.2437,
     "kind": "hunter",
-    "rank": 56
+    "rank": 54
    },
    {
     "id": "H-068",
@@ -1996,13 +1980,29 @@
     "beat": "grocery-cashback-apps",
     "score": 0.2192,
     "kind": "hunter",
-    "rank": 57
+    "rank": 55
    },
    {
     "id": "H-089",
     "name": "Bold Coyote",
     "beat": "unclaimed-property",
     "score": 0.2179,
+    "kind": "hunter",
+    "rank": 56
+   },
+   {
+    "id": "H-088",
+    "name": "Bold Beaver",
+    "beat": "bank-bonuses",
+    "score": 0.2175,
+    "kind": "hunter",
+    "rank": 57
+   },
+   {
+    "id": "H-040",
+    "name": "Rusty Marmot",
+    "beat": "bank-bonuses",
+    "score": 0.2051,
     "kind": "hunter",
     "rank": 58
    },
@@ -2111,20 +2111,12 @@
     "rank": 71
    },
    {
-    "id": "H-004",
-    "name": "Lucky Hawk",
-    "beat": "bank-bonuses",
-    "score": 0.1282,
-    "kind": "hunter",
-    "rank": 72
-   },
-   {
     "id": "H-030",
     "name": "Slick Marmot",
     "beat": "utility-rebates",
     "score": 0.1209,
     "kind": "hunter",
-    "rank": 73
+    "rank": 72
    },
    {
     "id": "H-023",
@@ -2132,7 +2124,7 @@
     "beat": "employer-benefits",
     "score": 0.1162,
     "kind": "hunter",
-    "rank": 74
+    "rank": 73
    },
    {
     "id": "H-069",
@@ -2140,13 +2132,21 @@
     "beat": "telecom-refunds",
     "score": 0.1128,
     "kind": "hunter",
-    "rank": 75
+    "rank": 74
    },
    {
     "id": "H-080",
     "name": "Wily Marmot",
     "beat": "grocery-cashback-apps",
     "score": 0.1106,
+    "kind": "hunter",
+    "rank": 75
+   },
+   {
+    "id": "H-004",
+    "name": "Lucky Hawk",
+    "beat": "bank-bonuses",
+    "score": 0.1039,
     "kind": "hunter",
     "rank": 76
    },
@@ -2352,26 +2352,26 @@
     "size": 103,
     "survivors": [
      "T2-051",
+     "T2-074",
      "T2-087",
      "T2-015",
      "T2-063",
+     "T2-002",
      "T2-027",
      "T2-075",
      "T2-039",
-     "T2-099",
-     "T2-003",
-     "T2-074",
-     "T2-002",
      "T2-038",
+     "T2-099",
      "T2-050",
+     "T2-003",
      "T2-098",
      "H-050",
      "T2-014",
      "T2-026",
      "T2-086",
      "T2-062",
+     "H-098",
      "H-027",
-     "H-003",
      "T2-024",
      "T2-096",
      "T2-036",
@@ -2389,23 +2389,23 @@
      "T2-012",
      "T2-094",
      "T2-028",
+     "T2-059",
+     "T2-011",
      "T2-100",
+     "T2-095",
+     "T2-035",
      "T2-016",
+     "T2-023",
      "T2-064",
      "T2-004",
      "T2-088",
-     "T2-052",
-     "T2-076",
-     "T2-040",
-     "T2-059",
-     "T2-011",
-     "T2-095",
-     "T2-035",
-     "T2-023",
      "T2-080",
      "T2-047",
+     "T2-052",
      "T2-083",
      "T2-044",
+     "T2-076",
+     "T2-040",
      "T2-008",
      "T2-071",
      "T2-020",
@@ -2462,28 +2462,28 @@
     "size": 12,
     "survivors": [
      "T2-051",
+     "T2-074",
      "T2-087",
      "T2-015",
      "T2-063",
+     "T2-002",
      "T2-027",
      "T2-075",
      "T2-039",
+     "T2-038",
      "T2-099",
-     "T2-003",
-     "T2-074",
-     "T2-002",
-     "T2-038"
+     "T2-050"
     ],
     "eliminated": [
-     "T2-050",
+     "T2-003",
      "T2-098",
      "H-050",
      "T2-014",
      "T2-026",
      "T2-086",
      "T2-062",
+     "H-098",
      "H-027",
-     "H-003",
      "T2-024",
      "T2-096",
      "T2-036",
@@ -2501,23 +2501,23 @@
      "T2-012",
      "T2-094",
      "T2-028",
+     "T2-059",
+     "T2-011",
      "T2-100",
+     "T2-095",
+     "T2-035",
      "T2-016",
+     "T2-023",
      "T2-064",
      "T2-004",
      "T2-088",
-     "T2-052",
-     "T2-076",
-     "T2-040",
-     "T2-059",
-     "T2-011",
-     "T2-095",
-     "T2-035",
-     "T2-023",
      "T2-080",
      "T2-047",
+     "T2-052",
      "T2-083",
      "T2-044",
+     "T2-076",
+     "T2-040",
      "T2-008",
      "T2-071",
      "T2-020",
@@ -2573,19 +2573,19 @@
     "size": 3,
     "survivors": [
      "T2-051",
-     "T2-087",
-     "T2-015"
+     "T2-074",
+     "T2-087"
     ],
     "eliminated": [
+     "T2-015",
      "T2-063",
+     "T2-002",
      "T2-027",
      "T2-075",
      "T2-039",
+     "T2-038",
      "T2-099",
-     "T2-003",
-     "T2-074",
-     "T2-002",
-     "T2-038"
+     "T2-050"
     ]
    }
   ],
@@ -2598,17 +2598,17 @@
     "kind": "elite"
    },
    {
+    "id": "T2-074",
+    "name": "Apex Wily Hawk",
+    "beat": "settlements-breach",
+    "score": 4.7845,
+    "kind": "elite"
+   },
+   {
     "id": "T2-087",
     "name": "Apex Bold Raccoon",
     "beat": "settlements-new",
     "score": 4.7517,
-    "kind": "elite"
-   },
-   {
-    "id": "T2-015",
-    "name": "Apex Dusty Fox",
-    "beat": "settlements-new",
-    "score": 4.7458,
     "kind": "elite"
    }
   ],
@@ -2622,12 +2622,20 @@
     "rank": 1
    },
    {
+    "id": "T2-074",
+    "name": "Apex Wily Hawk",
+    "beat": "settlements-breach",
+    "score": 4.7845,
+    "kind": "elite",
+    "rank": 2
+   },
+   {
     "id": "T2-087",
     "name": "Apex Bold Raccoon",
     "beat": "settlements-new",
     "score": 4.7517,
     "kind": "elite",
-    "rank": 2
+    "rank": 3
    },
    {
     "id": "T2-015",
@@ -2635,7 +2643,7 @@
     "beat": "settlements-new",
     "score": 4.7458,
     "kind": "elite",
-    "rank": 3
+    "rank": 4
    },
    {
     "id": "T2-063",
@@ -2643,7 +2651,15 @@
     "beat": "settlements-new",
     "score": 4.6577,
     "kind": "elite",
-    "rank": 4
+    "rank": 5
+   },
+   {
+    "id": "T2-002",
+    "name": "Apex Lucky Badger",
+    "beat": "settlements-breach",
+    "score": 4.6471,
+    "kind": "elite",
+    "rank": 6
    },
    {
     "id": "T2-027",
@@ -2651,7 +2667,7 @@
     "beat": "settlements-new",
     "score": 4.6313,
     "kind": "elite",
-    "rank": 5
+    "rank": 7
    },
    {
     "id": "T2-075",
@@ -2659,7 +2675,7 @@
     "beat": "settlements-new",
     "score": 4.5837,
     "kind": "elite",
-    "rank": 6
+    "rank": 8
    },
    {
     "id": "T2-039",
@@ -2667,7 +2683,15 @@
     "beat": "settlements-new",
     "score": 4.5574,
     "kind": "elite",
-    "rank": 7
+    "rank": 9
+   },
+   {
+    "id": "T2-038",
+    "name": "Apex Rusty Beaver",
+    "beat": "settlements-breach",
+    "score": 4.5199,
+    "kind": "elite",
+    "rank": 10
    },
    {
     "id": "T2-099",
@@ -2675,7 +2699,15 @@
     "beat": "settlements-new",
     "score": 4.5186,
     "kind": "elite",
-    "rank": 8
+    "rank": 11
+   },
+   {
+    "id": "T2-050",
+    "name": "Apex Peppy Marmot",
+    "beat": "settlements-breach",
+    "score": 4.461,
+    "kind": "elite",
+    "rank": 12
    },
    {
     "id": "T2-003",
@@ -2683,45 +2715,13 @@
     "beat": "settlements-new",
     "score": 4.4205,
     "kind": "elite",
-    "rank": 9
-   },
-   {
-    "id": "T2-074",
-    "name": "Apex Wily Hawk",
-    "beat": "settlements-breach",
-    "score": 4.4165,
-    "kind": "elite",
-    "rank": 10
-   },
-   {
-    "id": "T2-002",
-    "name": "Apex Lucky Badger",
-    "beat": "settlements-breach",
-    "score": 4.2896,
-    "kind": "elite",
-    "rank": 11
-   },
-   {
-    "id": "T2-038",
-    "name": "Apex Rusty Beaver",
-    "beat": "settlements-breach",
-    "score": 4.1722,
-    "kind": "elite",
-    "rank": 12
-   },
-   {
-    "id": "T2-050",
-    "name": "Apex Peppy Marmot",
-    "beat": "settlements-breach",
-    "score": 4.1178,
-    "kind": "elite",
     "rank": 13
    },
    {
     "id": "T2-098",
     "name": "Apex Calm Beaver",
     "beat": "settlements-breach",
-    "score": 4.0664,
+    "score": 4.4052,
     "kind": "elite",
     "rank": 14
    },
@@ -2729,7 +2729,7 @@
     "id": "H-050",
     "name": "Peppy Marmot",
     "beat": "settlements-breach",
-    "score": 3.9755,
+    "score": 4.3068,
     "kind": "seed",
     "rank": 15
    },
@@ -2737,7 +2737,7 @@
     "id": "T2-014",
     "name": "Apex Dusty Hawk",
     "beat": "settlements-breach",
-    "score": 3.9661,
+    "score": 4.2966,
     "kind": "elite",
     "rank": 16
    },
@@ -2745,7 +2745,7 @@
     "id": "T2-026",
     "name": "Apex Slick Otter",
     "beat": "settlements-breach",
-    "score": 3.9606,
+    "score": 4.2907,
     "kind": "elite",
     "rank": 17
    },
@@ -2753,7 +2753,7 @@
     "id": "T2-086",
     "name": "Apex Bold Otter",
     "beat": "settlements-breach",
-    "score": 3.8238,
+    "score": 4.1424,
     "kind": "elite",
     "rank": 18
    },
@@ -2761,23 +2761,23 @@
     "id": "T2-062",
     "name": "Apex Sharp Badger",
     "beat": "settlements-breach",
-    "score": 3.8078,
+    "score": 4.1251,
     "kind": "elite",
     "rank": 19
+   },
+   {
+    "id": "H-098",
+    "name": "Calm Beaver",
+    "beat": "settlements-breach",
+    "score": 3.2431,
+    "kind": "seed",
+    "rank": 20
    },
    {
     "id": "H-027",
     "name": "Slick Raccoon",
     "beat": "settlements-new",
     "score": 3.1434,
-    "kind": "seed",
-    "rank": 20
-   },
-   {
-    "id": "H-003",
-    "name": "Lucky Mole",
-    "beat": "settlements-new",
-    "score": 3.0142,
     "kind": "seed",
     "rank": 21
    },
@@ -2913,73 +2913,9 @@
     "id": "T2-028",
     "name": "Apex Slick Beaver",
     "beat": "bank-bonuses",
-    "score": 1.2044,
+    "score": 0.8531,
     "kind": "elite",
     "rank": 38
-   },
-   {
-    "id": "T2-100",
-    "name": "Apex Calm Marmot",
-    "beat": "bank-bonuses",
-    "score": 1.1406,
-    "kind": "elite",
-    "rank": 39
-   },
-   {
-    "id": "T2-016",
-    "name": "Apex Dusty Otter",
-    "beat": "bank-bonuses",
-    "score": 1.1024,
-    "kind": "elite",
-    "rank": 40
-   },
-   {
-    "id": "T2-064",
-    "name": "Apex Sharp Hawk",
-    "beat": "bank-bonuses",
-    "score": 1.0967,
-    "kind": "elite",
-    "rank": 41
-   },
-   {
-    "id": "T2-004",
-    "name": "Apex Lucky Hawk",
-    "beat": "bank-bonuses",
-    "score": 1.094,
-    "kind": "elite",
-    "rank": 42
-   },
-   {
-    "id": "T2-088",
-    "name": "Apex Bold Beaver",
-    "beat": "bank-bonuses",
-    "score": 1.068,
-    "kind": "elite",
-    "rank": 43
-   },
-   {
-    "id": "T2-052",
-    "name": "Apex Frugal Badger",
-    "beat": "bank-bonuses",
-    "score": 1.0209,
-    "kind": "elite",
-    "rank": 44
-   },
-   {
-    "id": "T2-076",
-    "name": "Apex Wily Otter",
-    "beat": "bank-bonuses",
-    "score": 1.0015,
-    "kind": "elite",
-    "rank": 45
-   },
-   {
-    "id": "T2-040",
-    "name": "Apex Rusty Marmot",
-    "beat": "bank-bonuses",
-    "score": 0.9977,
-    "kind": "elite",
-    "rank": 46
    },
    {
     "id": "T2-059",
@@ -2987,7 +2923,7 @@
     "beat": "employer-benefits",
     "score": 0.8148,
     "kind": "elite",
-    "rank": 47
+    "rank": 39
    },
    {
     "id": "T2-011",
@@ -2995,7 +2931,15 @@
     "beat": "employer-benefits",
     "score": 0.8132,
     "kind": "elite",
-    "rank": 48
+    "rank": 40
+   },
+   {
+    "id": "T2-100",
+    "name": "Apex Calm Marmot",
+    "beat": "bank-bonuses",
+    "score": 0.8079,
+    "kind": "elite",
+    "rank": 41
    },
    {
     "id": "T2-095",
@@ -3003,7 +2947,7 @@
     "beat": "employer-benefits",
     "score": 0.8078,
     "kind": "elite",
-    "rank": 49
+    "rank": 42
    },
    {
     "id": "T2-035",
@@ -3011,7 +2955,15 @@
     "beat": "employer-benefits",
     "score": 0.8018,
     "kind": "elite",
-    "rank": 50
+    "rank": 43
+   },
+   {
+    "id": "T2-016",
+    "name": "Apex Dusty Otter",
+    "beat": "bank-bonuses",
+    "score": 0.7809,
+    "kind": "elite",
+    "rank": 44
    },
    {
     "id": "T2-023",
@@ -3019,7 +2971,31 @@
     "beat": "employer-benefits",
     "score": 0.7769,
     "kind": "elite",
-    "rank": 51
+    "rank": 45
+   },
+   {
+    "id": "T2-064",
+    "name": "Apex Sharp Hawk",
+    "beat": "bank-bonuses",
+    "score": 0.7768,
+    "kind": "elite",
+    "rank": 46
+   },
+   {
+    "id": "T2-004",
+    "name": "Apex Lucky Hawk",
+    "beat": "bank-bonuses",
+    "score": 0.7749,
+    "kind": "elite",
+    "rank": 47
+   },
+   {
+    "id": "T2-088",
+    "name": "Apex Bold Beaver",
+    "beat": "bank-bonuses",
+    "score": 0.7565,
+    "kind": "elite",
+    "rank": 48
    },
    {
     "id": "T2-080",
@@ -3027,7 +3003,7 @@
     "beat": "grocery-cashback-apps",
     "score": 0.7533,
     "kind": "elite",
-    "rank": 52
+    "rank": 49
    },
    {
     "id": "T2-047",
@@ -3035,7 +3011,15 @@
     "beat": "employer-benefits",
     "score": 0.7364,
     "kind": "elite",
-    "rank": 53
+    "rank": 50
+   },
+   {
+    "id": "T2-052",
+    "name": "Apex Frugal Badger",
+    "beat": "bank-bonuses",
+    "score": 0.7231,
+    "kind": "elite",
+    "rank": 51
    },
    {
     "id": "T2-083",
@@ -3043,13 +3027,29 @@
     "beat": "employer-benefits",
     "score": 0.7164,
     "kind": "elite",
-    "rank": 54
+    "rank": 52
    },
    {
     "id": "T2-044",
     "name": "Apex Peppy Hawk",
     "beat": "grocery-cashback-apps",
     "score": 0.7156,
+    "kind": "elite",
+    "rank": 53
+   },
+   {
+    "id": "T2-076",
+    "name": "Apex Wily Otter",
+    "beat": "bank-bonuses",
+    "score": 0.7094,
+    "kind": "elite",
+    "rank": 54
+   },
+   {
+    "id": "T2-040",
+    "name": "Apex Rusty Marmot",
+    "beat": "bank-bonuses",
+    "score": 0.7067,
     "kind": "elite",
     "rank": 55
    },
@@ -3446,52 +3446,52 @@
     "round": 1,
     "size": 103,
     "survivors": [
+     "T3-014",
      "T3-051",
      "T3-075",
      "T2-051",
+     "T2-074",
      "T2-087",
-     "T2-015",
      "T3-015",
-     "T3-014",
      "T3-063",
-     "T3-027",
-     "T3-039",
-     "T3-003",
-     "T3-099",
-     "T3-087",
      "T3-026",
      "T3-074",
+     "T3-027",
+     "T3-039",
      "T3-038",
      "T3-086",
      "T3-002",
      "T3-098",
      "T3-062",
+     "T3-003",
+     "T3-099",
+     "T3-087",
      "T3-050",
      "T3-034",
-     "T3-052",
-     "T3-004",
      "T3-084",
      "T3-096",
-     "T3-076",
      "T3-022",
      "T3-036",
      "T3-082",
-     "T3-100",
      "T3-060",
-     "T3-028",
      "T3-012",
-     "T3-064",
      "T3-070",
-     "T3-040",
      "T3-072",
-     "T3-016",
      "T3-048",
      "T3-058",
-     "T3-088",
      "T3-094",
      "T3-010",
      "T3-024",
      "T3-046",
+     "T3-052",
+     "T3-004",
+     "T3-076",
+     "T3-100",
+     "T3-028",
+     "T3-064",
+     "T3-040",
+     "T3-016",
+     "T3-088",
      "T3-095",
      "T3-065",
      "T3-017",
@@ -3556,54 +3556,54 @@
     "round": 2,
     "size": 12,
     "survivors": [
+     "T3-014",
      "T3-051",
      "T3-075",
      "T2-051",
+     "T2-074",
      "T2-087",
-     "T2-015",
      "T3-015",
-     "T3-014",
      "T3-063",
-     "T3-027",
-     "T3-039",
-     "T3-003",
-     "T3-099"
-    ],
-    "eliminated": [
-     "T3-087",
      "T3-026",
      "T3-074",
+     "T3-027",
+     "T3-039"
+    ],
+    "eliminated": [
      "T3-038",
      "T3-086",
      "T3-002",
      "T3-098",
      "T3-062",
+     "T3-003",
+     "T3-099",
+     "T3-087",
      "T3-050",
      "T3-034",
-     "T3-052",
-     "T3-004",
      "T3-084",
      "T3-096",
-     "T3-076",
      "T3-022",
      "T3-036",
      "T3-082",
-     "T3-100",
      "T3-060",
-     "T3-028",
      "T3-012",
-     "T3-064",
      "T3-070",
-     "T3-040",
      "T3-072",
-     "T3-016",
      "T3-048",
      "T3-058",
-     "T3-088",
      "T3-094",
      "T3-010",
      "T3-024",
      "T3-046",
+     "T3-052",
+     "T3-004",
+     "T3-076",
+     "T3-100",
+     "T3-028",
+     "T3-064",
+     "T3-040",
+     "T3-016",
+     "T3-088",
      "T3-095",
      "T3-065",
      "T3-017",
@@ -3667,25 +3667,32 @@
     "round": 3,
     "size": 3,
     "survivors": [
+     "T3-014",
      "T3-051",
-     "T3-075",
-     "T2-051"
+     "T3-075"
     ],
     "eliminated": [
+     "T2-051",
+     "T2-074",
      "T2-087",
-     "T2-015",
      "T3-015",
-     "T3-014",
      "T3-063",
+     "T3-026",
+     "T3-074",
      "T3-027",
-     "T3-039",
-     "T3-003",
-     "T3-099"
+     "T3-039"
     ]
    }
   ],
   "champions": [
    {
+    "id": "T3-014",
+    "name": "Prime Dusty Hawk",
+    "beat": "settlements-breach",
+    "score": 5.0058,
+    "kind": "elite"
+   },
+   {
     "id": "T3-051",
     "name": "Prime Frugal Ferret",
     "beat": "settlements-new",
@@ -3698,23 +3705,24 @@
     "beat": "settlements-new",
     "score": 4.9072,
     "kind": "elite"
-   },
-   {
-    "id": "T2-051",
-    "name": "Apex Frugal Ferret",
-    "beat": "settlements-new",
-    "score": 4.8666,
-    "kind": "seed"
    }
   ],
   "leaderboard": [
    {
+    "id": "T3-014",
+    "name": "Prime Dusty Hawk",
+    "beat": "settlements-breach",
+    "score": 5.0058,
+    "kind": "elite",
+    "rank": 1
+   },
+   {
     "id": "T3-051",
     "name": "Prime Frugal Ferret",
     "beat": "settlements-new",
     "score": 4.9971,
     "kind": "elite",
-    "rank": 1
+    "rank": 2
    },
    {
     "id": "T3-075",
@@ -3722,7 +3730,7 @@
     "beat": "settlements-new",
     "score": 4.9072,
     "kind": "elite",
-    "rank": 2
+    "rank": 3
    },
    {
     "id": "T2-051",
@@ -3730,7 +3738,15 @@
     "beat": "settlements-new",
     "score": 4.8666,
     "kind": "seed",
-    "rank": 3
+    "rank": 4
+   },
+   {
+    "id": "T2-074",
+    "name": "Apex Wily Hawk",
+    "beat": "settlements-breach",
+    "score": 4.7845,
+    "kind": "seed",
+    "rank": 5
    },
    {
     "id": "T2-087",
@@ -3738,29 +3754,13 @@
     "beat": "settlements-new",
     "score": 4.7517,
     "kind": "seed",
-    "rank": 4
-   },
-   {
-    "id": "T2-015",
-    "name": "Apex Dusty Fox",
-    "beat": "settlements-new",
-    "score": 4.7458,
-    "kind": "seed",
-    "rank": 5
+    "rank": 6
    },
    {
     "id": "T3-015",
     "name": "Prime Dusty Fox",
     "beat": "settlements-new",
     "score": 4.6209,
-    "kind": "elite",
-    "rank": 6
-   },
-   {
-    "id": "T3-014",
-    "name": "Prime Dusty Hawk",
-    "beat": "settlements-breach",
-    "score": 4.6207,
     "kind": "elite",
     "rank": 7
    },
@@ -3773,12 +3773,28 @@
     "rank": 8
    },
    {
+    "id": "T3-026",
+    "name": "Prime Slick Otter",
+    "beat": "settlements-breach",
+    "score": 4.5445,
+    "kind": "elite",
+    "rank": 9
+   },
+   {
+    "id": "T3-074",
+    "name": "Prime Wily Hawk",
+    "beat": "settlements-breach",
+    "score": 4.5355,
+    "kind": "elite",
+    "rank": 10
+   },
+   {
     "id": "T3-027",
     "name": "Prime Slick Raccoon",
     "beat": "settlements-new",
     "score": 4.5234,
     "kind": "elite",
-    "rank": 9
+    "rank": 11
    },
    {
     "id": "T3-039",
@@ -3786,7 +3802,47 @@
     "beat": "settlements-new",
     "score": 4.4915,
     "kind": "elite",
-    "rank": 10
+    "rank": 12
+   },
+   {
+    "id": "T3-038",
+    "name": "Prime Rusty Beaver",
+    "beat": "settlements-breach",
+    "score": 4.458,
+    "kind": "elite",
+    "rank": 13
+   },
+   {
+    "id": "T3-086",
+    "name": "Prime Bold Otter",
+    "beat": "settlements-breach",
+    "score": 4.4428,
+    "kind": "elite",
+    "rank": 14
+   },
+   {
+    "id": "T3-002",
+    "name": "Prime Lucky Badger",
+    "beat": "settlements-breach",
+    "score": 4.4145,
+    "kind": "elite",
+    "rank": 15
+   },
+   {
+    "id": "T3-098",
+    "name": "Prime Calm Beaver",
+    "beat": "settlements-breach",
+    "score": 4.3532,
+    "kind": "elite",
+    "rank": 16
+   },
+   {
+    "id": "T3-062",
+    "name": "Prime Sharp Badger",
+    "beat": "settlements-breach",
+    "score": 4.2749,
+    "kind": "elite",
+    "rank": 17
    },
    {
     "id": "T3-003",
@@ -3794,7 +3850,7 @@
     "beat": "settlements-new",
     "score": 4.2708,
     "kind": "elite",
-    "rank": 11
+    "rank": 18
    },
    {
     "id": "T3-099",
@@ -3802,7 +3858,7 @@
     "beat": "settlements-new",
     "score": 4.2288,
     "kind": "elite",
-    "rank": 12
+    "rank": 19
    },
    {
     "id": "T3-087",
@@ -3810,69 +3866,13 @@
     "beat": "settlements-new",
     "score": 4.2016,
     "kind": "elite",
-    "rank": 13
-   },
-   {
-    "id": "T3-026",
-    "name": "Prime Slick Otter",
-    "beat": "settlements-breach",
-    "score": 4.1949,
-    "kind": "elite",
-    "rank": 14
-   },
-   {
-    "id": "T3-074",
-    "name": "Prime Wily Hawk",
-    "beat": "settlements-breach",
-    "score": 4.1866,
-    "kind": "elite",
-    "rank": 15
-   },
-   {
-    "id": "T3-038",
-    "name": "Prime Rusty Beaver",
-    "beat": "settlements-breach",
-    "score": 4.115,
-    "kind": "elite",
-    "rank": 16
-   },
-   {
-    "id": "T3-086",
-    "name": "Prime Bold Otter",
-    "beat": "settlements-breach",
-    "score": 4.101,
-    "kind": "elite",
-    "rank": 17
-   },
-   {
-    "id": "T3-002",
-    "name": "Prime Lucky Badger",
-    "beat": "settlements-breach",
-    "score": 4.0749,
-    "kind": "elite",
-    "rank": 18
-   },
-   {
-    "id": "T3-098",
-    "name": "Prime Calm Beaver",
-    "beat": "settlements-breach",
-    "score": 4.0183,
-    "kind": "elite",
-    "rank": 19
-   },
-   {
-    "id": "T3-062",
-    "name": "Prime Sharp Badger",
-    "beat": "settlements-breach",
-    "score": 3.9461,
-    "kind": "elite",
     "rank": 20
    },
    {
     "id": "T3-050",
     "name": "Prime Peppy Marmot",
     "beat": "settlements-breach",
-    "score": 3.759,
+    "score": 4.0723,
     "kind": "elite",
     "rank": 21
    },
@@ -3885,28 +3885,12 @@
     "rank": 22
    },
    {
-    "id": "T3-052",
-    "name": "Prime Frugal Badger",
-    "beat": "bank-bonuses",
-    "score": 1.4955,
-    "kind": "elite",
-    "rank": 23
-   },
-   {
-    "id": "T3-004",
-    "name": "Prime Lucky Hawk",
-    "beat": "bank-bonuses",
-    "score": 1.4694,
-    "kind": "elite",
-    "rank": 24
-   },
-   {
     "id": "T3-084",
     "name": "Prime Bold Hawk",
     "beat": "state-programs",
     "score": 1.4583,
     "kind": "elite",
-    "rank": 25
+    "rank": 23
    },
    {
     "id": "T3-096",
@@ -3914,15 +3898,7 @@
     "beat": "state-programs",
     "score": 1.4559,
     "kind": "elite",
-    "rank": 26
-   },
-   {
-    "id": "T3-076",
-    "name": "Prime Wily Otter",
-    "beat": "bank-bonuses",
-    "score": 1.4551,
-    "kind": "elite",
-    "rank": 27
+    "rank": 24
    },
    {
     "id": "T3-022",
@@ -3930,7 +3906,7 @@
     "beat": "warranty-claims",
     "score": 1.4546,
     "kind": "elite",
-    "rank": 28
+    "rank": 25
    },
    {
     "id": "T3-036",
@@ -3938,7 +3914,7 @@
     "beat": "state-programs",
     "score": 1.4525,
     "kind": "elite",
-    "rank": 29
+    "rank": 26
    },
    {
     "id": "T3-082",
@@ -3946,15 +3922,7 @@
     "beat": "warranty-claims",
     "score": 1.4519,
     "kind": "elite",
-    "rank": 30
-   },
-   {
-    "id": "T3-100",
-    "name": "Prime Calm Marmot",
-    "beat": "bank-bonuses",
-    "score": 1.4423,
-    "kind": "elite",
-    "rank": 31
+    "rank": 27
    },
    {
     "id": "T3-060",
@@ -3962,15 +3930,7 @@
     "beat": "state-programs",
     "score": 1.4412,
     "kind": "elite",
-    "rank": 32
-   },
-   {
-    "id": "T3-028",
-    "name": "Prime Slick Beaver",
-    "beat": "bank-bonuses",
-    "score": 1.4132,
-    "kind": "elite",
-    "rank": 33
+    "rank": 28
    },
    {
     "id": "T3-012",
@@ -3978,15 +3938,7 @@
     "beat": "state-programs",
     "score": 1.3982,
     "kind": "elite",
-    "rank": 34
-   },
-   {
-    "id": "T3-064",
-    "name": "Prime Sharp Hawk",
-    "beat": "bank-bonuses",
-    "score": 1.3935,
-    "kind": "elite",
-    "rank": 35
+    "rank": 29
    },
    {
     "id": "T3-070",
@@ -3994,15 +3946,7 @@
     "beat": "warranty-claims",
     "score": 1.3842,
     "kind": "elite",
-    "rank": 36
-   },
-   {
-    "id": "T3-040",
-    "name": "Prime Rusty Marmot",
-    "beat": "bank-bonuses",
-    "score": 1.3814,
-    "kind": "elite",
-    "rank": 37
+    "rank": 30
    },
    {
     "id": "T3-072",
@@ -4010,15 +3954,7 @@
     "beat": "state-programs",
     "score": 1.3678,
     "kind": "elite",
-    "rank": 38
-   },
-   {
-    "id": "T3-016",
-    "name": "Prime Dusty Otter",
-    "beat": "bank-bonuses",
-    "score": 1.3538,
-    "kind": "elite",
-    "rank": 39
+    "rank": 31
    },
    {
     "id": "T3-048",
@@ -4026,7 +3962,7 @@
     "beat": "state-programs",
     "score": 1.3518,
     "kind": "elite",
-    "rank": 40
+    "rank": 32
    },
    {
     "id": "T3-058",
@@ -4034,15 +3970,7 @@
     "beat": "warranty-claims",
     "score": 1.3404,
     "kind": "elite",
-    "rank": 41
-   },
-   {
-    "id": "T3-088",
-    "name": "Prime Bold Beaver",
-    "beat": "bank-bonuses",
-    "score": 1.3249,
-    "kind": "elite",
-    "rank": 42
+    "rank": 33
    },
    {
     "id": "T3-094",
@@ -4050,7 +3978,7 @@
     "beat": "warranty-claims",
     "score": 1.3246,
     "kind": "elite",
-    "rank": 43
+    "rank": 34
    },
    {
     "id": "T3-010",
@@ -4058,7 +3986,7 @@
     "beat": "warranty-claims",
     "score": 1.2987,
     "kind": "elite",
-    "rank": 44
+    "rank": 35
    },
    {
     "id": "T3-024",
@@ -4066,13 +3994,85 @@
     "beat": "state-programs",
     "score": 1.2914,
     "kind": "elite",
-    "rank": 45
+    "rank": 36
    },
    {
     "id": "T3-046",
     "name": "Prime Peppy Otter",
     "beat": "warranty-claims",
     "score": 1.2763,
+    "kind": "elite",
+    "rank": 37
+   },
+   {
+    "id": "T3-052",
+    "name": "Prime Frugal Badger",
+    "beat": "bank-bonuses",
+    "score": 1.2114,
+    "kind": "elite",
+    "rank": 38
+   },
+   {
+    "id": "T3-004",
+    "name": "Prime Lucky Hawk",
+    "beat": "bank-bonuses",
+    "score": 1.1903,
+    "kind": "elite",
+    "rank": 39
+   },
+   {
+    "id": "T3-076",
+    "name": "Prime Wily Otter",
+    "beat": "bank-bonuses",
+    "score": 1.1787,
+    "kind": "elite",
+    "rank": 40
+   },
+   {
+    "id": "T3-100",
+    "name": "Prime Calm Marmot",
+    "beat": "bank-bonuses",
+    "score": 1.1683,
+    "kind": "elite",
+    "rank": 41
+   },
+   {
+    "id": "T3-028",
+    "name": "Prime Slick Beaver",
+    "beat": "bank-bonuses",
+    "score": 1.1447,
+    "kind": "elite",
+    "rank": 42
+   },
+   {
+    "id": "T3-064",
+    "name": "Prime Sharp Hawk",
+    "beat": "bank-bonuses",
+    "score": 1.1288,
+    "kind": "elite",
+    "rank": 43
+   },
+   {
+    "id": "T3-040",
+    "name": "Prime Rusty Marmot",
+    "beat": "bank-bonuses",
+    "score": 1.119,
+    "kind": "elite",
+    "rank": 44
+   },
+   {
+    "id": "T3-016",
+    "name": "Prime Dusty Otter",
+    "beat": "bank-bonuses",
+    "score": 1.0966,
+    "kind": "elite",
+    "rank": 45
+   },
+   {
+    "id": "T3-088",
+    "name": "Prime Bold Beaver",
+    "beat": "bank-bonuses",
+    "score": 1.0732,
     "kind": "elite",
     "rank": 46
    },
