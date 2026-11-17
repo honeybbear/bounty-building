@@ -486,7 +486,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-08",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-08 via claimdepot.com (linked to official settlement site otpdataincident.com) + classaction.org/eosguidehub cross-check"
+   "source_note": "Verified 2026-10-08 via claimdepot.com (linked to official settlement site otpdataincident.com) + classaction.org/eosguidehub cross-check",
+   "status": "expired"
   },
   {
    "id": "comms-data-group-2026",
@@ -752,7 +753,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-10",
    "verification": "secondary",
-   "source_note": "Verified 2026-10-10 via claimdepot (official site cusocybersecurityincident.com named by classaction.org; admin Chanhassen MN)"
+   "source_note": "Verified 2026-10-10 via claimdepot (official site cusocybersecurityincident.com named by classaction.org; admin Chanhassen MN)",
+   "status": "expired"
   },
   {
    "id": "finastra-2026",
@@ -1338,7 +1340,8 @@
    "title": "Folsom Insurance $850K TCPA robocall settlement",
    "value_desc": "Est. $125-$200 equal share of $850,000 fund after admin costs, attorneys' fees and litigation costs; estimate not a guarantee",
    "verification": "primary",
-   "verified": "2026-10-16"
+   "verified": "2026-10-16",
+   "status": "expired"
   },
   {
    "beat": "settlements-new",

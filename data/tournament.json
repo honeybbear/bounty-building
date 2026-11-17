@@ -1,12 +1,12 @@
 {
- "run_date": "2026-11-16",
+ "run_date": "2026-11-17",
  "seed": 42,
  "banned_beats": [
   "settlements-no-proof"
  ],
  "opportunity_count": 153,
  "scorable_opportunity_count": 148,
- "active_opportunity_count": 94,
+ "active_opportunity_count": 91,
  "rounds": [
   {
    "round": 1,
@@ -14,24 +14,24 @@
    "survivors": [
     "H-050",
     "H-098",
+    "H-074",
     "H-027",
+    "H-086",
     "H-003",
     "H-087",
-    "H-074",
     "H-015",
-    "H-086",
     "H-062",
     "H-039",
     "H-051",
     "H-038",
     "H-058",
     "H-100",
-    "H-075",
     "H-036",
+    "H-075",
     "H-072",
     "H-082",
-    "H-063",
     "H-016",
+    "H-063",
     "H-076",
     "H-026",
     "H-002",
@@ -70,10 +70,10 @@
     "H-089",
     "H-088",
     "H-040",
-    "H-099",
     "H-018",
     "H-060",
     "H-056",
+    "H-099",
     "H-033",
     "H-041",
     "H-090",
@@ -121,24 +121,24 @@
    "survivors": [
     "H-050",
     "H-098",
+    "H-074",
     "H-027",
+    "H-086",
     "H-003",
     "H-087",
-    "H-074",
     "H-015",
-    "H-086",
     "H-062",
     "H-039",
     "H-051",
     "H-038",
     "H-058",
     "H-100",
-    "H-075",
     "H-036",
+    "H-075",
     "H-072",
     "H-082",
-    "H-063",
     "H-016",
+    "H-063",
     "H-076",
     "H-026",
     "H-002",
@@ -179,10 +179,10 @@
     "H-089",
     "H-088",
     "H-040",
-    "H-099",
     "H-018",
     "H-060",
     "H-056",
+    "H-099",
     "H-033",
     "H-041",
     "H-090",
@@ -229,24 +229,24 @@
    "survivors": [
     "H-050",
     "H-098",
+    "H-074",
     "H-027",
+    "H-086",
     "H-003",
     "H-087",
-    "H-074",
     "H-015",
-    "H-086",
     "H-062",
     "H-039",
     "H-051",
     "H-038",
     "H-058",
     "H-100",
-    "H-075",
     "H-036",
+    "H-075",
     "H-072",
     "H-082",
-    "H-063",
     "H-016",
+    "H-063",
     "H-076",
     "H-026",
     "H-002",
@@ -287,12 +287,12 @@
    "survivors": [
     "H-050",
     "H-098",
+    "H-074",
     "H-027",
+    "H-086",
     "H-003",
     "H-087",
-    "H-074",
     "H-015",
-    "H-086",
     "H-062",
     "H-039",
     "H-051",
@@ -301,12 +301,12 @@
    "eliminated": [
     "H-058",
     "H-100",
-    "H-075",
     "H-036",
+    "H-075",
     "H-072",
     "H-082",
-    "H-063",
     "H-016",
+    "H-063",
     "H-076",
     "H-026",
     "H-002",
@@ -320,14 +320,14 @@
    "survivors": [
     "H-050",
     "H-098",
+    "H-074",
     "H-027",
-    "H-003",
-    "H-087",
-    "H-074"
+    "H-086",
+    "H-003"
    ],
    "eliminated": [
+    "H-087",
     "H-015",
-    "H-086",
     "H-062",
     "H-039",
     "H-051",
@@ -340,12 +340,12 @@
    "survivors": [
     "H-050",
     "H-098",
-    "H-027"
+    "H-074"
    ],
    "eliminated": [
-    "H-003",
-    "H-087",
-    "H-074"
+    "H-027",
+    "H-086",
+    "H-003"
    ]
   }
  ],
@@ -365,10 +365,10 @@
    "kind": "hunter"
   },
   {
-   "id": "H-027",
-   "name": "Slick Raccoon",
-   "beat": "settlements-new",
-   "score": 3.1434,
+   "id": "H-074",
+   "name": "Wily Hawk",
+   "beat": "settlements-breach",
+   "score": 2.9136,
    "kind": "hunter"
   }
  ],
@@ -390,50 +390,50 @@
    "rank": 2
   },
   {
-   "id": "H-027",
-   "name": "Slick Raccoon",
-   "beat": "settlements-new",
-   "score": 3.1434,
-   "kind": "hunter",
-   "rank": 3
-  },
-  {
-   "id": "H-003",
-   "name": "Lucky Mole",
-   "beat": "settlements-new",
-   "score": 3.0142,
-   "kind": "hunter",
-   "rank": 4
-  },
-  {
-   "id": "H-087",
-   "name": "Bold Raccoon",
-   "beat": "settlements-new",
-   "score": 3.0119,
-   "kind": "hunter",
-   "rank": 5
-  },
-  {
    "id": "H-074",
    "name": "Wily Hawk",
    "beat": "settlements-breach",
    "score": 2.9136,
    "kind": "hunter",
-   "rank": 6
+   "rank": 3
   },
   {
-   "id": "H-015",
-   "name": "Dusty Fox",
+   "id": "H-027",
+   "name": "Slick Raccoon",
    "beat": "settlements-new",
-   "score": 2.846,
+   "score": 2.9016,
    "kind": "hunter",
-   "rank": 7
+   "rank": 4
   },
   {
    "id": "H-086",
    "name": "Bold Otter",
    "beat": "settlements-breach",
    "score": 2.8095,
+   "kind": "hunter",
+   "rank": 5
+  },
+  {
+   "id": "H-003",
+   "name": "Lucky Mole",
+   "beat": "settlements-new",
+   "score": 2.7823,
+   "kind": "hunter",
+   "rank": 6
+  },
+  {
+   "id": "H-087",
+   "name": "Bold Raccoon",
+   "beat": "settlements-new",
+   "score": 2.7802,
+   "kind": "hunter",
+   "rank": 7
+  },
+  {
+   "id": "H-015",
+   "name": "Dusty Fox",
+   "beat": "settlements-new",
+   "score": 2.6271,
    "kind": "hunter",
    "rank": 8
   },
@@ -449,7 +449,7 @@
    "id": "H-039",
    "name": "Rusty Coyote",
    "beat": "settlements-new",
-   "score": 2.2358,
+   "score": 2.0638,
    "kind": "hunter",
    "rank": 10
   },
@@ -457,7 +457,7 @@
    "id": "H-051",
    "name": "Frugal Ferret",
    "beat": "settlements-new",
-   "score": 1.9869,
+   "score": 1.8341,
    "kind": "hunter",
    "rank": 11
   },
@@ -486,18 +486,18 @@
    "rank": 14
   },
   {
-   "id": "H-075",
-   "name": "Wily Fox",
-   "beat": "settlements-new",
-   "score": 0.9985,
-   "kind": "hunter",
-   "rank": 15
-  },
-  {
    "id": "H-036",
    "name": "Rusty Otter",
    "beat": "state-programs",
    "score": 0.9484,
+   "kind": "hunter",
+   "rank": 15
+  },
+  {
+   "id": "H-075",
+   "name": "Wily Fox",
+   "beat": "settlements-new",
+   "score": 0.9217,
    "kind": "hunter",
    "rank": 16
   },
@@ -518,18 +518,18 @@
    "rank": 18
   },
   {
-   "id": "H-063",
-   "name": "Sharp Mole",
-   "beat": "settlements-new",
-   "score": 0.8853,
-   "kind": "hunter",
-   "rank": 19
-  },
-  {
    "id": "H-016",
    "name": "Dusty Otter",
    "beat": "bank-bonuses",
    "score": 0.8357,
+   "kind": "hunter",
+   "rank": 19
+  },
+  {
+   "id": "H-063",
+   "name": "Sharp Mole",
+   "beat": "settlements-new",
+   "score": 0.8172,
    "kind": "hunter",
    "rank": 20
   },
@@ -838,20 +838,12 @@
    "rank": 58
   },
   {
-   "id": "H-099",
-   "name": "Calm Coyote",
-   "beat": "settlements-new",
-   "score": 0.2049,
-   "kind": "hunter",
-   "rank": 59
-  },
-  {
    "id": "H-018",
    "name": "Dusty Beaver",
    "beat": "utility-rebates",
    "score": 0.2048,
    "kind": "hunter",
-   "rank": 60
+   "rank": 59
   },
   {
    "id": "H-060",
@@ -859,13 +851,21 @@
    "beat": "state-programs",
    "score": 0.1983,
    "kind": "hunter",
-   "rank": 61
+   "rank": 60
   },
   {
    "id": "H-056",
    "name": "Frugal Otter",
    "beat": "grocery-cashback-apps",
    "score": 0.1934,
+   "kind": "hunter",
+   "rank": 61
+  },
+  {
+   "id": "H-099",
+   "name": "Calm Coyote",
+   "beat": "settlements-new",
+   "score": 0.1891,
    "kind": "hunter",
    "rank": 62
   },
@@ -1183,24 +1183,24 @@
     "survivors": [
      "H-050",
      "H-098",
+     "H-074",
      "H-027",
+     "H-086",
      "H-003",
      "H-087",
-     "H-074",
      "H-015",
-     "H-086",
      "H-062",
      "H-039",
      "H-051",
      "H-038",
      "H-058",
      "H-100",
-     "H-075",
      "H-036",
+     "H-075",
      "H-072",
      "H-082",
-     "H-063",
      "H-016",
+     "H-063",
      "H-076",
      "H-026",
      "H-002",
@@ -1239,10 +1239,10 @@
      "H-089",
      "H-088",
      "H-040",
-     "H-099",
      "H-018",
      "H-060",
      "H-056",
+     "H-099",
      "H-033",
      "H-041",
      "H-090",
@@ -1290,24 +1290,24 @@
     "survivors": [
      "H-050",
      "H-098",
+     "H-074",
      "H-027",
+     "H-086",
      "H-003",
      "H-087",
-     "H-074",
      "H-015",
-     "H-086",
      "H-062",
      "H-039",
      "H-051",
      "H-038",
      "H-058",
      "H-100",
-     "H-075",
      "H-036",
+     "H-075",
      "H-072",
      "H-082",
-     "H-063",
      "H-016",
+     "H-063",
      "H-076",
      "H-026",
      "H-002",
@@ -1348,10 +1348,10 @@
      "H-089",
      "H-088",
      "H-040",
-     "H-099",
      "H-018",
      "H-060",
      "H-056",
+     "H-099",
      "H-033",
      "H-041",
      "H-090",
@@ -1398,24 +1398,24 @@
     "survivors": [
      "H-050",
      "H-098",
+     "H-074",
      "H-027",
+     "H-086",
      "H-003",
      "H-087",
-     "H-074",
      "H-015",
-     "H-086",
      "H-062",
      "H-039",
      "H-051",
      "H-038",
      "H-058",
      "H-100",
-     "H-075",
      "H-036",
+     "H-075",
      "H-072",
      "H-082",
-     "H-063",
      "H-016",
+     "H-063",
      "H-076",
      "H-026",
      "H-002",
@@ -1456,12 +1456,12 @@
     "survivors": [
      "H-050",
      "H-098",
+     "H-074",
      "H-027",
+     "H-086",
      "H-003",
      "H-087",
-     "H-074",
      "H-015",
-     "H-086",
      "H-062",
      "H-039",
      "H-051",
@@ -1470,12 +1470,12 @@
     "eliminated": [
      "H-058",
      "H-100",
-     "H-075",
      "H-036",
+     "H-075",
      "H-072",
      "H-082",
-     "H-063",
      "H-016",
+     "H-063",
      "H-076",
      "H-026",
      "H-002",
@@ -1489,14 +1489,14 @@
     "survivors": [
      "H-050",
      "H-098",
+     "H-074",
      "H-027",
-     "H-003",
-     "H-087",
-     "H-074"
+     "H-086",
+     "H-003"
     ],
     "eliminated": [
+     "H-087",
      "H-015",
-     "H-086",
      "H-062",
      "H-039",
      "H-051",
@@ -1509,12 +1509,12 @@
     "survivors": [
      "H-050",
      "H-098",
-     "H-027"
+     "H-074"
     ],
     "eliminated": [
-     "H-003",
-     "H-087",
-     "H-074"
+     "H-027",
+     "H-086",
+     "H-003"
     ]
    }
   ],
@@ -1534,10 +1534,10 @@
     "kind": "hunter"
    },
    {
-    "id": "H-027",
-    "name": "Slick Raccoon",
-    "beat": "settlements-new",
-    "score": 3.1434,
+    "id": "H-074",
+    "name": "Wily Hawk",
+    "beat": "settlements-breach",
+    "score": 2.9136,
     "kind": "hunter"
    }
   ],
@@ -1559,50 +1559,50 @@
     "rank": 2
    },
    {
-    "id": "H-027",
-    "name": "Slick Raccoon",
-    "beat": "settlements-new",
-    "score": 3.1434,
-    "kind": "hunter",
-    "rank": 3
-   },
-   {
-    "id": "H-003",
-    "name": "Lucky Mole",
-    "beat": "settlements-new",
-    "score": 3.0142,
-    "kind": "hunter",
-    "rank": 4
-   },
-   {
-    "id": "H-087",
-    "name": "Bold Raccoon",
-    "beat": "settlements-new",
-    "score": 3.0119,
-    "kind": "hunter",
-    "rank": 5
-   },
-   {
     "id": "H-074",
     "name": "Wily Hawk",
     "beat": "settlements-breach",
     "score": 2.9136,
     "kind": "hunter",
-    "rank": 6
+    "rank": 3
    },
    {
-    "id": "H-015",
-    "name": "Dusty Fox",
+    "id": "H-027",
+    "name": "Slick Raccoon",
     "beat": "settlements-new",
-    "score": 2.846,
+    "score": 2.9016,
     "kind": "hunter",
-    "rank": 7
+    "rank": 4
    },
    {
     "id": "H-086",
     "name": "Bold Otter",
     "beat": "settlements-breach",
     "score": 2.8095,
+    "kind": "hunter",
+    "rank": 5
+   },
+   {
+    "id": "H-003",
+    "name": "Lucky Mole",
+    "beat": "settlements-new",
+    "score": 2.7823,
+    "kind": "hunter",
+    "rank": 6
+   },
+   {
+    "id": "H-087",
+    "name": "Bold Raccoon",
+    "beat": "settlements-new",
+    "score": 2.7802,
+    "kind": "hunter",
+    "rank": 7
+   },
+   {
+    "id": "H-015",
+    "name": "Dusty Fox",
+    "beat": "settlements-new",
+    "score": 2.6271,
     "kind": "hunter",
     "rank": 8
    },
@@ -1618,7 +1618,7 @@
     "id": "H-039",
     "name": "Rusty Coyote",
     "beat": "settlements-new",
-    "score": 2.2358,
+    "score": 2.0638,
     "kind": "hunter",
     "rank": 10
    },
@@ -1626,7 +1626,7 @@
     "id": "H-051",
     "name": "Frugal Ferret",
     "beat": "settlements-new",
-    "score": 1.9869,
+    "score": 1.8341,
     "kind": "hunter",
     "rank": 11
    },
@@ -1655,18 +1655,18 @@
     "rank": 14
    },
    {
-    "id": "H-075",
-    "name": "Wily Fox",
-    "beat": "settlements-new",
-    "score": 0.9985,
-    "kind": "hunter",
-    "rank": 15
-   },
-   {
     "id": "H-036",
     "name": "Rusty Otter",
     "beat": "state-programs",
     "score": 0.9484,
+    "kind": "hunter",
+    "rank": 15
+   },
+   {
+    "id": "H-075",
+    "name": "Wily Fox",
+    "beat": "settlements-new",
+    "score": 0.9217,
     "kind": "hunter",
     "rank": 16
    },
@@ -1687,18 +1687,18 @@
     "rank": 18
    },
    {
-    "id": "H-063",
-    "name": "Sharp Mole",
-    "beat": "settlements-new",
-    "score": 0.8853,
-    "kind": "hunter",
-    "rank": 19
-   },
-   {
     "id": "H-016",
     "name": "Dusty Otter",
     "beat": "bank-bonuses",
     "score": 0.8357,
+    "kind": "hunter",
+    "rank": 19
+   },
+   {
+    "id": "H-063",
+    "name": "Sharp Mole",
+    "beat": "settlements-new",
+    "score": 0.8172,
     "kind": "hunter",
     "rank": 20
    },
@@ -2007,20 +2007,12 @@
     "rank": 58
    },
    {
-    "id": "H-099",
-    "name": "Calm Coyote",
-    "beat": "settlements-new",
-    "score": 0.2049,
-    "kind": "hunter",
-    "rank": 59
-   },
-   {
     "id": "H-018",
     "name": "Dusty Beaver",
     "beat": "utility-rebates",
     "score": 0.2048,
     "kind": "hunter",
-    "rank": 60
+    "rank": 59
    },
    {
     "id": "H-060",
@@ -2028,13 +2020,21 @@
     "beat": "state-programs",
     "score": 0.1983,
     "kind": "hunter",
-    "rank": 61
+    "rank": 60
    },
    {
     "id": "H-056",
     "name": "Frugal Otter",
     "beat": "grocery-cashback-apps",
     "score": 0.1934,
+    "kind": "hunter",
+    "rank": 61
+   },
+   {
+    "id": "H-099",
+    "name": "Calm Coyote",
+    "beat": "settlements-new",
+    "score": 0.1891,
     "kind": "hunter",
     "rank": 62
    },
@@ -2351,27 +2351,27 @@
     "round": 1,
     "size": 103,
     "survivors": [
-     "T2-051",
      "T2-074",
+     "T2-002",
+     "T2-038",
+     "T2-051",
+     "T2-050",
+     "T2-098",
      "T2-087",
      "T2-015",
+     "H-050",
      "T2-063",
-     "T2-002",
+     "T2-014",
+     "T2-026",
      "T2-027",
      "T2-075",
      "T2-039",
-     "T2-038",
      "T2-099",
-     "T2-050",
-     "T2-003",
-     "T2-098",
-     "H-050",
-     "T2-014",
-     "T2-026",
      "T2-086",
      "T2-062",
+     "T2-003",
      "H-098",
-     "H-027",
+     "H-074",
      "T2-024",
      "T2-096",
      "T2-036",
@@ -2461,29 +2461,29 @@
     "round": 2,
     "size": 12,
     "survivors": [
-     "T2-051",
      "T2-074",
+     "T2-002",
+     "T2-038",
+     "T2-051",
+     "T2-050",
+     "T2-098",
      "T2-087",
      "T2-015",
+     "H-050",
      "T2-063",
-     "T2-002",
+     "T2-014",
+     "T2-026"
+    ],
+    "eliminated": [
      "T2-027",
      "T2-075",
      "T2-039",
-     "T2-038",
      "T2-099",
-     "T2-050"
-    ],
-    "eliminated": [
-     "T2-003",
-     "T2-098",
-     "H-050",
-     "T2-014",
-     "T2-026",
      "T2-086",
      "T2-062",
+     "T2-003",
      "H-098",
-     "H-027",
+     "H-074",
      "T2-024",
      "T2-096",
      "T2-036",
@@ -2572,32 +2572,25 @@
     "round": 3,
     "size": 3,
     "survivors": [
-     "T2-051",
      "T2-074",
-     "T2-087"
+     "T2-002",
+     "T2-038"
     ],
     "eliminated": [
+     "T2-051",
+     "T2-050",
+     "T2-098",
+     "T2-087",
      "T2-015",
+     "H-050",
      "T2-063",
-     "T2-002",
-     "T2-027",
-     "T2-075",
-     "T2-039",
-     "T2-038",
-     "T2-099",
-     "T2-050"
+     "T2-014",
+     "T2-026"
     ]
    }
   ],
   "champions": [
    {
-    "id": "T2-051",
-    "name": "Apex Frugal Ferret",
-    "beat": "settlements-new",
-    "score": 4.8666,
-    "kind": "elite"
-   },
-   {
     "id": "T2-074",
     "name": "Apex Wily Hawk",
     "beat": "settlements-breach",
@@ -2605,53 +2598,28 @@
     "kind": "elite"
    },
    {
-    "id": "T2-087",
-    "name": "Apex Bold Raccoon",
-    "beat": "settlements-new",
-    "score": 4.7517,
+    "id": "T2-002",
+    "name": "Apex Lucky Badger",
+    "beat": "settlements-breach",
+    "score": 4.6471,
+    "kind": "elite"
+   },
+   {
+    "id": "T2-038",
+    "name": "Apex Rusty Beaver",
+    "beat": "settlements-breach",
+    "score": 4.5199,
     "kind": "elite"
    }
   ],
   "leaderboard": [
    {
-    "id": "T2-051",
-    "name": "Apex Frugal Ferret",
-    "beat": "settlements-new",
-    "score": 4.8666,
-    "kind": "elite",
-    "rank": 1
-   },
-   {
     "id": "T2-074",
     "name": "Apex Wily Hawk",
     "beat": "settlements-breach",
     "score": 4.7845,
     "kind": "elite",
-    "rank": 2
-   },
-   {
-    "id": "T2-087",
-    "name": "Apex Bold Raccoon",
-    "beat": "settlements-new",
-    "score": 4.7517,
-    "kind": "elite",
-    "rank": 3
-   },
-   {
-    "id": "T2-015",
-    "name": "Apex Dusty Fox",
-    "beat": "settlements-new",
-    "score": 4.7458,
-    "kind": "elite",
-    "rank": 4
-   },
-   {
-    "id": "T2-063",
-    "name": "Apex Sharp Mole",
-    "beat": "settlements-new",
-    "score": 4.6577,
-    "kind": "elite",
-    "rank": 5
+    "rank": 1
    },
    {
     "id": "T2-002",
@@ -2659,31 +2627,7 @@
     "beat": "settlements-breach",
     "score": 4.6471,
     "kind": "elite",
-    "rank": 6
-   },
-   {
-    "id": "T2-027",
-    "name": "Apex Slick Raccoon",
-    "beat": "settlements-new",
-    "score": 4.6313,
-    "kind": "elite",
-    "rank": 7
-   },
-   {
-    "id": "T2-075",
-    "name": "Apex Wily Fox",
-    "beat": "settlements-new",
-    "score": 4.5837,
-    "kind": "elite",
-    "rank": 8
-   },
-   {
-    "id": "T2-039",
-    "name": "Apex Rusty Coyote",
-    "beat": "settlements-new",
-    "score": 4.5574,
-    "kind": "elite",
-    "rank": 9
+    "rank": 2
    },
    {
     "id": "T2-038",
@@ -2691,15 +2635,15 @@
     "beat": "settlements-breach",
     "score": 4.5199,
     "kind": "elite",
-    "rank": 10
+    "rank": 3
    },
    {
-    "id": "T2-099",
-    "name": "Apex Calm Coyote",
+    "id": "T2-051",
+    "name": "Apex Frugal Ferret",
     "beat": "settlements-new",
-    "score": 4.5186,
+    "score": 4.4923,
     "kind": "elite",
-    "rank": 11
+    "rank": 4
    },
    {
     "id": "T2-050",
@@ -2707,15 +2651,7 @@
     "beat": "settlements-breach",
     "score": 4.461,
     "kind": "elite",
-    "rank": 12
-   },
-   {
-    "id": "T2-003",
-    "name": "Apex Lucky Mole",
-    "beat": "settlements-new",
-    "score": 4.4205,
-    "kind": "elite",
-    "rank": 13
+    "rank": 5
    },
    {
     "id": "T2-098",
@@ -2723,7 +2659,23 @@
     "beat": "settlements-breach",
     "score": 4.4052,
     "kind": "elite",
-    "rank": 14
+    "rank": 6
+   },
+   {
+    "id": "T2-087",
+    "name": "Apex Bold Raccoon",
+    "beat": "settlements-new",
+    "score": 4.3862,
+    "kind": "elite",
+    "rank": 7
+   },
+   {
+    "id": "T2-015",
+    "name": "Apex Dusty Fox",
+    "beat": "settlements-new",
+    "score": 4.3807,
+    "kind": "elite",
+    "rank": 8
    },
    {
     "id": "H-050",
@@ -2731,7 +2683,15 @@
     "beat": "settlements-breach",
     "score": 4.3068,
     "kind": "seed",
-    "rank": 15
+    "rank": 9
+   },
+   {
+    "id": "T2-063",
+    "name": "Apex Sharp Mole",
+    "beat": "settlements-new",
+    "score": 4.2994,
+    "kind": "elite",
+    "rank": 10
    },
    {
     "id": "T2-014",
@@ -2739,7 +2699,7 @@
     "beat": "settlements-breach",
     "score": 4.2966,
     "kind": "elite",
-    "rank": 16
+    "rank": 11
    },
    {
     "id": "T2-026",
@@ -2747,7 +2707,39 @@
     "beat": "settlements-breach",
     "score": 4.2907,
     "kind": "elite",
-    "rank": 17
+    "rank": 12
+   },
+   {
+    "id": "T2-027",
+    "name": "Apex Slick Raccoon",
+    "beat": "settlements-new",
+    "score": 4.2751,
+    "kind": "elite",
+    "rank": 13
+   },
+   {
+    "id": "T2-075",
+    "name": "Apex Wily Fox",
+    "beat": "settlements-new",
+    "score": 4.2311,
+    "kind": "elite",
+    "rank": 14
+   },
+   {
+    "id": "T2-039",
+    "name": "Apex Rusty Coyote",
+    "beat": "settlements-new",
+    "score": 4.2068,
+    "kind": "elite",
+    "rank": 15
+   },
+   {
+    "id": "T2-099",
+    "name": "Apex Calm Coyote",
+    "beat": "settlements-new",
+    "score": 4.171,
+    "kind": "elite",
+    "rank": 16
    },
    {
     "id": "T2-086",
@@ -2755,13 +2747,21 @@
     "beat": "settlements-breach",
     "score": 4.1424,
     "kind": "elite",
-    "rank": 18
+    "rank": 17
    },
    {
     "id": "T2-062",
     "name": "Apex Sharp Badger",
     "beat": "settlements-breach",
     "score": 4.1251,
+    "kind": "elite",
+    "rank": 18
+   },
+   {
+    "id": "T2-003",
+    "name": "Apex Lucky Mole",
+    "beat": "settlements-new",
+    "score": 4.0805,
     "kind": "elite",
     "rank": 19
    },
@@ -2774,10 +2774,10 @@
     "rank": 20
    },
    {
-    "id": "H-027",
-    "name": "Slick Raccoon",
-    "beat": "settlements-new",
-    "score": 3.1434,
+    "id": "H-074",
+    "name": "Wily Hawk",
+    "beat": "settlements-breach",
+    "score": 2.9136,
     "kind": "seed",
     "rank": 21
    },
@@ -3447,26 +3447,26 @@
     "size": 103,
     "survivors": [
      "T3-014",
-     "T3-051",
-     "T3-075",
-     "T2-051",
      "T2-074",
-     "T2-087",
-     "T3-015",
-     "T3-063",
+     "T2-002",
+     "T3-051",
      "T3-026",
      "T3-074",
-     "T3-027",
-     "T3-039",
+     "T3-075",
+     "T2-038",
      "T3-038",
      "T3-086",
      "T3-002",
      "T3-098",
      "T3-062",
+     "T3-015",
+     "T3-063",
+     "T3-027",
+     "T3-039",
+     "T3-050",
      "T3-003",
      "T3-099",
      "T3-087",
-     "T3-050",
      "T3-034",
      "T3-084",
      "T3-096",
@@ -3557,28 +3557,28 @@
     "size": 12,
     "survivors": [
      "T3-014",
-     "T3-051",
-     "T3-075",
-     "T2-051",
      "T2-074",
-     "T2-087",
-     "T3-015",
-     "T3-063",
+     "T2-002",
+     "T3-051",
      "T3-026",
      "T3-074",
-     "T3-027",
-     "T3-039"
-    ],
-    "eliminated": [
+     "T3-075",
+     "T2-038",
      "T3-038",
      "T3-086",
      "T3-002",
-     "T3-098",
+     "T3-098"
+    ],
+    "eliminated": [
      "T3-062",
+     "T3-015",
+     "T3-063",
+     "T3-027",
+     "T3-039",
+     "T3-050",
      "T3-003",
      "T3-099",
      "T3-087",
-     "T3-050",
      "T3-034",
      "T3-084",
      "T3-096",
@@ -3668,19 +3668,19 @@
     "size": 3,
     "survivors": [
      "T3-014",
-     "T3-051",
-     "T3-075"
+     "T2-074",
+     "T2-002"
     ],
     "eliminated": [
-     "T2-051",
-     "T2-074",
-     "T2-087",
-     "T3-015",
-     "T3-063",
+     "T3-051",
      "T3-026",
      "T3-074",
-     "T3-027",
-     "T3-039"
+     "T3-075",
+     "T2-038",
+     "T3-038",
+     "T3-086",
+     "T3-002",
+     "T3-098"
     ]
    }
   ],
@@ -3693,18 +3693,18 @@
     "kind": "elite"
    },
    {
-    "id": "T3-051",
-    "name": "Prime Frugal Ferret",
-    "beat": "settlements-new",
-    "score": 4.9971,
-    "kind": "elite"
+    "id": "T2-074",
+    "name": "Apex Wily Hawk",
+    "beat": "settlements-breach",
+    "score": 4.7845,
+    "kind": "seed"
    },
    {
-    "id": "T3-075",
-    "name": "Prime Wily Fox",
-    "beat": "settlements-new",
-    "score": 4.9072,
-    "kind": "elite"
+    "id": "T2-002",
+    "name": "Apex Lucky Badger",
+    "beat": "settlements-breach",
+    "score": 4.6471,
+    "kind": "seed"
    }
   ],
   "leaderboard": [
@@ -3717,60 +3717,28 @@
     "rank": 1
    },
    {
-    "id": "T3-051",
-    "name": "Prime Frugal Ferret",
-    "beat": "settlements-new",
-    "score": 4.9971,
-    "kind": "elite",
-    "rank": 2
-   },
-   {
-    "id": "T3-075",
-    "name": "Prime Wily Fox",
-    "beat": "settlements-new",
-    "score": 4.9072,
-    "kind": "elite",
-    "rank": 3
-   },
-   {
-    "id": "T2-051",
-    "name": "Apex Frugal Ferret",
-    "beat": "settlements-new",
-    "score": 4.8666,
-    "kind": "seed",
-    "rank": 4
-   },
-   {
     "id": "T2-074",
     "name": "Apex Wily Hawk",
     "beat": "settlements-breach",
     "score": 4.7845,
     "kind": "seed",
-    "rank": 5
+    "rank": 2
    },
    {
-    "id": "T2-087",
-    "name": "Apex Bold Raccoon",
-    "beat": "settlements-new",
-    "score": 4.7517,
+    "id": "T2-002",
+    "name": "Apex Lucky Badger",
+    "beat": "settlements-breach",
+    "score": 4.6471,
     "kind": "seed",
-    "rank": 6
+    "rank": 3
    },
    {
-    "id": "T3-015",
-    "name": "Prime Dusty Fox",
+    "id": "T3-051",
+    "name": "Prime Frugal Ferret",
     "beat": "settlements-new",
-    "score": 4.6209,
+    "score": 4.6127,
     "kind": "elite",
-    "rank": 7
-   },
-   {
-    "id": "T3-063",
-    "name": "Prime Sharp Mole",
-    "beat": "settlements-new",
-    "score": 4.5915,
-    "kind": "elite",
-    "rank": 8
+    "rank": 4
    },
    {
     "id": "T3-026",
@@ -3778,7 +3746,7 @@
     "beat": "settlements-breach",
     "score": 4.5445,
     "kind": "elite",
-    "rank": 9
+    "rank": 5
    },
    {
     "id": "T3-074",
@@ -3786,23 +3754,23 @@
     "beat": "settlements-breach",
     "score": 4.5355,
     "kind": "elite",
-    "rank": 10
+    "rank": 6
    },
    {
-    "id": "T3-027",
-    "name": "Prime Slick Raccoon",
+    "id": "T3-075",
+    "name": "Prime Wily Fox",
     "beat": "settlements-new",
-    "score": 4.5234,
+    "score": 4.5297,
     "kind": "elite",
-    "rank": 11
+    "rank": 7
    },
    {
-    "id": "T3-039",
-    "name": "Prime Rusty Coyote",
-    "beat": "settlements-new",
-    "score": 4.4915,
-    "kind": "elite",
-    "rank": 12
+    "id": "T2-038",
+    "name": "Apex Rusty Beaver",
+    "beat": "settlements-breach",
+    "score": 4.5199,
+    "kind": "seed",
+    "rank": 8
    },
    {
     "id": "T3-038",
@@ -3810,7 +3778,7 @@
     "beat": "settlements-breach",
     "score": 4.458,
     "kind": "elite",
-    "rank": 13
+    "rank": 9
    },
    {
     "id": "T3-086",
@@ -3818,7 +3786,7 @@
     "beat": "settlements-breach",
     "score": 4.4428,
     "kind": "elite",
-    "rank": 14
+    "rank": 10
    },
    {
     "id": "T3-002",
@@ -3826,7 +3794,7 @@
     "beat": "settlements-breach",
     "score": 4.4145,
     "kind": "elite",
-    "rank": 15
+    "rank": 11
    },
    {
     "id": "T3-098",
@@ -3834,7 +3802,7 @@
     "beat": "settlements-breach",
     "score": 4.3532,
     "kind": "elite",
-    "rank": 16
+    "rank": 12
    },
    {
     "id": "T3-062",
@@ -3842,37 +3810,69 @@
     "beat": "settlements-breach",
     "score": 4.2749,
     "kind": "elite",
+    "rank": 13
+   },
+   {
+    "id": "T3-015",
+    "name": "Prime Dusty Fox",
+    "beat": "settlements-new",
+    "score": 4.2654,
+    "kind": "elite",
+    "rank": 14
+   },
+   {
+    "id": "T3-063",
+    "name": "Prime Sharp Mole",
+    "beat": "settlements-new",
+    "score": 4.2383,
+    "kind": "elite",
+    "rank": 15
+   },
+   {
+    "id": "T3-027",
+    "name": "Prime Slick Raccoon",
+    "beat": "settlements-new",
+    "score": 4.1755,
+    "kind": "elite",
+    "rank": 16
+   },
+   {
+    "id": "T3-039",
+    "name": "Prime Rusty Coyote",
+    "beat": "settlements-new",
+    "score": 4.146,
+    "kind": "elite",
     "rank": 17
-   },
-   {
-    "id": "T3-003",
-    "name": "Prime Lucky Mole",
-    "beat": "settlements-new",
-    "score": 4.2708,
-    "kind": "elite",
-    "rank": 18
-   },
-   {
-    "id": "T3-099",
-    "name": "Prime Calm Coyote",
-    "beat": "settlements-new",
-    "score": 4.2288,
-    "kind": "elite",
-    "rank": 19
-   },
-   {
-    "id": "T3-087",
-    "name": "Prime Bold Raccoon",
-    "beat": "settlements-new",
-    "score": 4.2016,
-    "kind": "elite",
-    "rank": 20
    },
    {
     "id": "T3-050",
     "name": "Prime Peppy Marmot",
     "beat": "settlements-breach",
     "score": 4.0723,
+    "kind": "elite",
+    "rank": 18
+   },
+   {
+    "id": "T3-003",
+    "name": "Prime Lucky Mole",
+    "beat": "settlements-new",
+    "score": 3.9422,
+    "kind": "elite",
+    "rank": 19
+   },
+   {
+    "id": "T3-099",
+    "name": "Prime Calm Coyote",
+    "beat": "settlements-new",
+    "score": 3.9035,
+    "kind": "elite",
+    "rank": 20
+   },
+   {
+    "id": "T3-087",
+    "name": "Prime Bold Raccoon",
+    "beat": "settlements-new",
+    "score": 3.8784,
     "kind": "elite",
     "rank": 21
    },
