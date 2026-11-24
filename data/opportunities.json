@@ -1077,7 +1077,8 @@
    "title": "Vasindas' Around the Clock Care data breach settlement",
    "value_desc": "Up to $2,500 documented losses or $70 alternate cash; 2yr CyEx Medical Shield Complete",
    "verification": "secondary",
-   "verified": "2026-10-13"
+   "verified": "2026-10-13",
+   "status": "expired"
   },
   {
    "id": "seatgeek-nevada-2026",
@@ -1512,7 +1513,8 @@
    "title": "La Jolla Group data breach settlement",
    "value_desc": "$45 flat cash ($95 CA subclass) or up to $2,000 documented losses incl. $100 lost time; 2-yr one-bureau monitoring + $1M insurance; $50K documented-tier cap",
    "verification": "secondary",
-   "verified": "2026-10-18"
+   "verified": "2026-10-18",
+   "status": "expired"
   },
   {
    "beat": "settlements-breach",
@@ -1619,7 +1621,8 @@
    "proof_required": "notice-id",
    "verified": "2026-10-19",
    "verification": "primary",
-   "source_note": "Verified 2026-10-19 via official settlement site mullinaxcardealershipsettlement.com (Angeion admin; Marino, et al. v. Mullinax Ford of Central Florida Inc., No. 2026-CA-004289-O, Orange County FL) + court-approved Claim Form + dapeer.com + settlementwell.com; final approval hearing Dec 8, 2026; court-approved paper Claim Form requires Notice ID (no 'if known' bypass); no fixed fund \u2014 Mullinax pays approved claims directly"
+   "source_note": "Verified 2026-10-19 via official settlement site mullinaxcardealershipsettlement.com (Angeion admin; Marino, et al. v. Mullinax Ford of Central Florida Inc., No. 2026-CA-004289-O, Orange County FL) + court-approved Claim Form + dapeer.com + settlementwell.com; final approval hearing Dec 8, 2026; court-approved paper Claim Form requires Notice ID (no 'if known' bypass); no fixed fund \u2014 Mullinax pays approved claims directly",
+   "status": "expired"
   },
   {
    "beat": "settlements-new",
