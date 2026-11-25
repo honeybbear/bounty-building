@@ -2239,7 +2239,8 @@
    "title": "City of Overland $80 special deterrent fee settlement",
    "value_desc": "$80 flat per valid claim (paid by check; not pro rata)",
    "verification": "primary",
-   "verified": "2026-10-27"
+   "verified": "2026-10-27",
+   "status": "expired"
   },
   {
    "beat": "settlements-new",
