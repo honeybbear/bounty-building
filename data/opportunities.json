@@ -1450,7 +1450,8 @@
    "title": "Everbridge $85M securities settlement",
    "value_desc": "Est. ~$1.65/share avg after fees (~$2.32 before deductions), pro-rata per court-approved plan of allocation; min $10 payout",
    "verification": "secondary",
-   "verified": "2026-10-16"
+   "verified": "2026-10-16",
+   "status": "expired"
   },
   {
    "beat": "settlements-breach",
